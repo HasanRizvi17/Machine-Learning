@@ -1,0 +1,2976 @@
+transaction_id,item_id,order_timestamp,category,is_returned
+1,bread,03/01/2024 7:11,Bakery,TRUE
+1,chicken,03/01/2024 7:11,Meat & Seafood,FALSE
+1,banana,03/01/2024 7:11,Fruits & Vegetables,FALSE
+2,coke,31/01/2024 2:05,Beverages,FALSE
+2,butter,31/01/2024 2:05,Dairy & Alternatives,FALSE
+2,cheese,31/01/2024 2:05,Dairy & Alternatives,FALSE
+2,banana,31/01/2024 2:05,Fruits & Vegetables,FALSE
+2,chicken,31/01/2024 2:05,Meat & Seafood,FALSE
+3,beef,26/01/2024 6:19,Meat & Seafood,FALSE
+3,butter,26/01/2024 6:19,Dairy & Alternatives,FALSE
+3,milk,26/01/2024 6:19,Dairy & Alternatives,FALSE
+3,paper towels,26/01/2024 6:19,Household Supplies,FALSE
+3,soap,26/01/2024 6:19,Personal Care,FALSE
+4,shampoo,19/01/2024 5:26,Personal Care,FALSE
+4,rice,19/01/2024 5:26,Pantry Staples,FALSE
+5,yogurt,25/01/2024 21:52,Dairy & Alternatives,FALSE
+5,bread,25/01/2024 21:52,Bakery,FALSE
+5,milk,25/01/2024 21:52,Dairy & Alternatives,FALSE
+6,bread,25/01/2024 8:16,Bakery,FALSE
+7,cereal,19/01/2024 3:59,Breakfast & Grains,FALSE
+7,pasta,19/01/2024 3:59,Pantry Staples,FALSE
+8,shampoo,23/01/2024 7:59,Personal Care,FALSE
+8,milk,23/01/2024 7:59,Dairy & Alternatives,FALSE
+9,cereal,24/01/2024 18:39,Breakfast & Grains,FALSE
+9,eggs,24/01/2024 18:39,Dairy & Alternatives,FALSE
+9,rice,24/01/2024 18:39,Pantry Staples,FALSE
+10,bread,04/01/2024 5:58,Bakery,FALSE
+11,cereal,12/01/2024 3:12,Breakfast & Grains,FALSE
+11,eggs,12/01/2024 3:12,Dairy & Alternatives,FALSE
+11,detergent,12/01/2024 3:12,Household Supplies,FALSE
+11,bread,12/01/2024 3:12,Bakery,FALSE
+11,beef,12/01/2024 3:12,Meat & Seafood,FALSE
+12,shampoo,09/01/2024 9:07,Personal Care,FALSE
+12,eggs,09/01/2024 9:07,Dairy & Alternatives,TRUE
+12,yogurt,09/01/2024 9:07,Dairy & Alternatives,FALSE
+12,cereal,09/01/2024 9:07,Breakfast & Grains,FALSE
+13,chicken,27/01/2024 14:45,Meat & Seafood,FALSE
+13,beef,27/01/2024 14:45,Meat & Seafood,FALSE
+13,yogurt,27/01/2024 14:45,Dairy & Alternatives,FALSE
+14,beef,26/01/2024 15:35,Meat & Seafood,FALSE
+15,cereal,07/01/2024 22:49,Breakfast & Grains,FALSE
+15,chicken,07/01/2024 22:49,Meat & Seafood,FALSE
+15,beef,07/01/2024 22:49,Meat & Seafood,FALSE
+15,apple,07/01/2024 22:49,Fruits & Vegetables,FALSE
+15,shampoo,07/01/2024 22:49,Personal Care,FALSE
+16,detergent,01/01/2024 9:59,Household Supplies,FALSE
+16,eggs,01/01/2024 9:59,Dairy & Alternatives,FALSE
+16,butter,01/01/2024 9:59,Dairy & Alternatives,FALSE
+17,coke,23/01/2024 11:04,Beverages,FALSE
+17,apple,23/01/2024 11:04,Fruits & Vegetables,FALSE
+17,bread,23/01/2024 11:04,Bakery,FALSE
+18,yogurt,04/01/2024 22:00,Dairy & Alternatives,FALSE
+19,rice,10/01/2024 5:37,Pantry Staples,FALSE
+19,cereal,10/01/2024 5:37,Breakfast & Grains,FALSE
+19,banana,10/01/2024 5:37,Fruits & Vegetables,FALSE
+19,apple,10/01/2024 5:37,Fruits & Vegetables,FALSE
+19,pasta,10/01/2024 5:37,Pantry Staples,FALSE
+20,cheese,20/01/2024 15:30,Dairy & Alternatives,FALSE
+20,banana,20/01/2024 15:30,Fruits & Vegetables,FALSE
+20,coke,20/01/2024 15:30,Beverages,FALSE
+20,apple,20/01/2024 15:30,Fruits & Vegetables,FALSE
+21,bread,14/01/2024 9:41,Bakery,FALSE
+22,soap,25/01/2024 13:39,Personal Care,FALSE
+22,apple,25/01/2024 13:39,Fruits & Vegetables,FALSE
+22,detergent,25/01/2024 13:39,Household Supplies,FALSE
+22,butter,25/01/2024 13:39,Dairy & Alternatives,FALSE
+22,shampoo,25/01/2024 13:39,Personal Care,FALSE
+23,yogurt,13/01/2024 22:50,Dairy & Alternatives,FALSE
+23,paper towels,13/01/2024 22:50,Household Supplies,FALSE
+23,pasta,13/01/2024 22:50,Pantry Staples,FALSE
+24,pasta,04/01/2024 12:41,Pantry Staples,FALSE
+25,detergent,14/01/2024 20:55,Household Supplies,FALSE
+25,paper towels,14/01/2024 20:55,Household Supplies,FALSE
+26,bread,06/01/2024 10:01,Bakery,FALSE
+26,detergent,06/01/2024 10:01,Household Supplies,FALSE
+27,detergent,22/01/2024 20:27,Household Supplies,FALSE
+27,soap,22/01/2024 20:27,Personal Care,FALSE
+28,bread,28/01/2024 4:16,Bakery,FALSE
+29,apple,02/01/2024 5:22,Fruits & Vegetables,FALSE
+29,chicken,02/01/2024 5:22,Meat & Seafood,FALSE
+29,rice,02/01/2024 5:22,Pantry Staples,FALSE
+29,milk,02/01/2024 5:22,Dairy & Alternatives,FALSE
+30,eggs,27/01/2024 15:23,Dairy & Alternatives,FALSE
+30,rice,27/01/2024 15:23,Pantry Staples,FALSE
+30,beef,27/01/2024 15:23,Meat & Seafood,FALSE
+31,apple,02/01/2024 13:17,Fruits & Vegetables,FALSE
+32,cereal,20/01/2024 6:34,Breakfast & Grains,FALSE
+32,paper towels,20/01/2024 6:34,Household Supplies,FALSE
+33,pasta,20/01/2024 12:26,Pantry Staples,FALSE
+33,milk,20/01/2024 12:26,Dairy & Alternatives,FALSE
+33,soap,20/01/2024 12:26,Personal Care,FALSE
+34,butter,29/01/2024 1:01,Dairy & Alternatives,FALSE
+34,detergent,29/01/2024 1:01,Household Supplies,FALSE
+35,paper towels,18/01/2024 5:18,Household Supplies,FALSE
+35,detergent,18/01/2024 5:18,Household Supplies,FALSE
+35,milk,18/01/2024 5:18,Dairy & Alternatives,FALSE
+35,yogurt,18/01/2024 5:18,Dairy & Alternatives,FALSE
+36,paper towels,08/01/2024 2:47,Household Supplies,FALSE
+36,bread,08/01/2024 2:47,Bakery,FALSE
+37,apple,15/01/2024 12:30,Fruits & Vegetables,FALSE
+37,cereal,15/01/2024 12:30,Breakfast & Grains,FALSE
+37,detergent,15/01/2024 12:30,Household Supplies,FALSE
+37,pasta,15/01/2024 12:30,Pantry Staples,FALSE
+38,beef,08/01/2024 8:38,Meat & Seafood,FALSE
+38,butter,08/01/2024 8:38,Dairy & Alternatives,FALSE
+38,paper towels,08/01/2024 8:38,Household Supplies,FALSE
+38,soap,08/01/2024 8:38,Personal Care,FALSE
+39,coke,12/01/2024 7:57,Beverages,FALSE
+39,milk,12/01/2024 7:57,Dairy & Alternatives,FALSE
+39,apple,12/01/2024 7:57,Fruits & Vegetables,TRUE
+40,bread,13/01/2024 16:39,Bakery,FALSE
+40,yogurt,13/01/2024 16:39,Dairy & Alternatives,FALSE
+41,butter,13/01/2024 21:15,Dairy & Alternatives,FALSE
+41,beef,13/01/2024 21:15,Meat & Seafood,FALSE
+41,milk,13/01/2024 21:15,Dairy & Alternatives,FALSE
+41,chicken,13/01/2024 21:15,Meat & Seafood,FALSE
+42,bread,17/01/2024 16:38,Bakery,FALSE
+42,yogurt,17/01/2024 16:38,Dairy & Alternatives,FALSE
+42,butter,17/01/2024 16:38,Dairy & Alternatives,FALSE
+42,paper towels,17/01/2024 16:38,Household Supplies,FALSE
+43,bread,25/01/2024 17:21,Bakery,FALSE
+43,eggs,25/01/2024 17:21,Dairy & Alternatives,FALSE
+44,cheese,23/01/2024 8:59,Dairy & Alternatives,FALSE
+44,pepsi,23/01/2024 8:59,Beverages,FALSE
+44,milk,23/01/2024 8:59,Dairy & Alternatives,FALSE
+44,coke,23/01/2024 8:59,Beverages,FALSE
+44,apple,23/01/2024 8:59,Fruits & Vegetables,TRUE
+45,paper towels,03/01/2024 21:39,Household Supplies,FALSE
+45,soap,03/01/2024 21:39,Personal Care,FALSE
+45,yogurt,03/01/2024 21:39,Dairy & Alternatives,FALSE
+45,cereal,03/01/2024 21:39,Breakfast & Grains,FALSE
+45,butter,03/01/2024 21:39,Dairy & Alternatives,FALSE
+46,butter,05/01/2024 17:08,Dairy & Alternatives,FALSE
+46,paper towels,05/01/2024 17:08,Household Supplies,FALSE
+46,banana,05/01/2024 17:08,Fruits & Vegetables,FALSE
+46,cereal,05/01/2024 17:08,Breakfast & Grains,FALSE
+46,shampoo,05/01/2024 17:08,Personal Care,FALSE
+47,yogurt,25/01/2024 9:21,Dairy & Alternatives,FALSE
+48,eggs,19/01/2024 12:45,Dairy & Alternatives,FALSE
+48,cheese,19/01/2024 12:45,Dairy & Alternatives,FALSE
+48,chicken,19/01/2024 12:45,Meat & Seafood,FALSE
+48,beef,19/01/2024 12:45,Meat & Seafood,FALSE
+49,eggs,21/01/2024 5:12,Dairy & Alternatives,FALSE
+49,yogurt,21/01/2024 5:12,Dairy & Alternatives,FALSE
+50,apple,20/01/2024 18:55,Fruits & Vegetables,FALSE
+50,yogurt,20/01/2024 18:55,Dairy & Alternatives,FALSE
+50,coke,20/01/2024 18:55,Beverages,FALSE
+50,cheese,20/01/2024 18:55,Dairy & Alternatives,FALSE
+50,pepsi,20/01/2024 18:55,Beverages,FALSE
+51,pepsi,29/01/2024 3:47,Beverages,FALSE
+51,eggs,29/01/2024 3:47,Dairy & Alternatives,FALSE
+51,yogurt,29/01/2024 3:47,Dairy & Alternatives,FALSE
+51,beef,29/01/2024 3:47,Meat & Seafood,TRUE
+51,banana,29/01/2024 3:47,Fruits & Vegetables,FALSE
+52,cereal,19/01/2024 15:47,Breakfast & Grains,FALSE
+52,paper towels,19/01/2024 15:47,Household Supplies,FALSE
+52,beef,19/01/2024 15:47,Meat & Seafood,FALSE
+53,banana,25/01/2024 20:10,Fruits & Vegetables,FALSE
+54,cheese,09/01/2024 2:37,Dairy & Alternatives,FALSE
+54,rice,09/01/2024 2:37,Pantry Staples,FALSE
+54,beef,09/01/2024 2:37,Meat & Seafood,FALSE
+54,pepsi,09/01/2024 2:37,Beverages,FALSE
+55,paper towels,16/01/2024 10:52,Household Supplies,FALSE
+56,detergent,06/01/2024 22:15,Household Supplies,FALSE
+56,paper towels,06/01/2024 22:15,Household Supplies,FALSE
+57,chicken,10/01/2024 1:54,Meat & Seafood,FALSE
+57,bread,10/01/2024 1:54,Bakery,FALSE
+58,pepsi,15/01/2024 12:31,Beverages,FALSE
+58,bread,15/01/2024 12:31,Bakery,FALSE
+59,paper towels,07/01/2024 23:55,Household Supplies,FALSE
+60,pepsi,23/01/2024 1:00,Beverages,FALSE
+60,yogurt,23/01/2024 1:00,Dairy & Alternatives,FALSE
+60,milk,23/01/2024 1:00,Dairy & Alternatives,FALSE
+60,cheese,23/01/2024 1:00,Dairy & Alternatives,FALSE
+60,cereal,23/01/2024 1:00,Breakfast & Grains,FALSE
+61,shampoo,23/01/2024 9:45,Personal Care,FALSE
+61,chicken,23/01/2024 9:45,Meat & Seafood,FALSE
+61,coke,23/01/2024 9:45,Beverages,FALSE
+61,beef,23/01/2024 9:45,Meat & Seafood,FALSE
+62,pasta,07/01/2024 2:31,Pantry Staples,FALSE
+62,paper towels,07/01/2024 2:31,Household Supplies,FALSE
+62,rice,07/01/2024 2:31,Pantry Staples,FALSE
+62,milk,07/01/2024 2:31,Dairy & Alternatives,FALSE
+63,pasta,31/01/2024 18:22,Pantry Staples,FALSE
+63,detergent,31/01/2024 18:22,Household Supplies,FALSE
+63,apple,31/01/2024 18:22,Fruits & Vegetables,FALSE
+64,yogurt,23/01/2024 8:25,Dairy & Alternatives,FALSE
+65,yogurt,13/01/2024 23:15,Dairy & Alternatives,FALSE
+65,detergent,13/01/2024 23:15,Household Supplies,FALSE
+65,cereal,13/01/2024 23:15,Breakfast & Grains,FALSE
+66,milk,31/01/2024 22:50,Dairy & Alternatives,FALSE
+67,cheese,26/01/2024 7:08,Dairy & Alternatives,FALSE
+68,eggs,29/01/2024 23:44,Dairy & Alternatives,FALSE
+68,chicken,29/01/2024 23:44,Meat & Seafood,FALSE
+68,apple,29/01/2024 23:44,Fruits & Vegetables,FALSE
+68,banana,29/01/2024 23:44,Fruits & Vegetables,FALSE
+69,detergent,19/01/2024 8:06,Household Supplies,FALSE
+69,eggs,19/01/2024 8:06,Dairy & Alternatives,FALSE
+69,apple,19/01/2024 8:06,Fruits & Vegetables,FALSE
+69,rice,19/01/2024 8:06,Pantry Staples,FALSE
+70,soap,06/01/2024 2:19,Personal Care,FALSE
+70,pasta,06/01/2024 2:19,Pantry Staples,FALSE
+71,chicken,20/01/2024 19:32,Meat & Seafood,FALSE
+71,detergent,20/01/2024 19:32,Household Supplies,FALSE
+71,beef,20/01/2024 19:32,Meat & Seafood,FALSE
+71,rice,20/01/2024 19:32,Pantry Staples,FALSE
+72,rice,15/01/2024 10:00,Pantry Staples,FALSE
+73,cereal,19/01/2024 20:58,Breakfast & Grains,FALSE
+73,paper towels,19/01/2024 20:58,Household Supplies,FALSE
+73,cheese,19/01/2024 20:58,Dairy & Alternatives,FALSE
+73,banana,19/01/2024 20:58,Fruits & Vegetables,FALSE
+73,chicken,19/01/2024 20:58,Meat & Seafood,FALSE
+74,cheese,12/01/2024 1:04,Dairy & Alternatives,FALSE
+74,soap,12/01/2024 1:04,Personal Care,FALSE
+74,beef,12/01/2024 1:04,Meat & Seafood,FALSE
+74,chicken,12/01/2024 1:04,Meat & Seafood,FALSE
+75,cheese,13/01/2024 16:52,Dairy & Alternatives,FALSE
+75,pepsi,13/01/2024 16:52,Beverages,FALSE
+75,chicken,13/01/2024 16:52,Meat & Seafood,FALSE
+75,bread,13/01/2024 16:52,Bakery,FALSE
+76,rice,01/01/2024 12:10,Pantry Staples,FALSE
+76,soap,01/01/2024 12:10,Personal Care,FALSE
+76,pasta,01/01/2024 12:10,Pantry Staples,FALSE
+77,rice,09/01/2024 13:25,Pantry Staples,FALSE
+77,pepsi,09/01/2024 13:25,Beverages,FALSE
+77,apple,09/01/2024 13:25,Fruits & Vegetables,FALSE
+78,beef,09/01/2024 22:44,Meat & Seafood,FALSE
+78,rice,09/01/2024 22:44,Pantry Staples,FALSE
+78,yogurt,09/01/2024 22:44,Dairy & Alternatives,FALSE
+78,chicken,09/01/2024 22:44,Meat & Seafood,FALSE
+78,detergent,09/01/2024 22:44,Household Supplies,FALSE
+79,rice,07/01/2024 11:30,Pantry Staples,FALSE
+80,pasta,12/01/2024 18:59,Pantry Staples,FALSE
+80,bread,12/01/2024 18:59,Bakery,FALSE
+80,yogurt,12/01/2024 18:59,Dairy & Alternatives,FALSE
+80,beef,12/01/2024 18:59,Meat & Seafood,FALSE
+81,beef,05/01/2024 19:43,Meat & Seafood,FALSE
+81,detergent,05/01/2024 19:43,Household Supplies,FALSE
+81,chicken,05/01/2024 19:43,Meat & Seafood,FALSE
+82,chicken,30/01/2024 18:15,Meat & Seafood,FALSE
+83,pepsi,06/01/2024 17:16,Beverages,FALSE
+83,banana,06/01/2024 17:16,Fruits & Vegetables,FALSE
+83,rice,06/01/2024 17:16,Pantry Staples,FALSE
+83,cereal,06/01/2024 17:16,Breakfast & Grains,FALSE
+84,cereal,25/01/2024 17:20,Breakfast & Grains,FALSE
+84,yogurt,25/01/2024 17:20,Dairy & Alternatives,FALSE
+84,detergent,25/01/2024 17:20,Household Supplies,FALSE
+85,apple,25/01/2024 2:42,Fruits & Vegetables,FALSE
+86,paper towels,06/01/2024 4:07,Household Supplies,FALSE
+86,bread,06/01/2024 4:07,Bakery,TRUE
+86,chicken,06/01/2024 4:07,Meat & Seafood,FALSE
+86,rice,06/01/2024 4:07,Pantry Staples,FALSE
+86,yogurt,06/01/2024 4:07,Dairy & Alternatives,FALSE
+87,butter,27/01/2024 22:05,Dairy & Alternatives,FALSE
+87,milk,27/01/2024 22:05,Dairy & Alternatives,FALSE
+87,coke,27/01/2024 22:05,Beverages,FALSE
+88,pepsi,20/01/2024 5:24,Beverages,FALSE
+88,coke,20/01/2024 5:24,Beverages,FALSE
+88,paper towels,20/01/2024 5:24,Household Supplies,FALSE
+88,rice,20/01/2024 5:24,Pantry Staples,FALSE
+88,soap,20/01/2024 5:24,Personal Care,FALSE
+89,bread,08/01/2024 7:34,Bakery,FALSE
+89,paper towels,08/01/2024 7:34,Household Supplies,FALSE
+89,banana,08/01/2024 7:34,Fruits & Vegetables,FALSE
+89,pepsi,08/01/2024 7:34,Beverages,FALSE
+89,yogurt,08/01/2024 7:34,Dairy & Alternatives,FALSE
+90,butter,25/01/2024 22:02,Dairy & Alternatives,FALSE
+91,pasta,23/01/2024 16:38,Pantry Staples,FALSE
+91,butter,23/01/2024 16:38,Dairy & Alternatives,FALSE
+91,coke,23/01/2024 16:38,Beverages,TRUE
+91,beef,23/01/2024 16:38,Meat & Seafood,FALSE
+92,pepsi,16/01/2024 15:12,Beverages,FALSE
+92,banana,16/01/2024 15:12,Fruits & Vegetables,FALSE
+92,cereal,16/01/2024 15:12,Breakfast & Grains,FALSE
+93,pasta,19/01/2024 11:35,Pantry Staples,FALSE
+93,shampoo,19/01/2024 11:35,Personal Care,FALSE
+93,cheese,19/01/2024 11:35,Dairy & Alternatives,FALSE
+93,milk,19/01/2024 11:35,Dairy & Alternatives,FALSE
+94,bread,07/01/2024 20:11,Bakery,FALSE
+94,cheese,07/01/2024 20:11,Dairy & Alternatives,FALSE
+94,coke,07/01/2024 20:11,Beverages,FALSE
+95,butter,02/01/2024 10:58,Dairy & Alternatives,FALSE
+96,yogurt,03/01/2024 1:39,Dairy & Alternatives,FALSE
+96,banana,03/01/2024 1:39,Fruits & Vegetables,FALSE
+96,cheese,03/01/2024 1:39,Dairy & Alternatives,FALSE
+97,beef,01/01/2024 14:33,Meat & Seafood,FALSE
+97,butter,01/01/2024 14:33,Dairy & Alternatives,FALSE
+97,apple,01/01/2024 14:33,Fruits & Vegetables,FALSE
+97,shampoo,01/01/2024 14:33,Personal Care,FALSE
+97,cheese,01/01/2024 14:33,Dairy & Alternatives,FALSE
+98,soap,24/01/2024 14:33,Personal Care,FALSE
+98,paper towels,24/01/2024 14:33,Household Supplies,FALSE
+98,rice,24/01/2024 14:33,Pantry Staples,TRUE
+98,eggs,24/01/2024 14:33,Dairy & Alternatives,FALSE
+99,shampoo,01/01/2024 9:04,Personal Care,FALSE
+99,eggs,01/01/2024 9:04,Dairy & Alternatives,TRUE
+99,coke,01/01/2024 9:04,Beverages,FALSE
+99,milk,01/01/2024 9:04,Dairy & Alternatives,FALSE
+99,banana,01/01/2024 9:04,Fruits & Vegetables,FALSE
+100,apple,17/01/2024 22:36,Fruits & Vegetables,FALSE
+100,cheese,17/01/2024 22:36,Dairy & Alternatives,FALSE
+100,shampoo,17/01/2024 22:36,Personal Care,FALSE
+101,pepsi,03/01/2024 14:22,Beverages,FALSE
+101,detergent,03/01/2024 14:22,Household Supplies,FALSE
+101,milk,03/01/2024 14:22,Dairy & Alternatives,FALSE
+101,eggs,03/01/2024 14:22,Dairy & Alternatives,FALSE
+101,banana,03/01/2024 14:22,Fruits & Vegetables,FALSE
+102,soap,19/01/2024 8:40,Personal Care,FALSE
+102,paper towels,19/01/2024 8:40,Household Supplies,FALSE
+103,soap,24/01/2024 1:00,Personal Care,FALSE
+104,coke,05/01/2024 13:38,Beverages,TRUE
+105,rice,22/01/2024 16:50,Pantry Staples,FALSE
+105,cheese,22/01/2024 16:50,Dairy & Alternatives,FALSE
+105,apple,22/01/2024 16:50,Fruits & Vegetables,FALSE
+105,paper towels,22/01/2024 16:50,Household Supplies,FALSE
+105,banana,22/01/2024 16:50,Fruits & Vegetables,FALSE
+106,apple,10/01/2024 10:58,Fruits & Vegetables,FALSE
+107,cereal,11/01/2024 5:41,Breakfast & Grains,FALSE
+107,eggs,11/01/2024 5:41,Dairy & Alternatives,FALSE
+107,coke,11/01/2024 5:41,Beverages,FALSE
+108,rice,21/01/2024 13:20,Pantry Staples,FALSE
+108,pasta,21/01/2024 13:20,Pantry Staples,FALSE
+108,soap,21/01/2024 13:20,Personal Care,FALSE
+108,butter,21/01/2024 13:20,Dairy & Alternatives,FALSE
+108,detergent,21/01/2024 13:20,Household Supplies,FALSE
+109,rice,31/01/2024 8:53,Pantry Staples,FALSE
+109,cereal,31/01/2024 8:53,Breakfast & Grains,TRUE
+109,shampoo,31/01/2024 8:53,Personal Care,FALSE
+109,apple,31/01/2024 8:53,Fruits & Vegetables,FALSE
+110,banana,10/01/2024 0:21,Fruits & Vegetables,FALSE
+110,eggs,10/01/2024 0:21,Dairy & Alternatives,FALSE
+110,detergent,10/01/2024 0:21,Household Supplies,FALSE
+111,beef,20/01/2024 20:24,Meat & Seafood,FALSE
+111,coke,20/01/2024 20:24,Beverages,FALSE
+111,shampoo,20/01/2024 20:24,Personal Care,TRUE
+112,chicken,15/01/2024 20:20,Meat & Seafood,FALSE
+113,milk,28/01/2024 20:44,Dairy & Alternatives,FALSE
+114,shampoo,03/01/2024 8:45,Personal Care,FALSE
+114,bread,03/01/2024 8:45,Bakery,FALSE
+114,milk,03/01/2024 8:45,Dairy & Alternatives,FALSE
+115,chicken,19/01/2024 18:16,Meat & Seafood,FALSE
+115,bread,19/01/2024 18:16,Bakery,FALSE
+116,paper towels,30/01/2024 23:31,Household Supplies,FALSE
+117,yogurt,28/01/2024 1:55,Dairy & Alternatives,FALSE
+117,cheese,28/01/2024 1:55,Dairy & Alternatives,FALSE
+117,rice,28/01/2024 1:55,Pantry Staples,FALSE
+118,pasta,02/01/2024 5:02,Pantry Staples,FALSE
+118,bread,02/01/2024 5:02,Bakery,FALSE
+119,coke,13/01/2024 9:32,Beverages,FALSE
+119,eggs,13/01/2024 9:32,Dairy & Alternatives,FALSE
+119,cheese,13/01/2024 9:32,Dairy & Alternatives,FALSE
+119,butter,13/01/2024 9:32,Dairy & Alternatives,FALSE
+119,pepsi,13/01/2024 9:32,Beverages,FALSE
+120,banana,07/01/2024 14:13,Fruits & Vegetables,FALSE
+121,yogurt,31/01/2024 3:28,Dairy & Alternatives,FALSE
+121,coke,31/01/2024 3:28,Beverages,FALSE
+122,pasta,18/01/2024 22:56,Pantry Staples,FALSE
+122,apple,18/01/2024 22:56,Fruits & Vegetables,FALSE
+122,beef,18/01/2024 22:56,Meat & Seafood,FALSE
+122,chicken,18/01/2024 22:56,Meat & Seafood,FALSE
+122,cereal,18/01/2024 22:56,Breakfast & Grains,FALSE
+123,milk,11/01/2024 15:32,Dairy & Alternatives,FALSE
+124,soap,25/01/2024 10:24,Personal Care,FALSE
+124,cheese,25/01/2024 10:24,Dairy & Alternatives,FALSE
+124,rice,25/01/2024 10:24,Pantry Staples,FALSE
+124,milk,25/01/2024 10:24,Dairy & Alternatives,FALSE
+124,eggs,25/01/2024 10:24,Dairy & Alternatives,FALSE
+125,paper towels,07/01/2024 9:01,Household Supplies,FALSE
+125,yogurt,07/01/2024 9:01,Dairy & Alternatives,FALSE
+126,pasta,12/01/2024 22:36,Pantry Staples,FALSE
+126,detergent,12/01/2024 22:36,Household Supplies,FALSE
+126,butter,12/01/2024 22:36,Dairy & Alternatives,FALSE
+126,paper towels,12/01/2024 22:36,Household Supplies,FALSE
+127,butter,21/01/2024 22:27,Dairy & Alternatives,FALSE
+127,coke,21/01/2024 22:27,Beverages,FALSE
+127,detergent,21/01/2024 22:27,Household Supplies,TRUE
+128,coke,07/01/2024 3:59,Beverages,FALSE
+128,yogurt,07/01/2024 3:59,Dairy & Alternatives,FALSE
+129,paper towels,27/01/2024 9:02,Household Supplies,FALSE
+129,eggs,27/01/2024 9:02,Dairy & Alternatives,FALSE
+129,shampoo,27/01/2024 9:02,Personal Care,FALSE
+129,coke,27/01/2024 9:02,Beverages,FALSE
+130,rice,22/01/2024 9:20,Pantry Staples,FALSE
+130,bread,22/01/2024 9:20,Bakery,FALSE
+131,detergent,11/01/2024 15:05,Household Supplies,FALSE
+131,milk,11/01/2024 15:05,Dairy & Alternatives,FALSE
+131,shampoo,11/01/2024 15:05,Personal Care,FALSE
+131,beef,11/01/2024 15:05,Meat & Seafood,FALSE
+132,coke,18/01/2024 20:23,Beverages,FALSE
+132,chicken,18/01/2024 20:23,Meat & Seafood,FALSE
+132,pepsi,18/01/2024 20:23,Beverages,FALSE
+132,eggs,18/01/2024 20:23,Dairy & Alternatives,TRUE
+132,cheese,18/01/2024 20:23,Dairy & Alternatives,FALSE
+133,detergent,11/01/2024 3:14,Household Supplies,TRUE
+133,rice,11/01/2024 3:14,Pantry Staples,FALSE
+133,bread,11/01/2024 3:14,Bakery,FALSE
+134,banana,25/01/2024 20:31,Fruits & Vegetables,FALSE
+134,rice,25/01/2024 20:31,Pantry Staples,FALSE
+135,banana,18/01/2024 22:21,Fruits & Vegetables,FALSE
+135,bread,18/01/2024 22:21,Bakery,FALSE
+136,paper towels,14/01/2024 3:24,Household Supplies,FALSE
+137,pasta,03/01/2024 9:06,Pantry Staples,FALSE
+137,paper towels,03/01/2024 9:06,Household Supplies,FALSE
+137,eggs,03/01/2024 9:06,Dairy & Alternatives,FALSE
+137,bread,03/01/2024 9:06,Bakery,FALSE
+137,apple,03/01/2024 9:06,Fruits & Vegetables,FALSE
+138,chicken,22/01/2024 1:26,Meat & Seafood,FALSE
+138,shampoo,22/01/2024 1:26,Personal Care,FALSE
+139,coke,03/01/2024 22:36,Beverages,FALSE
+139,rice,03/01/2024 22:36,Pantry Staples,FALSE
+139,shampoo,03/01/2024 22:36,Personal Care,FALSE
+140,bread,09/01/2024 1:27,Bakery,FALSE
+140,apple,09/01/2024 1:27,Fruits & Vegetables,FALSE
+140,pepsi,09/01/2024 1:27,Beverages,FALSE
+141,bread,25/01/2024 8:17,Bakery,FALSE
+141,pasta,25/01/2024 8:17,Pantry Staples,FALSE
+142,pasta,18/01/2024 15:28,Pantry Staples,FALSE
+142,coke,18/01/2024 15:28,Beverages,FALSE
+142,milk,18/01/2024 15:28,Dairy & Alternatives,FALSE
+142,pepsi,18/01/2024 15:28,Beverages,FALSE
+142,banana,18/01/2024 15:28,Fruits & Vegetables,FALSE
+143,chicken,27/01/2024 23:12,Meat & Seafood,FALSE
+143,cereal,27/01/2024 23:12,Breakfast & Grains,FALSE
+144,pasta,07/01/2024 1:00,Pantry Staples,FALSE
+144,banana,07/01/2024 1:00,Fruits & Vegetables,FALSE
+144,yogurt,07/01/2024 1:00,Dairy & Alternatives,FALSE
+144,cereal,07/01/2024 1:00,Breakfast & Grains,FALSE
+145,paper towels,21/01/2024 15:26,Household Supplies,FALSE
+146,coke,26/01/2024 19:29,Beverages,FALSE
+146,cereal,26/01/2024 19:29,Breakfast & Grains,TRUE
+147,chicken,30/01/2024 6:40,Meat & Seafood,FALSE
+148,paper towels,01/01/2024 2:26,Household Supplies,FALSE
+149,pepsi,01/01/2024 21:33,Beverages,FALSE
+149,cheese,01/01/2024 21:33,Dairy & Alternatives,FALSE
+150,banana,30/01/2024 7:23,Fruits & Vegetables,FALSE
+150,chicken,30/01/2024 7:23,Meat & Seafood,FALSE
+150,detergent,30/01/2024 7:23,Household Supplies,FALSE
+151,cereal,03/01/2024 12:31,Breakfast & Grains,FALSE
+152,soap,07/01/2024 22:18,Personal Care,FALSE
+152,milk,07/01/2024 22:18,Dairy & Alternatives,FALSE
+152,detergent,07/01/2024 22:18,Household Supplies,FALSE
+153,apple,08/01/2024 17:22,Fruits & Vegetables,FALSE
+153,shampoo,08/01/2024 17:22,Personal Care,FALSE
+153,pepsi,08/01/2024 17:22,Beverages,FALSE
+153,bread,08/01/2024 17:22,Bakery,FALSE
+154,shampoo,08/01/2024 2:52,Personal Care,FALSE
+154,coke,08/01/2024 2:52,Beverages,FALSE
+155,cereal,05/01/2024 18:05,Breakfast & Grains,FALSE
+155,yogurt,05/01/2024 18:05,Dairy & Alternatives,FALSE
+155,milk,05/01/2024 18:05,Dairy & Alternatives,FALSE
+155,bread,05/01/2024 18:05,Bakery,FALSE
+155,cheese,05/01/2024 18:05,Dairy & Alternatives,FALSE
+156,milk,30/01/2024 19:01,Dairy & Alternatives,FALSE
+157,cheese,17/01/2024 7:28,Dairy & Alternatives,FALSE
+157,yogurt,17/01/2024 7:28,Dairy & Alternatives,FALSE
+158,pepsi,25/01/2024 16:06,Beverages,FALSE
+158,butter,25/01/2024 16:06,Dairy & Alternatives,FALSE
+158,yogurt,25/01/2024 16:06,Dairy & Alternatives,FALSE
+158,milk,25/01/2024 16:06,Dairy & Alternatives,TRUE
+159,soap,06/01/2024 13:39,Personal Care,FALSE
+159,detergent,06/01/2024 13:39,Household Supplies,FALSE
+160,pasta,31/01/2024 19:37,Pantry Staples,FALSE
+160,detergent,31/01/2024 19:37,Household Supplies,FALSE
+160,pepsi,31/01/2024 19:37,Beverages,FALSE
+160,butter,31/01/2024 19:37,Dairy & Alternatives,FALSE
+161,pasta,02/01/2024 13:21,Pantry Staples,FALSE
+161,banana,02/01/2024 13:21,Fruits & Vegetables,FALSE
+161,chicken,02/01/2024 13:21,Meat & Seafood,FALSE
+161,pepsi,02/01/2024 13:21,Beverages,FALSE
+162,shampoo,20/01/2024 6:01,Personal Care,FALSE
+162,bread,20/01/2024 6:01,Bakery,FALSE
+162,paper towels,20/01/2024 6:01,Household Supplies,FALSE
+162,cereal,20/01/2024 6:01,Breakfast & Grains,FALSE
+162,yogurt,20/01/2024 6:01,Dairy & Alternatives,FALSE
+163,coke,13/01/2024 1:12,Beverages,FALSE
+163,butter,13/01/2024 1:12,Dairy & Alternatives,FALSE
+163,detergent,13/01/2024 1:12,Household Supplies,FALSE
+164,butter,31/01/2024 5:52,Dairy & Alternatives,FALSE
+165,chicken,08/01/2024 7:39,Meat & Seafood,FALSE
+166,rice,26/01/2024 6:16,Pantry Staples,FALSE
+166,butter,26/01/2024 6:16,Dairy & Alternatives,FALSE
+166,apple,26/01/2024 6:16,Fruits & Vegetables,FALSE
+166,pepsi,26/01/2024 6:16,Beverages,FALSE
+166,pasta,26/01/2024 6:16,Pantry Staples,FALSE
+167,rice,02/01/2024 0:35,Pantry Staples,FALSE
+167,paper towels,02/01/2024 0:35,Household Supplies,FALSE
+167,milk,02/01/2024 0:35,Dairy & Alternatives,FALSE
+167,cheese,02/01/2024 0:35,Dairy & Alternatives,FALSE
+168,coke,24/01/2024 9:42,Beverages,FALSE
+168,shampoo,24/01/2024 9:42,Personal Care,FALSE
+168,banana,24/01/2024 9:42,Fruits & Vegetables,FALSE
+169,cereal,14/01/2024 19:17,Breakfast & Grains,FALSE
+169,shampoo,14/01/2024 19:17,Personal Care,FALSE
+169,beef,14/01/2024 19:17,Meat & Seafood,TRUE
+169,bread,14/01/2024 19:17,Bakery,FALSE
+169,rice,14/01/2024 19:17,Pantry Staples,FALSE
+170,chicken,16/01/2024 14:24,Meat & Seafood,FALSE
+170,pasta,16/01/2024 14:24,Pantry Staples,FALSE
+170,eggs,16/01/2024 14:24,Dairy & Alternatives,FALSE
+170,pepsi,16/01/2024 14:24,Beverages,FALSE
+170,beef,16/01/2024 14:24,Meat & Seafood,FALSE
+171,yogurt,05/01/2024 8:01,Dairy & Alternatives,FALSE
+171,milk,05/01/2024 8:01,Dairy & Alternatives,TRUE
+171,paper towels,05/01/2024 8:01,Household Supplies,FALSE
+171,cereal,05/01/2024 8:01,Breakfast & Grains,FALSE
+172,yogurt,19/01/2024 13:00,Dairy & Alternatives,FALSE
+172,pepsi,19/01/2024 13:00,Beverages,FALSE
+172,coke,19/01/2024 13:00,Beverages,FALSE
+173,yogurt,04/01/2024 19:36,Dairy & Alternatives,FALSE
+174,chicken,30/01/2024 1:43,Meat & Seafood,FALSE
+174,bread,30/01/2024 1:43,Bakery,FALSE
+174,yogurt,30/01/2024 1:43,Dairy & Alternatives,FALSE
+175,coke,12/01/2024 23:43,Beverages,FALSE
+176,detergent,10/01/2024 10:18,Household Supplies,FALSE
+176,eggs,10/01/2024 10:18,Dairy & Alternatives,FALSE
+176,soap,10/01/2024 10:18,Personal Care,FALSE
+176,shampoo,10/01/2024 10:18,Personal Care,FALSE
+177,apple,19/01/2024 6:05,Fruits & Vegetables,FALSE
+178,bread,01/01/2024 12:39,Bakery,FALSE
+178,cereal,01/01/2024 12:39,Breakfast & Grains,FALSE
+178,soap,01/01/2024 12:39,Personal Care,FALSE
+178,milk,01/01/2024 12:39,Dairy & Alternatives,FALSE
+178,eggs,01/01/2024 12:39,Dairy & Alternatives,FALSE
+179,shampoo,16/01/2024 0:34,Personal Care,FALSE
+180,butter,23/01/2024 4:44,Dairy & Alternatives,FALSE
+180,banana,23/01/2024 4:44,Fruits & Vegetables,FALSE
+180,milk,23/01/2024 4:44,Dairy & Alternatives,FALSE
+180,eggs,23/01/2024 4:44,Dairy & Alternatives,FALSE
+180,beef,23/01/2024 4:44,Meat & Seafood,FALSE
+181,milk,18/01/2024 6:06,Dairy & Alternatives,FALSE
+181,bread,18/01/2024 6:06,Bakery,FALSE
+182,cheese,18/01/2024 4:40,Dairy & Alternatives,FALSE
+183,coke,18/01/2024 14:28,Beverages,FALSE
+183,yogurt,18/01/2024 14:28,Dairy & Alternatives,FALSE
+183,butter,18/01/2024 14:28,Dairy & Alternatives,FALSE
+184,bread,16/01/2024 5:30,Bakery,FALSE
+184,banana,16/01/2024 5:30,Fruits & Vegetables,FALSE
+184,pepsi,16/01/2024 5:30,Beverages,FALSE
+185,chicken,11/01/2024 6:04,Meat & Seafood,FALSE
+185,yogurt,11/01/2024 6:04,Dairy & Alternatives,FALSE
+185,rice,11/01/2024 6:04,Pantry Staples,FALSE
+185,milk,11/01/2024 6:04,Dairy & Alternatives,FALSE
+186,pasta,02/01/2024 23:11,Pantry Staples,FALSE
+187,chicken,19/01/2024 6:28,Meat & Seafood,FALSE
+188,apple,23/01/2024 7:34,Fruits & Vegetables,FALSE
+188,cheese,23/01/2024 7:34,Dairy & Alternatives,FALSE
+189,apple,10/01/2024 7:16,Fruits & Vegetables,FALSE
+189,milk,10/01/2024 7:16,Dairy & Alternatives,FALSE
+189,paper towels,10/01/2024 7:16,Household Supplies,FALSE
+189,detergent,10/01/2024 7:16,Household Supplies,FALSE
+189,soap,10/01/2024 7:16,Personal Care,FALSE
+190,chicken,12/01/2024 10:10,Meat & Seafood,FALSE
+191,butter,09/01/2024 0:58,Dairy & Alternatives,FALSE
+191,detergent,09/01/2024 0:58,Household Supplies,FALSE
+191,shampoo,09/01/2024 0:58,Personal Care,FALSE
+191,apple,09/01/2024 0:58,Fruits & Vegetables,FALSE
+191,paper towels,09/01/2024 0:58,Household Supplies,FALSE
+192,cereal,10/01/2024 6:00,Breakfast & Grains,FALSE
+192,apple,10/01/2024 6:00,Fruits & Vegetables,FALSE
+192,chicken,10/01/2024 6:00,Meat & Seafood,FALSE
+192,banana,10/01/2024 6:00,Fruits & Vegetables,FALSE
+193,coke,24/01/2024 15:46,Beverages,FALSE
+193,cheese,24/01/2024 15:46,Dairy & Alternatives,FALSE
+194,cheese,30/01/2024 17:04,Dairy & Alternatives,FALSE
+195,shampoo,19/01/2024 18:32,Personal Care,FALSE
+196,detergent,25/01/2024 11:00,Household Supplies,FALSE
+196,cheese,25/01/2024 11:00,Dairy & Alternatives,FALSE
+197,paper towels,21/01/2024 22:41,Household Supplies,FALSE
+197,shampoo,21/01/2024 22:41,Personal Care,FALSE
+197,chicken,21/01/2024 22:41,Meat & Seafood,FALSE
+198,cheese,26/01/2024 7:17,Dairy & Alternatives,FALSE
+198,coke,26/01/2024 7:17,Beverages,FALSE
+198,shampoo,26/01/2024 7:17,Personal Care,FALSE
+198,apple,26/01/2024 7:17,Fruits & Vegetables,FALSE
+199,shampoo,22/01/2024 20:23,Personal Care,FALSE
+199,chicken,22/01/2024 20:23,Meat & Seafood,FALSE
+199,banana,22/01/2024 20:23,Fruits & Vegetables,FALSE
+199,beef,22/01/2024 20:23,Meat & Seafood,FALSE
+199,milk,22/01/2024 20:23,Dairy & Alternatives,FALSE
+200,yogurt,07/01/2024 21:00,Dairy & Alternatives,FALSE
+200,pepsi,07/01/2024 21:00,Beverages,FALSE
+200,rice,07/01/2024 21:00,Pantry Staples,TRUE
+200,butter,07/01/2024 21:00,Dairy & Alternatives,FALSE
+201,butter,25/01/2024 17:05,Dairy & Alternatives,FALSE
+201,shampoo,25/01/2024 17:05,Personal Care,FALSE
+201,soap,25/01/2024 17:05,Personal Care,FALSE
+202,chicken,10/01/2024 13:54,Meat & Seafood,FALSE
+202,eggs,10/01/2024 13:54,Dairy & Alternatives,FALSE
+202,beef,10/01/2024 13:54,Meat & Seafood,FALSE
+202,pasta,10/01/2024 13:54,Pantry Staples,FALSE
+202,soap,10/01/2024 13:54,Personal Care,FALSE
+203,beef,24/01/2024 22:01,Meat & Seafood,FALSE
+203,banana,24/01/2024 22:01,Fruits & Vegetables,FALSE
+203,butter,24/01/2024 22:01,Dairy & Alternatives,FALSE
+204,pepsi,01/01/2024 3:17,Beverages,FALSE
+205,detergent,13/01/2024 10:51,Household Supplies,FALSE
+206,coke,28/01/2024 4:41,Beverages,FALSE
+206,eggs,28/01/2024 4:41,Dairy & Alternatives,FALSE
+206,milk,28/01/2024 4:41,Dairy & Alternatives,FALSE
+206,shampoo,28/01/2024 4:41,Personal Care,FALSE
+206,rice,28/01/2024 4:41,Pantry Staples,FALSE
+207,paper towels,24/01/2024 22:09,Household Supplies,FALSE
+207,chicken,24/01/2024 22:09,Meat & Seafood,FALSE
+207,pasta,24/01/2024 22:09,Pantry Staples,FALSE
+207,bread,24/01/2024 22:09,Bakery,FALSE
+208,chicken,11/01/2024 9:50,Meat & Seafood,FALSE
+208,banana,11/01/2024 9:50,Fruits & Vegetables,FALSE
+208,eggs,11/01/2024 9:50,Dairy & Alternatives,FALSE
+208,pasta,11/01/2024 9:50,Pantry Staples,FALSE
+209,beef,16/01/2024 8:00,Meat & Seafood,FALSE
+209,rice,16/01/2024 8:00,Pantry Staples,FALSE
+209,chicken,16/01/2024 8:00,Meat & Seafood,FALSE
+210,yogurt,22/01/2024 2:14,Dairy & Alternatives,FALSE
+210,eggs,22/01/2024 2:14,Dairy & Alternatives,FALSE
+211,cereal,19/01/2024 14:55,Breakfast & Grains,FALSE
+211,chicken,19/01/2024 14:55,Meat & Seafood,FALSE
+211,apple,19/01/2024 14:55,Fruits & Vegetables,FALSE
+211,bread,19/01/2024 14:55,Bakery,FALSE
+211,banana,19/01/2024 14:55,Fruits & Vegetables,FALSE
+212,banana,19/01/2024 15:34,Fruits & Vegetables,FALSE
+212,apple,19/01/2024 15:34,Fruits & Vegetables,FALSE
+212,milk,19/01/2024 15:34,Dairy & Alternatives,FALSE
+213,pepsi,30/01/2024 6:56,Beverages,FALSE
+213,beef,30/01/2024 6:56,Meat & Seafood,FALSE
+213,coke,30/01/2024 6:56,Beverages,FALSE
+213,paper towels,30/01/2024 6:56,Household Supplies,FALSE
+214,milk,24/01/2024 5:41,Dairy & Alternatives,FALSE
+214,chicken,24/01/2024 5:41,Meat & Seafood,FALSE
+214,cheese,24/01/2024 5:41,Dairy & Alternatives,FALSE
+214,eggs,24/01/2024 5:41,Dairy & Alternatives,FALSE
+215,beef,22/01/2024 20:56,Meat & Seafood,FALSE
+215,yogurt,22/01/2024 20:56,Dairy & Alternatives,FALSE
+216,bread,10/01/2024 7:36,Bakery,FALSE
+216,milk,10/01/2024 7:36,Dairy & Alternatives,FALSE
+216,paper towels,10/01/2024 7:36,Household Supplies,FALSE
+216,pasta,10/01/2024 7:36,Pantry Staples,FALSE
+217,detergent,31/01/2024 2:21,Household Supplies,FALSE
+217,eggs,31/01/2024 2:21,Dairy & Alternatives,FALSE
+217,paper towels,31/01/2024 2:21,Household Supplies,FALSE
+218,shampoo,12/01/2024 7:16,Personal Care,FALSE
+218,chicken,12/01/2024 7:16,Meat & Seafood,FALSE
+218,eggs,12/01/2024 7:16,Dairy & Alternatives,FALSE
+219,rice,07/01/2024 2:01,Pantry Staples,FALSE
+219,yogurt,07/01/2024 2:01,Dairy & Alternatives,FALSE
+219,soap,07/01/2024 2:01,Personal Care,FALSE
+219,butter,07/01/2024 2:01,Dairy & Alternatives,FALSE
+219,apple,07/01/2024 2:01,Fruits & Vegetables,FALSE
+220,beef,05/01/2024 20:49,Meat & Seafood,FALSE
+220,shampoo,05/01/2024 20:49,Personal Care,TRUE
+221,eggs,27/01/2024 17:26,Dairy & Alternatives,FALSE
+222,pepsi,15/01/2024 14:46,Beverages,FALSE
+222,cheese,15/01/2024 14:46,Dairy & Alternatives,FALSE
+222,cereal,15/01/2024 14:46,Breakfast & Grains,FALSE
+223,paper towels,15/01/2024 19:04,Household Supplies,TRUE
+224,cereal,25/01/2024 11:26,Breakfast & Grains,TRUE
+224,yogurt,25/01/2024 11:26,Dairy & Alternatives,FALSE
+224,butter,25/01/2024 11:26,Dairy & Alternatives,FALSE
+225,cereal,20/01/2024 7:50,Breakfast & Grains,FALSE
+225,milk,20/01/2024 7:50,Dairy & Alternatives,TRUE
+225,coke,20/01/2024 7:50,Beverages,FALSE
+225,bread,20/01/2024 7:50,Bakery,FALSE
+226,yogurt,22/01/2024 5:55,Dairy & Alternatives,FALSE
+226,apple,22/01/2024 5:55,Fruits & Vegetables,FALSE
+226,shampoo,22/01/2024 5:55,Personal Care,FALSE
+227,bread,04/01/2024 1:32,Bakery,FALSE
+227,yogurt,04/01/2024 1:32,Dairy & Alternatives,FALSE
+228,rice,08/01/2024 14:21,Pantry Staples,FALSE
+228,eggs,08/01/2024 14:21,Dairy & Alternatives,FALSE
+229,bread,22/01/2024 13:19,Bakery,FALSE
+229,eggs,22/01/2024 13:19,Dairy & Alternatives,FALSE
+229,pasta,22/01/2024 13:19,Pantry Staples,FALSE
+230,yogurt,16/01/2024 5:24,Dairy & Alternatives,FALSE
+231,apple,30/01/2024 9:37,Fruits & Vegetables,FALSE
+231,yogurt,30/01/2024 9:37,Dairy & Alternatives,FALSE
+232,cereal,09/01/2024 11:24,Breakfast & Grains,FALSE
+232,beef,09/01/2024 11:24,Meat & Seafood,FALSE
+233,cereal,12/01/2024 0:16,Breakfast & Grains,FALSE
+233,paper towels,12/01/2024 0:16,Household Supplies,FALSE
+234,banana,29/01/2024 21:15,Fruits & Vegetables,FALSE
+234,chicken,29/01/2024 21:15,Meat & Seafood,FALSE
+234,bread,29/01/2024 21:15,Bakery,FALSE
+234,eggs,29/01/2024 21:15,Dairy & Alternatives,FALSE
+234,detergent,29/01/2024 21:15,Household Supplies,FALSE
+235,cereal,02/01/2024 22:07,Breakfast & Grains,FALSE
+236,cereal,30/01/2024 8:51,Breakfast & Grains,FALSE
+236,chicken,30/01/2024 8:51,Meat & Seafood,FALSE
+236,coke,30/01/2024 8:51,Beverages,FALSE
+237,bread,17/01/2024 9:22,Bakery,FALSE
+237,shampoo,17/01/2024 9:22,Personal Care,FALSE
+238,cereal,14/01/2024 23:19,Breakfast & Grains,TRUE
+238,bread,14/01/2024 23:19,Bakery,FALSE
+239,apple,26/01/2024 1:08,Fruits & Vegetables,FALSE
+239,detergent,26/01/2024 1:08,Household Supplies,FALSE
+239,cheese,26/01/2024 1:08,Dairy & Alternatives,FALSE
+239,milk,26/01/2024 1:08,Dairy & Alternatives,FALSE
+240,detergent,03/01/2024 22:43,Household Supplies,TRUE
+241,banana,02/01/2024 7:39,Fruits & Vegetables,FALSE
+241,cereal,02/01/2024 7:39,Breakfast & Grains,FALSE
+241,bread,02/01/2024 7:39,Bakery,FALSE
+241,shampoo,02/01/2024 7:39,Personal Care,FALSE
+242,bread,09/01/2024 13:25,Bakery,FALSE
+242,yogurt,09/01/2024 13:25,Dairy & Alternatives,FALSE
+242,beef,09/01/2024 13:25,Meat & Seafood,FALSE
+242,apple,09/01/2024 13:25,Fruits & Vegetables,FALSE
+243,soap,18/01/2024 2:59,Personal Care,FALSE
+243,beef,18/01/2024 2:59,Meat & Seafood,FALSE
+243,pepsi,18/01/2024 2:59,Beverages,FALSE
+244,banana,05/01/2024 0:30,Fruits & Vegetables,FALSE
+245,apple,10/01/2024 9:29,Fruits & Vegetables,FALSE
+245,butter,10/01/2024 9:29,Dairy & Alternatives,FALSE
+245,coke,10/01/2024 9:29,Beverages,TRUE
+245,eggs,10/01/2024 9:29,Dairy & Alternatives,FALSE
+245,paper towels,10/01/2024 9:29,Household Supplies,FALSE
+246,rice,15/01/2024 21:35,Pantry Staples,TRUE
+246,cheese,15/01/2024 21:35,Dairy & Alternatives,FALSE
+246,bread,15/01/2024 21:35,Bakery,FALSE
+246,chicken,15/01/2024 21:35,Meat & Seafood,FALSE
+246,shampoo,15/01/2024 21:35,Personal Care,FALSE
+247,shampoo,13/01/2024 18:19,Personal Care,FALSE
+247,apple,13/01/2024 18:19,Fruits & Vegetables,FALSE
+247,milk,13/01/2024 18:19,Dairy & Alternatives,FALSE
+248,pasta,26/01/2024 11:03,Pantry Staples,FALSE
+249,coke,15/01/2024 1:33,Beverages,FALSE
+249,eggs,15/01/2024 1:33,Dairy & Alternatives,FALSE
+249,rice,15/01/2024 1:33,Pantry Staples,FALSE
+250,bread,20/01/2024 11:20,Bakery,FALSE
+250,shampoo,20/01/2024 11:20,Personal Care,FALSE
+251,coke,06/01/2024 13:37,Beverages,TRUE
+251,eggs,06/01/2024 13:37,Dairy & Alternatives,FALSE
+251,pepsi,06/01/2024 13:37,Beverages,FALSE
+251,chicken,06/01/2024 13:37,Meat & Seafood,FALSE
+252,banana,20/01/2024 15:25,Fruits & Vegetables,FALSE
+252,butter,20/01/2024 15:25,Dairy & Alternatives,FALSE
+252,yogurt,20/01/2024 15:25,Dairy & Alternatives,FALSE
+252,beef,20/01/2024 15:25,Meat & Seafood,FALSE
+253,yogurt,08/01/2024 11:27,Dairy & Alternatives,FALSE
+253,paper towels,08/01/2024 11:27,Household Supplies,FALSE
+254,milk,27/01/2024 7:23,Dairy & Alternatives,FALSE
+254,chicken,27/01/2024 7:23,Meat & Seafood,FALSE
+254,rice,27/01/2024 7:23,Pantry Staples,FALSE
+255,banana,01/01/2024 2:57,Fruits & Vegetables,FALSE
+255,eggs,01/01/2024 2:57,Dairy & Alternatives,FALSE
+255,milk,01/01/2024 2:57,Dairy & Alternatives,FALSE
+255,butter,01/01/2024 2:57,Dairy & Alternatives,FALSE
+255,pasta,01/01/2024 2:57,Pantry Staples,FALSE
+256,butter,17/01/2024 3:25,Dairy & Alternatives,FALSE
+257,chicken,11/01/2024 17:30,Meat & Seafood,FALSE
+257,coke,11/01/2024 17:30,Beverages,FALSE
+258,beef,08/01/2024 6:37,Meat & Seafood,FALSE
+258,yogurt,08/01/2024 6:37,Dairy & Alternatives,FALSE
+258,milk,08/01/2024 6:37,Dairy & Alternatives,FALSE
+258,soap,08/01/2024 6:37,Personal Care,FALSE
+259,soap,09/01/2024 22:55,Personal Care,FALSE
+259,detergent,09/01/2024 22:55,Household Supplies,FALSE
+259,butter,09/01/2024 22:55,Dairy & Alternatives,FALSE
+259,banana,09/01/2024 22:55,Fruits & Vegetables,FALSE
+260,paper towels,12/01/2024 21:01,Household Supplies,FALSE
+261,milk,07/01/2024 11:29,Dairy & Alternatives,FALSE
+261,rice,07/01/2024 11:29,Pantry Staples,FALSE
+261,chicken,07/01/2024 11:29,Meat & Seafood,FALSE
+262,cheese,04/01/2024 12:13,Dairy & Alternatives,FALSE
+263,rice,14/01/2024 19:22,Pantry Staples,FALSE
+263,paper towels,14/01/2024 19:22,Household Supplies,FALSE
+263,beef,14/01/2024 19:22,Meat & Seafood,FALSE
+263,banana,14/01/2024 19:22,Fruits & Vegetables,FALSE
+263,soap,14/01/2024 19:22,Personal Care,TRUE
+264,apple,30/01/2024 0:53,Fruits & Vegetables,FALSE
+264,detergent,30/01/2024 0:53,Household Supplies,FALSE
+264,cheese,30/01/2024 0:53,Dairy & Alternatives,TRUE
+264,beef,30/01/2024 0:53,Meat & Seafood,FALSE
+265,pepsi,18/01/2024 3:23,Beverages,FALSE
+265,apple,18/01/2024 3:23,Fruits & Vegetables,FALSE
+265,rice,18/01/2024 3:23,Pantry Staples,FALSE
+265,butter,18/01/2024 3:23,Dairy & Alternatives,FALSE
+265,cheese,18/01/2024 3:23,Dairy & Alternatives,FALSE
+266,butter,03/01/2024 3:32,Dairy & Alternatives,FALSE
+266,milk,03/01/2024 3:32,Dairy & Alternatives,FALSE
+267,soap,30/01/2024 1:01,Personal Care,FALSE
+267,coke,30/01/2024 1:01,Beverages,FALSE
+267,shampoo,30/01/2024 1:01,Personal Care,FALSE
+267,chicken,30/01/2024 1:01,Meat & Seafood,FALSE
+268,coke,14/01/2024 18:32,Beverages,FALSE
+269,coke,27/01/2024 21:33,Beverages,FALSE
+269,milk,27/01/2024 21:33,Dairy & Alternatives,FALSE
+270,pasta,27/01/2024 4:47,Pantry Staples,FALSE
+270,bread,27/01/2024 4:47,Bakery,FALSE
+271,cereal,12/01/2024 1:35,Breakfast & Grains,FALSE
+271,yogurt,12/01/2024 1:35,Dairy & Alternatives,FALSE
+271,bread,12/01/2024 1:35,Bakery,FALSE
+271,milk,12/01/2024 1:35,Dairy & Alternatives,FALSE
+272,rice,11/01/2024 14:56,Pantry Staples,FALSE
+272,milk,11/01/2024 14:56,Dairy & Alternatives,FALSE
+272,beef,11/01/2024 14:56,Meat & Seafood,FALSE
+272,shampoo,11/01/2024 14:56,Personal Care,FALSE
+273,eggs,30/01/2024 21:38,Dairy & Alternatives,FALSE
+273,pepsi,30/01/2024 21:38,Beverages,FALSE
+273,apple,30/01/2024 21:38,Fruits & Vegetables,FALSE
+273,butter,30/01/2024 21:38,Dairy & Alternatives,FALSE
+274,pepsi,24/01/2024 1:34,Beverages,FALSE
+274,milk,24/01/2024 1:34,Dairy & Alternatives,FALSE
+274,eggs,24/01/2024 1:34,Dairy & Alternatives,FALSE
+275,cheese,25/01/2024 20:00,Dairy & Alternatives,FALSE
+276,milk,25/01/2024 17:46,Dairy & Alternatives,FALSE
+276,butter,25/01/2024 17:46,Dairy & Alternatives,FALSE
+277,yogurt,20/01/2024 22:03,Dairy & Alternatives,FALSE
+277,coke,20/01/2024 22:03,Beverages,FALSE
+278,yogurt,01/01/2024 9:39,Dairy & Alternatives,FALSE
+278,apple,01/01/2024 9:39,Fruits & Vegetables,FALSE
+278,eggs,01/01/2024 9:39,Dairy & Alternatives,TRUE
+278,bread,01/01/2024 9:39,Bakery,FALSE
+278,chicken,01/01/2024 9:39,Meat & Seafood,TRUE
+279,milk,13/01/2024 10:32,Dairy & Alternatives,FALSE
+280,yogurt,11/01/2024 8:21,Dairy & Alternatives,FALSE
+281,pasta,19/01/2024 17:25,Pantry Staples,FALSE
+281,eggs,19/01/2024 17:25,Dairy & Alternatives,FALSE
+281,shampoo,19/01/2024 17:25,Personal Care,FALSE
+281,rice,19/01/2024 17:25,Pantry Staples,FALSE
+282,pasta,22/01/2024 9:23,Pantry Staples,FALSE
+283,cheese,12/01/2024 23:54,Dairy & Alternatives,FALSE
+283,beef,12/01/2024 23:54,Meat & Seafood,FALSE
+284,apple,03/01/2024 0:15,Fruits & Vegetables,TRUE
+285,bread,12/01/2024 8:00,Bakery,FALSE
+285,detergent,12/01/2024 8:00,Household Supplies,FALSE
+285,chicken,12/01/2024 8:00,Meat & Seafood,FALSE
+285,rice,12/01/2024 8:00,Pantry Staples,FALSE
+286,cheese,09/01/2024 12:07,Dairy & Alternatives,FALSE
+287,cereal,03/01/2024 23:07,Breakfast & Grains,FALSE
+287,chicken,03/01/2024 23:07,Meat & Seafood,FALSE
+287,banana,03/01/2024 23:07,Fruits & Vegetables,FALSE
+287,milk,03/01/2024 23:07,Dairy & Alternatives,FALSE
+288,soap,08/01/2024 15:02,Personal Care,FALSE
+288,rice,08/01/2024 15:02,Pantry Staples,FALSE
+288,shampoo,08/01/2024 15:02,Personal Care,FALSE
+288,butter,08/01/2024 15:02,Dairy & Alternatives,FALSE
+289,pasta,11/01/2024 8:05,Pantry Staples,FALSE
+289,soap,11/01/2024 8:05,Personal Care,FALSE
+289,milk,11/01/2024 8:05,Dairy & Alternatives,FALSE
+289,banana,11/01/2024 8:05,Fruits & Vegetables,TRUE
+290,chicken,14/01/2024 20:30,Meat & Seafood,FALSE
+290,bread,14/01/2024 20:30,Bakery,FALSE
+290,milk,14/01/2024 20:30,Dairy & Alternatives,FALSE
+290,eggs,14/01/2024 20:30,Dairy & Alternatives,FALSE
+290,coke,14/01/2024 20:30,Beverages,FALSE
+291,detergent,31/01/2024 3:53,Household Supplies,FALSE
+291,yogurt,31/01/2024 3:53,Dairy & Alternatives,FALSE
+292,shampoo,25/01/2024 13:48,Personal Care,FALSE
+292,pasta,25/01/2024 13:48,Pantry Staples,FALSE
+293,rice,13/01/2024 15:40,Pantry Staples,FALSE
+293,coke,13/01/2024 15:40,Beverages,FALSE
+293,chicken,13/01/2024 15:40,Meat & Seafood,FALSE
+294,beef,07/01/2024 11:17,Meat & Seafood,FALSE
+295,bread,20/01/2024 9:07,Bakery,TRUE
+295,yogurt,20/01/2024 9:07,Dairy & Alternatives,FALSE
+296,rice,24/01/2024 8:33,Pantry Staples,FALSE
+296,beef,24/01/2024 8:33,Meat & Seafood,FALSE
+296,yogurt,24/01/2024 8:33,Dairy & Alternatives,FALSE
+296,pasta,24/01/2024 8:33,Pantry Staples,FALSE
+297,apple,05/01/2024 13:04,Fruits & Vegetables,FALSE
+297,cereal,05/01/2024 13:04,Breakfast & Grains,FALSE
+297,detergent,05/01/2024 13:04,Household Supplies,FALSE
+297,paper towels,05/01/2024 13:04,Household Supplies,FALSE
+298,chicken,07/01/2024 6:22,Meat & Seafood,FALSE
+298,pasta,07/01/2024 6:22,Pantry Staples,FALSE
+299,beef,10/01/2024 22:16,Meat & Seafood,FALSE
+299,coke,10/01/2024 22:16,Beverages,FALSE
+299,yogurt,10/01/2024 22:16,Dairy & Alternatives,FALSE
+299,banana,10/01/2024 22:16,Fruits & Vegetables,FALSE
+299,eggs,10/01/2024 22:16,Dairy & Alternatives,FALSE
+300,shampoo,31/01/2024 20:07,Personal Care,FALSE
+301,rice,15/01/2024 13:14,Pantry Staples,FALSE
+301,paper towels,15/01/2024 13:14,Household Supplies,FALSE
+301,bread,15/01/2024 13:14,Bakery,FALSE
+302,paper towels,21/01/2024 3:34,Household Supplies,FALSE
+302,beef,21/01/2024 3:34,Meat & Seafood,FALSE
+302,cereal,21/01/2024 3:34,Breakfast & Grains,FALSE
+302,detergent,21/01/2024 3:34,Household Supplies,FALSE
+303,bread,20/01/2024 2:33,Bakery,FALSE
+303,milk,20/01/2024 2:33,Dairy & Alternatives,FALSE
+304,cheese,14/01/2024 8:01,Dairy & Alternatives,FALSE
+304,chicken,14/01/2024 8:01,Meat & Seafood,FALSE
+304,paper towels,14/01/2024 8:01,Household Supplies,FALSE
+304,bread,14/01/2024 8:01,Bakery,FALSE
+304,butter,14/01/2024 8:01,Dairy & Alternatives,FALSE
+305,milk,07/01/2024 14:51,Dairy & Alternatives,FALSE
+305,detergent,07/01/2024 14:51,Household Supplies,FALSE
+306,pepsi,30/01/2024 15:28,Beverages,FALSE
+306,cheese,30/01/2024 15:28,Dairy & Alternatives,FALSE
+307,chicken,19/01/2024 11:42,Meat & Seafood,FALSE
+307,apple,19/01/2024 11:42,Fruits & Vegetables,FALSE
+307,soap,19/01/2024 11:42,Personal Care,FALSE
+308,cereal,21/01/2024 17:33,Breakfast & Grains,FALSE
+308,banana,21/01/2024 17:33,Fruits & Vegetables,FALSE
+309,apple,15/01/2024 8:48,Fruits & Vegetables,FALSE
+309,bread,15/01/2024 8:48,Bakery,FALSE
+309,detergent,15/01/2024 8:48,Household Supplies,FALSE
+310,beef,18/01/2024 11:57,Meat & Seafood,FALSE
+310,coke,18/01/2024 11:57,Beverages,FALSE
+310,cereal,18/01/2024 11:57,Breakfast & Grains,FALSE
+311,pepsi,19/01/2024 6:59,Beverages,FALSE
+312,beef,03/01/2024 0:49,Meat & Seafood,FALSE
+312,pasta,03/01/2024 0:49,Pantry Staples,FALSE
+312,yogurt,03/01/2024 0:49,Dairy & Alternatives,FALSE
+313,chicken,25/01/2024 13:39,Meat & Seafood,FALSE
+313,bread,25/01/2024 13:39,Bakery,FALSE
+313,yogurt,25/01/2024 13:39,Dairy & Alternatives,FALSE
+314,coke,21/01/2024 5:23,Beverages,FALSE
+314,yogurt,21/01/2024 5:23,Dairy & Alternatives,FALSE
+315,shampoo,06/01/2024 9:36,Personal Care,FALSE
+315,detergent,06/01/2024 9:36,Household Supplies,FALSE
+315,milk,06/01/2024 9:36,Dairy & Alternatives,FALSE
+316,shampoo,06/01/2024 1:49,Personal Care,FALSE
+316,apple,06/01/2024 1:49,Fruits & Vegetables,FALSE
+316,soap,06/01/2024 1:49,Personal Care,FALSE
+316,pasta,06/01/2024 1:49,Pantry Staples,FALSE
+317,butter,14/01/2024 3:06,Dairy & Alternatives,FALSE
+317,paper towels,14/01/2024 3:06,Household Supplies,FALSE
+318,eggs,03/01/2024 3:10,Dairy & Alternatives,FALSE
+318,cereal,03/01/2024 3:10,Breakfast & Grains,FALSE
+318,shampoo,03/01/2024 3:10,Personal Care,FALSE
+318,milk,03/01/2024 3:10,Dairy & Alternatives,FALSE
+318,paper towels,03/01/2024 3:10,Household Supplies,FALSE
+319,cereal,21/01/2024 5:21,Breakfast & Grains,TRUE
+319,pasta,21/01/2024 5:21,Pantry Staples,FALSE
+319,milk,21/01/2024 5:21,Dairy & Alternatives,FALSE
+320,yogurt,03/01/2024 9:49,Dairy & Alternatives,FALSE
+320,cereal,03/01/2024 9:49,Breakfast & Grains,FALSE
+320,rice,03/01/2024 9:49,Pantry Staples,FALSE
+321,detergent,27/01/2024 18:37,Household Supplies,FALSE
+321,apple,27/01/2024 18:37,Fruits & Vegetables,FALSE
+321,soap,27/01/2024 18:37,Personal Care,FALSE
+321,butter,27/01/2024 18:37,Dairy & Alternatives,FALSE
+321,chicken,27/01/2024 18:37,Meat & Seafood,FALSE
+322,detergent,17/01/2024 1:15,Household Supplies,FALSE
+323,beef,21/01/2024 19:36,Meat & Seafood,FALSE
+323,shampoo,21/01/2024 19:36,Personal Care,FALSE
+324,chicken,09/01/2024 0:53,Meat & Seafood,FALSE
+324,soap,09/01/2024 0:53,Personal Care,FALSE
+324,detergent,09/01/2024 0:53,Household Supplies,FALSE
+324,rice,09/01/2024 0:53,Pantry Staples,FALSE
+325,chicken,02/01/2024 3:27,Meat & Seafood,FALSE
+325,eggs,02/01/2024 3:27,Dairy & Alternatives,FALSE
+325,butter,02/01/2024 3:27,Dairy & Alternatives,FALSE
+325,pasta,02/01/2024 3:27,Pantry Staples,FALSE
+325,bread,02/01/2024 3:27,Bakery,FALSE
+326,milk,13/01/2024 17:20,Dairy & Alternatives,FALSE
+326,cheese,13/01/2024 17:20,Dairy & Alternatives,FALSE
+326,butter,13/01/2024 17:20,Dairy & Alternatives,FALSE
+326,beef,13/01/2024 17:20,Meat & Seafood,FALSE
+326,rice,13/01/2024 17:20,Pantry Staples,FALSE
+327,bread,22/01/2024 3:06,Bakery,FALSE
+327,pasta,22/01/2024 3:06,Pantry Staples,FALSE
+327,chicken,22/01/2024 3:06,Meat & Seafood,FALSE
+327,pepsi,22/01/2024 3:06,Beverages,FALSE
+327,cheese,22/01/2024 3:06,Dairy & Alternatives,FALSE
+328,milk,23/01/2024 18:34,Dairy & Alternatives,FALSE
+329,banana,20/01/2024 2:35,Fruits & Vegetables,FALSE
+329,cereal,20/01/2024 2:35,Breakfast & Grains,FALSE
+329,milk,20/01/2024 2:35,Dairy & Alternatives,FALSE
+330,paper towels,12/01/2024 21:58,Household Supplies,FALSE
+330,detergent,12/01/2024 21:58,Household Supplies,FALSE
+330,beef,12/01/2024 21:58,Meat & Seafood,FALSE
+330,banana,12/01/2024 21:58,Fruits & Vegetables,TRUE
+330,rice,12/01/2024 21:58,Pantry Staples,FALSE
+331,coke,14/01/2024 7:08,Beverages,FALSE
+332,bread,19/01/2024 17:16,Bakery,FALSE
+332,coke,19/01/2024 17:16,Beverages,FALSE
+332,detergent,19/01/2024 17:16,Household Supplies,FALSE
+332,eggs,19/01/2024 17:16,Dairy & Alternatives,FALSE
+333,chicken,30/01/2024 18:45,Meat & Seafood,FALSE
+333,milk,30/01/2024 18:45,Dairy & Alternatives,FALSE
+334,pasta,12/01/2024 1:59,Pantry Staples,FALSE
+334,cheese,12/01/2024 1:59,Dairy & Alternatives,FALSE
+334,chicken,12/01/2024 1:59,Meat & Seafood,FALSE
+334,rice,12/01/2024 1:59,Pantry Staples,FALSE
+335,butter,05/01/2024 13:50,Dairy & Alternatives,FALSE
+335,milk,05/01/2024 13:50,Dairy & Alternatives,FALSE
+335,cheese,05/01/2024 13:50,Dairy & Alternatives,FALSE
+335,banana,05/01/2024 13:50,Fruits & Vegetables,FALSE
+335,apple,05/01/2024 13:50,Fruits & Vegetables,FALSE
+336,cereal,15/01/2024 5:52,Breakfast & Grains,FALSE
+337,chicken,19/01/2024 21:33,Meat & Seafood,FALSE
+337,soap,19/01/2024 21:33,Personal Care,FALSE
+337,eggs,19/01/2024 21:33,Dairy & Alternatives,FALSE
+338,detergent,16/01/2024 11:10,Household Supplies,FALSE
+338,cheese,16/01/2024 11:10,Dairy & Alternatives,FALSE
+339,banana,05/01/2024 2:53,Fruits & Vegetables,FALSE
+339,pepsi,05/01/2024 2:53,Beverages,FALSE
+339,coke,05/01/2024 2:53,Beverages,FALSE
+339,apple,05/01/2024 2:53,Fruits & Vegetables,FALSE
+340,rice,01/01/2024 13:44,Pantry Staples,FALSE
+340,paper towels,01/01/2024 13:44,Household Supplies,FALSE
+340,beef,01/01/2024 13:44,Meat & Seafood,FALSE
+340,soap,01/01/2024 13:44,Personal Care,FALSE
+340,cereal,01/01/2024 13:44,Breakfast & Grains,FALSE
+341,banana,01/01/2024 12:06,Fruits & Vegetables,FALSE
+341,cereal,01/01/2024 12:06,Breakfast & Grains,FALSE
+341,apple,01/01/2024 12:06,Fruits & Vegetables,FALSE
+341,coke,01/01/2024 12:06,Beverages,FALSE
+341,beef,01/01/2024 12:06,Meat & Seafood,FALSE
+342,butter,14/01/2024 1:05,Dairy & Alternatives,FALSE
+342,apple,14/01/2024 1:05,Fruits & Vegetables,FALSE
+343,bread,02/01/2024 6:30,Bakery,FALSE
+344,rice,02/01/2024 20:53,Pantry Staples,FALSE
+344,coke,02/01/2024 20:53,Beverages,FALSE
+344,bread,02/01/2024 20:53,Bakery,FALSE
+345,shampoo,13/01/2024 23:27,Personal Care,FALSE
+345,banana,13/01/2024 23:27,Fruits & Vegetables,FALSE
+345,rice,13/01/2024 23:27,Pantry Staples,FALSE
+346,bread,15/01/2024 8:31,Bakery,FALSE
+346,rice,15/01/2024 8:31,Pantry Staples,FALSE
+346,paper towels,15/01/2024 8:31,Household Supplies,FALSE
+346,apple,15/01/2024 8:31,Fruits & Vegetables,FALSE
+346,detergent,15/01/2024 8:31,Household Supplies,FALSE
+347,apple,12/01/2024 4:21,Fruits & Vegetables,FALSE
+347,chicken,12/01/2024 4:21,Meat & Seafood,FALSE
+348,eggs,27/01/2024 15:16,Dairy & Alternatives,FALSE
+348,chicken,27/01/2024 15:16,Meat & Seafood,FALSE
+348,apple,27/01/2024 15:16,Fruits & Vegetables,FALSE
+348,paper towels,27/01/2024 15:16,Household Supplies,FALSE
+349,coke,10/01/2024 4:57,Beverages,FALSE
+349,apple,10/01/2024 4:57,Fruits & Vegetables,FALSE
+349,butter,10/01/2024 4:57,Dairy & Alternatives,FALSE
+349,cereal,10/01/2024 4:57,Breakfast & Grains,FALSE
+349,pasta,10/01/2024 4:57,Pantry Staples,FALSE
+350,paper towels,22/01/2024 2:35,Household Supplies,FALSE
+350,coke,22/01/2024 2:35,Beverages,FALSE
+350,milk,22/01/2024 2:35,Dairy & Alternatives,FALSE
+350,apple,22/01/2024 2:35,Fruits & Vegetables,FALSE
+350,shampoo,22/01/2024 2:35,Personal Care,FALSE
+351,pepsi,28/01/2024 18:56,Beverages,FALSE
+352,apple,28/01/2024 8:29,Fruits & Vegetables,FALSE
+352,bread,28/01/2024 8:29,Bakery,FALSE
+352,yogurt,28/01/2024 8:29,Dairy & Alternatives,FALSE
+352,milk,28/01/2024 8:29,Dairy & Alternatives,FALSE
+352,beef,28/01/2024 8:29,Meat & Seafood,FALSE
+353,apple,26/01/2024 2:05,Fruits & Vegetables,FALSE
+353,rice,26/01/2024 2:05,Pantry Staples,FALSE
+353,coke,26/01/2024 2:05,Beverages,FALSE
+353,milk,26/01/2024 2:05,Dairy & Alternatives,FALSE
+353,detergent,26/01/2024 2:05,Household Supplies,FALSE
+354,soap,06/01/2024 11:59,Personal Care,FALSE
+354,cheese,06/01/2024 11:59,Dairy & Alternatives,FALSE
+354,cereal,06/01/2024 11:59,Breakfast & Grains,FALSE
+355,butter,05/01/2024 13:10,Dairy & Alternatives,FALSE
+355,eggs,05/01/2024 13:10,Dairy & Alternatives,FALSE
+356,bread,29/01/2024 7:50,Bakery,FALSE
+356,butter,29/01/2024 7:50,Dairy & Alternatives,FALSE
+356,yogurt,29/01/2024 7:50,Dairy & Alternatives,FALSE
+357,apple,22/01/2024 0:17,Fruits & Vegetables,FALSE
+358,pasta,16/01/2024 20:15,Pantry Staples,FALSE
+358,cheese,16/01/2024 20:15,Dairy & Alternatives,FALSE
+358,yogurt,16/01/2024 20:15,Dairy & Alternatives,FALSE
+358,detergent,16/01/2024 20:15,Household Supplies,FALSE
+358,apple,16/01/2024 20:15,Fruits & Vegetables,FALSE
+359,eggs,29/01/2024 6:46,Dairy & Alternatives,FALSE
+360,cheese,24/01/2024 2:38,Dairy & Alternatives,FALSE
+361,detergent,07/01/2024 13:40,Household Supplies,FALSE
+361,rice,07/01/2024 13:40,Pantry Staples,FALSE
+361,eggs,07/01/2024 13:40,Dairy & Alternatives,FALSE
+361,yogurt,07/01/2024 13:40,Dairy & Alternatives,FALSE
+362,cereal,28/01/2024 6:59,Breakfast & Grains,FALSE
+362,butter,28/01/2024 6:59,Dairy & Alternatives,FALSE
+363,pepsi,15/01/2024 9:06,Beverages,FALSE
+363,coke,15/01/2024 9:06,Beverages,FALSE
+363,apple,15/01/2024 9:06,Fruits & Vegetables,FALSE
+364,shampoo,08/01/2024 17:43,Personal Care,FALSE
+364,milk,08/01/2024 17:43,Dairy & Alternatives,FALSE
+364,beef,08/01/2024 17:43,Meat & Seafood,FALSE
+364,pepsi,08/01/2024 17:43,Beverages,FALSE
+364,bread,08/01/2024 17:43,Bakery,FALSE
+365,banana,30/01/2024 17:42,Fruits & Vegetables,FALSE
+365,eggs,30/01/2024 17:42,Dairy & Alternatives,FALSE
+365,apple,30/01/2024 17:42,Fruits & Vegetables,FALSE
+365,paper towels,30/01/2024 17:42,Household Supplies,FALSE
+366,detergent,12/01/2024 22:15,Household Supplies,FALSE
+366,pasta,12/01/2024 22:15,Pantry Staples,FALSE
+366,banana,12/01/2024 22:15,Fruits & Vegetables,TRUE
+366,beef,12/01/2024 22:15,Meat & Seafood,FALSE
+367,eggs,04/01/2024 12:42,Dairy & Alternatives,FALSE
+367,butter,04/01/2024 12:42,Dairy & Alternatives,FALSE
+367,pepsi,04/01/2024 12:42,Beverages,FALSE
+367,pasta,04/01/2024 12:42,Pantry Staples,FALSE
+367,cheese,04/01/2024 12:42,Dairy & Alternatives,FALSE
+368,soap,02/01/2024 12:35,Personal Care,FALSE
+368,paper towels,02/01/2024 12:35,Household Supplies,FALSE
+369,paper towels,12/01/2024 19:40,Household Supplies,FALSE
+369,cheese,12/01/2024 19:40,Dairy & Alternatives,FALSE
+369,beef,12/01/2024 19:40,Meat & Seafood,FALSE
+369,eggs,12/01/2024 19:40,Dairy & Alternatives,FALSE
+369,coke,12/01/2024 19:40,Beverages,TRUE
+370,apple,05/01/2024 16:14,Fruits & Vegetables,FALSE
+371,pasta,21/01/2024 23:38,Pantry Staples,FALSE
+372,banana,14/01/2024 13:04,Fruits & Vegetables,FALSE
+372,rice,14/01/2024 13:04,Pantry Staples,FALSE
+373,eggs,23/01/2024 11:42,Dairy & Alternatives,FALSE
+373,milk,23/01/2024 11:42,Dairy & Alternatives,FALSE
+373,pasta,23/01/2024 11:42,Pantry Staples,FALSE
+373,apple,23/01/2024 11:42,Fruits & Vegetables,FALSE
+374,beef,01/01/2024 10:06,Meat & Seafood,FALSE
+374,detergent,01/01/2024 10:06,Household Supplies,FALSE
+374,banana,01/01/2024 10:06,Fruits & Vegetables,FALSE
+374,pasta,01/01/2024 10:06,Pantry Staples,FALSE
+374,cereal,01/01/2024 10:06,Breakfast & Grains,FALSE
+375,eggs,31/01/2024 1:15,Dairy & Alternatives,FALSE
+375,shampoo,31/01/2024 1:15,Personal Care,FALSE
+375,yogurt,31/01/2024 1:15,Dairy & Alternatives,TRUE
+376,yogurt,04/01/2024 13:35,Dairy & Alternatives,FALSE
+377,apple,21/01/2024 22:08,Fruits & Vegetables,FALSE
+377,detergent,21/01/2024 22:08,Household Supplies,FALSE
+377,rice,21/01/2024 22:08,Pantry Staples,FALSE
+377,bread,21/01/2024 22:08,Bakery,FALSE
+377,soap,21/01/2024 22:08,Personal Care,FALSE
+378,soap,19/01/2024 13:05,Personal Care,FALSE
+379,cheese,21/01/2024 20:39,Dairy & Alternatives,FALSE
+379,detergent,21/01/2024 20:39,Household Supplies,FALSE
+380,cheese,09/01/2024 5:58,Dairy & Alternatives,FALSE
+380,beef,09/01/2024 5:58,Meat & Seafood,FALSE
+380,paper towels,09/01/2024 5:58,Household Supplies,FALSE
+380,detergent,09/01/2024 5:58,Household Supplies,FALSE
+381,banana,15/01/2024 21:47,Fruits & Vegetables,FALSE
+381,chicken,15/01/2024 21:47,Meat & Seafood,FALSE
+381,butter,15/01/2024 21:47,Dairy & Alternatives,TRUE
+381,pepsi,15/01/2024 21:47,Beverages,FALSE
+381,pasta,15/01/2024 21:47,Pantry Staples,FALSE
+382,yogurt,26/01/2024 5:23,Dairy & Alternatives,FALSE
+382,soap,26/01/2024 5:23,Personal Care,FALSE
+382,butter,26/01/2024 5:23,Dairy & Alternatives,FALSE
+382,cheese,26/01/2024 5:23,Dairy & Alternatives,FALSE
+383,pasta,13/01/2024 14:25,Pantry Staples,FALSE
+383,cereal,13/01/2024 14:25,Breakfast & Grains,FALSE
+383,milk,13/01/2024 14:25,Dairy & Alternatives,FALSE
+383,apple,13/01/2024 14:25,Fruits & Vegetables,FALSE
+384,chicken,10/01/2024 12:59,Meat & Seafood,FALSE
+385,shampoo,02/01/2024 18:28,Personal Care,FALSE
+385,rice,02/01/2024 18:28,Pantry Staples,FALSE
+385,chicken,02/01/2024 18:28,Meat & Seafood,FALSE
+385,eggs,02/01/2024 18:28,Dairy & Alternatives,FALSE
+385,apple,02/01/2024 18:28,Fruits & Vegetables,FALSE
+386,soap,02/01/2024 16:08,Personal Care,FALSE
+387,eggs,08/01/2024 7:14,Dairy & Alternatives,FALSE
+388,coke,08/01/2024 11:54,Beverages,FALSE
+388,pasta,08/01/2024 11:54,Pantry Staples,TRUE
+389,soap,10/01/2024 23:56,Personal Care,FALSE
+389,milk,10/01/2024 23:56,Dairy & Alternatives,FALSE
+389,beef,10/01/2024 23:56,Meat & Seafood,FALSE
+389,chicken,10/01/2024 23:56,Meat & Seafood,FALSE
+389,coke,10/01/2024 23:56,Beverages,FALSE
+390,eggs,02/01/2024 2:27,Dairy & Alternatives,FALSE
+390,coke,02/01/2024 2:27,Beverages,FALSE
+390,apple,02/01/2024 2:27,Fruits & Vegetables,FALSE
+391,pepsi,08/01/2024 23:15,Beverages,FALSE
+392,beef,12/01/2024 7:52,Meat & Seafood,FALSE
+392,shampoo,12/01/2024 7:52,Personal Care,FALSE
+392,chicken,12/01/2024 7:52,Meat & Seafood,FALSE
+392,detergent,12/01/2024 7:52,Household Supplies,FALSE
+393,cereal,18/01/2024 13:35,Breakfast & Grains,FALSE
+393,soap,18/01/2024 13:35,Personal Care,FALSE
+393,milk,18/01/2024 13:35,Dairy & Alternatives,FALSE
+393,rice,18/01/2024 13:35,Pantry Staples,FALSE
+394,banana,14/01/2024 18:37,Fruits & Vegetables,FALSE
+394,bread,14/01/2024 18:37,Bakery,FALSE
+395,detergent,18/01/2024 16:46,Household Supplies,FALSE
+395,milk,18/01/2024 16:46,Dairy & Alternatives,FALSE
+396,pepsi,21/01/2024 5:57,Beverages,FALSE
+396,soap,21/01/2024 5:57,Personal Care,FALSE
+396,cheese,21/01/2024 5:57,Dairy & Alternatives,FALSE
+397,eggs,01/01/2024 1:19,Dairy & Alternatives,FALSE
+398,paper towels,31/01/2024 5:57,Household Supplies,FALSE
+398,butter,31/01/2024 5:57,Dairy & Alternatives,FALSE
+398,pepsi,31/01/2024 5:57,Beverages,FALSE
+398,cereal,31/01/2024 5:57,Breakfast & Grains,FALSE
+398,shampoo,31/01/2024 5:57,Personal Care,FALSE
+399,rice,18/01/2024 11:44,Pantry Staples,FALSE
+399,chicken,18/01/2024 11:44,Meat & Seafood,FALSE
+399,detergent,18/01/2024 11:44,Household Supplies,FALSE
+399,banana,18/01/2024 11:44,Fruits & Vegetables,FALSE
+399,eggs,18/01/2024 11:44,Dairy & Alternatives,FALSE
+400,milk,02/01/2024 3:18,Dairy & Alternatives,FALSE
+400,eggs,02/01/2024 3:18,Dairy & Alternatives,FALSE
+400,apple,02/01/2024 3:18,Fruits & Vegetables,FALSE
+401,banana,01/01/2024 23:38,Fruits & Vegetables,FALSE
+402,yogurt,09/01/2024 3:27,Dairy & Alternatives,FALSE
+402,chicken,09/01/2024 3:27,Meat & Seafood,FALSE
+402,detergent,09/01/2024 3:27,Household Supplies,FALSE
+403,milk,14/01/2024 1:46,Dairy & Alternatives,FALSE
+403,yogurt,14/01/2024 1:46,Dairy & Alternatives,FALSE
+403,cheese,14/01/2024 1:46,Dairy & Alternatives,FALSE
+403,rice,14/01/2024 1:46,Pantry Staples,FALSE
+403,soap,14/01/2024 1:46,Personal Care,FALSE
+404,paper towels,06/01/2024 8:23,Household Supplies,FALSE
+405,coke,30/01/2024 19:12,Beverages,FALSE
+406,butter,20/01/2024 3:12,Dairy & Alternatives,FALSE
+406,beef,20/01/2024 3:12,Meat & Seafood,FALSE
+406,bread,20/01/2024 3:12,Bakery,FALSE
+406,detergent,20/01/2024 3:12,Household Supplies,FALSE
+406,pepsi,20/01/2024 3:12,Beverages,FALSE
+407,bread,03/01/2024 14:50,Bakery,FALSE
+407,coke,03/01/2024 14:50,Beverages,FALSE
+407,cheese,03/01/2024 14:50,Dairy & Alternatives,FALSE
+407,butter,03/01/2024 14:50,Dairy & Alternatives,FALSE
+408,eggs,15/01/2024 15:23,Dairy & Alternatives,FALSE
+408,milk,15/01/2024 15:23,Dairy & Alternatives,FALSE
+408,pepsi,15/01/2024 15:23,Beverages,FALSE
+408,yogurt,15/01/2024 15:23,Dairy & Alternatives,FALSE
+409,bread,15/01/2024 11:14,Bakery,FALSE
+409,pasta,15/01/2024 11:14,Pantry Staples,FALSE
+409,eggs,15/01/2024 11:14,Dairy & Alternatives,FALSE
+409,beef,15/01/2024 11:14,Meat & Seafood,FALSE
+409,coke,15/01/2024 11:14,Beverages,TRUE
+410,paper towels,23/01/2024 23:17,Household Supplies,FALSE
+410,apple,23/01/2024 23:17,Fruits & Vegetables,FALSE
+410,shampoo,23/01/2024 23:17,Personal Care,FALSE
+410,soap,23/01/2024 23:17,Personal Care,FALSE
+410,cheese,23/01/2024 23:17,Dairy & Alternatives,FALSE
+411,yogurt,09/01/2024 8:19,Dairy & Alternatives,FALSE
+411,detergent,09/01/2024 8:19,Household Supplies,FALSE
+411,beef,09/01/2024 8:19,Meat & Seafood,FALSE
+411,cheese,09/01/2024 8:19,Dairy & Alternatives,FALSE
+411,cereal,09/01/2024 8:19,Breakfast & Grains,TRUE
+412,beef,26/01/2024 3:23,Meat & Seafood,FALSE
+412,paper towels,26/01/2024 3:23,Household Supplies,FALSE
+412,yogurt,26/01/2024 3:23,Dairy & Alternatives,FALSE
+412,pepsi,26/01/2024 3:23,Beverages,FALSE
+412,soap,26/01/2024 3:23,Personal Care,FALSE
+413,butter,31/01/2024 5:15,Dairy & Alternatives,FALSE
+413,pasta,31/01/2024 5:15,Pantry Staples,FALSE
+413,bread,31/01/2024 5:15,Bakery,FALSE
+413,beef,31/01/2024 5:15,Meat & Seafood,FALSE
+413,yogurt,31/01/2024 5:15,Dairy & Alternatives,FALSE
+414,paper towels,01/01/2024 3:45,Household Supplies,FALSE
+414,butter,01/01/2024 3:45,Dairy & Alternatives,FALSE
+414,soap,01/01/2024 3:45,Personal Care,TRUE
+414,pasta,01/01/2024 3:45,Pantry Staples,FALSE
+415,bread,13/01/2024 2:07,Bakery,FALSE
+415,eggs,13/01/2024 2:07,Dairy & Alternatives,FALSE
+415,banana,13/01/2024 2:07,Fruits & Vegetables,FALSE
+415,detergent,13/01/2024 2:07,Household Supplies,FALSE
+416,beef,01/01/2024 15:52,Meat & Seafood,FALSE
+416,chicken,01/01/2024 15:52,Meat & Seafood,FALSE
+416,paper towels,01/01/2024 15:52,Household Supplies,FALSE
+416,detergent,01/01/2024 15:52,Household Supplies,FALSE
+417,eggs,14/01/2024 11:52,Dairy & Alternatives,FALSE
+418,pepsi,25/01/2024 10:56,Beverages,FALSE
+418,chicken,25/01/2024 10:56,Meat & Seafood,FALSE
+418,cheese,25/01/2024 10:56,Dairy & Alternatives,FALSE
+419,paper towels,02/01/2024 22:25,Household Supplies,FALSE
+419,coke,02/01/2024 22:25,Beverages,FALSE
+419,cereal,02/01/2024 22:25,Breakfast & Grains,FALSE
+420,milk,06/01/2024 23:17,Dairy & Alternatives,FALSE
+420,banana,06/01/2024 23:17,Fruits & Vegetables,FALSE
+420,cheese,06/01/2024 23:17,Dairy & Alternatives,FALSE
+420,shampoo,06/01/2024 23:17,Personal Care,FALSE
+420,soap,06/01/2024 23:17,Personal Care,TRUE
+421,bread,11/01/2024 10:10,Bakery,FALSE
+422,beef,04/01/2024 16:26,Meat & Seafood,FALSE
+422,cereal,04/01/2024 16:26,Breakfast & Grains,FALSE
+423,beef,19/01/2024 11:51,Meat & Seafood,FALSE
+423,rice,19/01/2024 11:51,Pantry Staples,FALSE
+423,milk,19/01/2024 11:51,Dairy & Alternatives,FALSE
+423,cheese,19/01/2024 11:51,Dairy & Alternatives,FALSE
+423,coke,19/01/2024 11:51,Beverages,FALSE
+424,paper towels,04/01/2024 14:03,Household Supplies,FALSE
+424,milk,04/01/2024 14:03,Dairy & Alternatives,FALSE
+424,soap,04/01/2024 14:03,Personal Care,FALSE
+424,eggs,04/01/2024 14:03,Dairy & Alternatives,TRUE
+424,rice,04/01/2024 14:03,Pantry Staples,TRUE
+425,shampoo,15/01/2024 19:06,Personal Care,FALSE
+425,eggs,15/01/2024 19:06,Dairy & Alternatives,FALSE
+425,beef,15/01/2024 19:06,Meat & Seafood,FALSE
+425,butter,15/01/2024 19:06,Dairy & Alternatives,FALSE
+425,cheese,15/01/2024 19:06,Dairy & Alternatives,FALSE
+426,detergent,25/01/2024 17:39,Household Supplies,FALSE
+427,rice,16/01/2024 16:41,Pantry Staples,FALSE
+427,butter,16/01/2024 16:41,Dairy & Alternatives,FALSE
+427,paper towels,16/01/2024 16:41,Household Supplies,FALSE
+427,shampoo,16/01/2024 16:41,Personal Care,FALSE
+428,butter,16/01/2024 20:08,Dairy & Alternatives,FALSE
+428,paper towels,16/01/2024 20:08,Household Supplies,FALSE
+428,milk,16/01/2024 20:08,Dairy & Alternatives,FALSE
+428,cereal,16/01/2024 20:08,Breakfast & Grains,FALSE
+429,detergent,18/01/2024 14:57,Household Supplies,FALSE
+429,shampoo,18/01/2024 14:57,Personal Care,FALSE
+429,rice,18/01/2024 14:57,Pantry Staples,FALSE
+429,chicken,18/01/2024 14:57,Meat & Seafood,FALSE
+429,apple,18/01/2024 14:57,Fruits & Vegetables,FALSE
+430,bread,05/01/2024 14:44,Bakery,FALSE
+430,rice,05/01/2024 14:44,Pantry Staples,FALSE
+430,soap,05/01/2024 14:44,Personal Care,FALSE
+430,cereal,05/01/2024 14:44,Breakfast & Grains,FALSE
+431,butter,17/01/2024 3:56,Dairy & Alternatives,FALSE
+432,eggs,15/01/2024 20:10,Dairy & Alternatives,FALSE
+433,coke,12/01/2024 7:59,Beverages,FALSE
+433,banana,12/01/2024 7:59,Fruits & Vegetables,FALSE
+433,shampoo,12/01/2024 7:59,Personal Care,FALSE
+434,soap,15/01/2024 8:29,Personal Care,FALSE
+435,pasta,22/01/2024 0:19,Pantry Staples,FALSE
+435,eggs,22/01/2024 0:19,Dairy & Alternatives,FALSE
+435,milk,22/01/2024 0:19,Dairy & Alternatives,FALSE
+435,apple,22/01/2024 0:19,Fruits & Vegetables,FALSE
+435,cereal,22/01/2024 0:19,Breakfast & Grains,FALSE
+436,soap,01/01/2024 19:32,Personal Care,FALSE
+436,rice,01/01/2024 19:32,Pantry Staples,FALSE
+436,detergent,01/01/2024 19:32,Household Supplies,FALSE
+436,eggs,01/01/2024 19:32,Dairy & Alternatives,FALSE
+436,banana,01/01/2024 19:32,Fruits & Vegetables,FALSE
+437,apple,30/01/2024 1:07,Fruits & Vegetables,FALSE
+437,banana,30/01/2024 1:07,Fruits & Vegetables,FALSE
+437,cheese,30/01/2024 1:07,Dairy & Alternatives,FALSE
+437,yogurt,30/01/2024 1:07,Dairy & Alternatives,FALSE
+438,chicken,08/01/2024 15:28,Meat & Seafood,FALSE
+438,pepsi,08/01/2024 15:28,Beverages,FALSE
+439,shampoo,19/01/2024 23:29,Personal Care,FALSE
+439,coke,19/01/2024 23:29,Beverages,FALSE
+440,pasta,01/01/2024 0:34,Pantry Staples,FALSE
+440,apple,01/01/2024 0:34,Fruits & Vegetables,TRUE
+441,rice,19/01/2024 22:25,Pantry Staples,FALSE
+441,pepsi,19/01/2024 22:25,Beverages,FALSE
+441,paper towels,19/01/2024 22:25,Household Supplies,FALSE
+442,pepsi,09/01/2024 22:15,Beverages,FALSE
+442,shampoo,09/01/2024 22:15,Personal Care,FALSE
+442,butter,09/01/2024 22:15,Dairy & Alternatives,TRUE
+443,apple,30/01/2024 22:15,Fruits & Vegetables,FALSE
+443,banana,30/01/2024 22:15,Fruits & Vegetables,FALSE
+443,shampoo,30/01/2024 22:15,Personal Care,FALSE
+444,soap,23/01/2024 6:02,Personal Care,FALSE
+444,chicken,23/01/2024 6:02,Meat & Seafood,FALSE
+444,butter,23/01/2024 6:02,Dairy & Alternatives,FALSE
+445,apple,09/01/2024 2:10,Fruits & Vegetables,FALSE
+445,detergent,09/01/2024 2:10,Household Supplies,FALSE
+445,paper towels,09/01/2024 2:10,Household Supplies,FALSE
+445,pepsi,09/01/2024 2:10,Beverages,FALSE
+445,shampoo,09/01/2024 2:10,Personal Care,FALSE
+446,cereal,11/01/2024 6:19,Breakfast & Grains,FALSE
+446,detergent,11/01/2024 6:19,Household Supplies,FALSE
+446,bread,11/01/2024 6:19,Bakery,TRUE
+446,rice,11/01/2024 6:19,Pantry Staples,FALSE
+446,chicken,11/01/2024 6:19,Meat & Seafood,FALSE
+447,rice,01/01/2024 21:09,Pantry Staples,FALSE
+448,beef,14/01/2024 17:20,Meat & Seafood,TRUE
+448,cereal,14/01/2024 17:20,Breakfast & Grains,FALSE
+448,cheese,14/01/2024 17:20,Dairy & Alternatives,FALSE
+448,chicken,14/01/2024 17:20,Meat & Seafood,FALSE
+449,cheese,29/01/2024 18:58,Dairy & Alternatives,FALSE
+450,beef,28/01/2024 19:48,Meat & Seafood,FALSE
+451,butter,01/01/2024 12:22,Dairy & Alternatives,FALSE
+451,bread,01/01/2024 12:22,Bakery,FALSE
+451,pasta,01/01/2024 12:22,Pantry Staples,FALSE
+452,eggs,16/01/2024 8:21,Dairy & Alternatives,FALSE
+453,bread,14/01/2024 0:08,Bakery,FALSE
+453,chicken,14/01/2024 0:08,Meat & Seafood,FALSE
+453,apple,14/01/2024 0:08,Fruits & Vegetables,FALSE
+454,apple,30/01/2024 8:41,Fruits & Vegetables,FALSE
+454,cheese,30/01/2024 8:41,Dairy & Alternatives,TRUE
+454,yogurt,30/01/2024 8:41,Dairy & Alternatives,FALSE
+454,soap,30/01/2024 8:41,Personal Care,FALSE
+454,butter,30/01/2024 8:41,Dairy & Alternatives,FALSE
+455,banana,29/01/2024 21:29,Fruits & Vegetables,FALSE
+455,paper towels,29/01/2024 21:29,Household Supplies,FALSE
+455,milk,29/01/2024 21:29,Dairy & Alternatives,FALSE
+455,detergent,29/01/2024 21:29,Household Supplies,FALSE
+455,apple,29/01/2024 21:29,Fruits & Vegetables,FALSE
+456,milk,16/01/2024 17:17,Dairy & Alternatives,FALSE
+456,paper towels,16/01/2024 17:17,Household Supplies,FALSE
+456,soap,16/01/2024 17:17,Personal Care,FALSE
+457,pasta,07/01/2024 1:42,Pantry Staples,FALSE
+457,bread,07/01/2024 1:42,Bakery,FALSE
+457,coke,07/01/2024 1:42,Beverages,FALSE
+458,soap,21/01/2024 2:17,Personal Care,FALSE
+458,banana,21/01/2024 2:17,Fruits & Vegetables,FALSE
+458,eggs,21/01/2024 2:17,Dairy & Alternatives,FALSE
+458,bread,21/01/2024 2:17,Bakery,FALSE
+458,coke,21/01/2024 2:17,Beverages,TRUE
+459,shampoo,11/01/2024 7:20,Personal Care,FALSE
+460,coke,13/01/2024 3:28,Beverages,FALSE
+461,shampoo,28/01/2024 1:35,Personal Care,FALSE
+461,milk,28/01/2024 1:35,Dairy & Alternatives,FALSE
+462,beef,23/01/2024 21:35,Meat & Seafood,FALSE
+462,coke,23/01/2024 21:35,Beverages,FALSE
+462,paper towels,23/01/2024 21:35,Household Supplies,FALSE
+463,yogurt,27/01/2024 17:06,Dairy & Alternatives,FALSE
+463,soap,27/01/2024 17:06,Personal Care,FALSE
+463,banana,27/01/2024 17:06,Fruits & Vegetables,FALSE
+463,rice,27/01/2024 17:06,Pantry Staples,TRUE
+463,eggs,27/01/2024 17:06,Dairy & Alternatives,FALSE
+464,coke,22/01/2024 0:39,Beverages,FALSE
+464,bread,22/01/2024 0:39,Bakery,FALSE
+465,soap,26/01/2024 14:41,Personal Care,FALSE
+465,butter,26/01/2024 14:41,Dairy & Alternatives,FALSE
+466,bread,21/01/2024 20:59,Bakery,FALSE
+466,rice,21/01/2024 20:59,Pantry Staples,FALSE
+466,pepsi,21/01/2024 20:59,Beverages,FALSE
+466,paper towels,21/01/2024 20:59,Household Supplies,FALSE
+467,apple,26/01/2024 5:41,Fruits & Vegetables,TRUE
+467,rice,26/01/2024 5:41,Pantry Staples,FALSE
+467,cheese,26/01/2024 5:41,Dairy & Alternatives,FALSE
+467,eggs,26/01/2024 5:41,Dairy & Alternatives,FALSE
+468,bread,06/01/2024 22:05,Bakery,FALSE
+468,eggs,06/01/2024 22:05,Dairy & Alternatives,FALSE
+468,beef,06/01/2024 22:05,Meat & Seafood,FALSE
+469,chicken,28/01/2024 4:01,Meat & Seafood,FALSE
+470,eggs,29/01/2024 13:33,Dairy & Alternatives,FALSE
+471,banana,21/01/2024 1:38,Fruits & Vegetables,FALSE
+472,cereal,19/01/2024 2:16,Breakfast & Grains,FALSE
+472,yogurt,19/01/2024 2:16,Dairy & Alternatives,FALSE
+472,detergent,19/01/2024 2:16,Household Supplies,FALSE
+472,pasta,19/01/2024 2:16,Pantry Staples,FALSE
+472,paper towels,19/01/2024 2:16,Household Supplies,TRUE
+473,cereal,01/01/2024 4:25,Breakfast & Grains,FALSE
+473,eggs,01/01/2024 4:25,Dairy & Alternatives,FALSE
+474,soap,09/01/2024 7:51,Personal Care,FALSE
+474,chicken,09/01/2024 7:51,Meat & Seafood,FALSE
+474,pasta,09/01/2024 7:51,Pantry Staples,FALSE
+474,coke,09/01/2024 7:51,Beverages,FALSE
+474,shampoo,09/01/2024 7:51,Personal Care,FALSE
+475,banana,18/01/2024 13:54,Fruits & Vegetables,FALSE
+475,apple,18/01/2024 13:54,Fruits & Vegetables,FALSE
+475,pasta,18/01/2024 13:54,Pantry Staples,TRUE
+475,milk,18/01/2024 13:54,Dairy & Alternatives,FALSE
+476,beef,05/01/2024 18:35,Meat & Seafood,FALSE
+476,rice,05/01/2024 18:35,Pantry Staples,FALSE
+476,pepsi,05/01/2024 18:35,Beverages,FALSE
+477,beef,25/01/2024 16:51,Meat & Seafood,FALSE
+477,rice,25/01/2024 16:51,Pantry Staples,FALSE
+478,butter,28/01/2024 6:14,Dairy & Alternatives,FALSE
+478,cheese,28/01/2024 6:14,Dairy & Alternatives,FALSE
+478,banana,28/01/2024 6:14,Fruits & Vegetables,FALSE
+479,coke,01/01/2024 23:59,Beverages,FALSE
+480,apple,20/01/2024 8:19,Fruits & Vegetables,FALSE
+480,pasta,20/01/2024 8:19,Pantry Staples,FALSE
+480,paper towels,20/01/2024 8:19,Household Supplies,FALSE
+480,coke,20/01/2024 8:19,Beverages,FALSE
+481,chicken,16/01/2024 15:26,Meat & Seafood,FALSE
+481,rice,16/01/2024 15:26,Pantry Staples,FALSE
+482,rice,12/01/2024 18:45,Pantry Staples,FALSE
+482,eggs,12/01/2024 18:45,Dairy & Alternatives,FALSE
+483,pepsi,21/01/2024 23:18,Beverages,FALSE
+483,coke,21/01/2024 23:18,Beverages,FALSE
+484,detergent,09/01/2024 0:58,Household Supplies,FALSE
+484,eggs,09/01/2024 0:58,Dairy & Alternatives,FALSE
+485,apple,07/01/2024 18:42,Fruits & Vegetables,FALSE
+485,rice,07/01/2024 18:42,Pantry Staples,FALSE
+485,beef,07/01/2024 18:42,Meat & Seafood,FALSE
+485,butter,07/01/2024 18:42,Dairy & Alternatives,FALSE
+485,detergent,07/01/2024 18:42,Household Supplies,FALSE
+486,soap,01/01/2024 16:43,Personal Care,FALSE
+486,milk,01/01/2024 16:43,Dairy & Alternatives,FALSE
+487,paper towels,14/01/2024 10:00,Household Supplies,FALSE
+487,cheese,14/01/2024 10:00,Dairy & Alternatives,FALSE
+487,coke,14/01/2024 10:00,Beverages,FALSE
+487,pasta,14/01/2024 10:00,Pantry Staples,FALSE
+488,banana,31/01/2024 7:44,Fruits & Vegetables,FALSE
+488,eggs,31/01/2024 7:44,Dairy & Alternatives,FALSE
+488,shampoo,31/01/2024 7:44,Personal Care,FALSE
+488,butter,31/01/2024 7:44,Dairy & Alternatives,FALSE
+488,chicken,31/01/2024 7:44,Meat & Seafood,FALSE
+489,coke,29/01/2024 1:26,Beverages,FALSE
+489,cereal,29/01/2024 1:26,Breakfast & Grains,FALSE
+489,butter,29/01/2024 1:26,Dairy & Alternatives,FALSE
+490,detergent,04/01/2024 20:49,Household Supplies,FALSE
+490,milk,04/01/2024 20:49,Dairy & Alternatives,FALSE
+490,shampoo,04/01/2024 20:49,Personal Care,FALSE
+490,butter,04/01/2024 20:49,Dairy & Alternatives,FALSE
+490,rice,04/01/2024 20:49,Pantry Staples,FALSE
+491,cheese,01/01/2024 14:42,Dairy & Alternatives,FALSE
+491,butter,01/01/2024 14:42,Dairy & Alternatives,FALSE
+491,milk,01/01/2024 14:42,Dairy & Alternatives,FALSE
+492,detergent,24/01/2024 0:33,Household Supplies,FALSE
+492,soap,24/01/2024 0:33,Personal Care,FALSE
+493,shampoo,05/01/2024 17:00,Personal Care,TRUE
+494,cheese,11/01/2024 23:15,Dairy & Alternatives,FALSE
+494,pepsi,11/01/2024 23:15,Beverages,FALSE
+494,rice,11/01/2024 23:15,Pantry Staples,FALSE
+494,beef,11/01/2024 23:15,Meat & Seafood,FALSE
+495,banana,19/01/2024 1:33,Fruits & Vegetables,FALSE
+495,bread,19/01/2024 1:33,Bakery,FALSE
+496,rice,19/01/2024 21:26,Pantry Staples,FALSE
+496,soap,19/01/2024 21:26,Personal Care,FALSE
+497,cheese,29/01/2024 10:14,Dairy & Alternatives,FALSE
+497,paper towels,29/01/2024 10:14,Household Supplies,TRUE
+497,yogurt,29/01/2024 10:14,Dairy & Alternatives,FALSE
+498,banana,05/01/2024 10:17,Fruits & Vegetables,TRUE
+498,butter,05/01/2024 10:17,Dairy & Alternatives,FALSE
+498,paper towels,05/01/2024 10:17,Household Supplies,FALSE
+499,apple,22/01/2024 20:15,Fruits & Vegetables,FALSE
+499,bread,22/01/2024 20:15,Bakery,TRUE
+499,soap,22/01/2024 20:15,Personal Care,TRUE
+499,chicken,22/01/2024 20:15,Meat & Seafood,FALSE
+499,coke,22/01/2024 20:15,Beverages,FALSE
+500,detergent,31/01/2024 8:52,Household Supplies,TRUE
+501,pasta,14/01/2024 10:19,Pantry Staples,FALSE
+501,eggs,14/01/2024 10:19,Dairy & Alternatives,TRUE
+501,pepsi,14/01/2024 10:19,Beverages,FALSE
+501,yogurt,14/01/2024 10:19,Dairy & Alternatives,FALSE
+501,cheese,14/01/2024 10:19,Dairy & Alternatives,FALSE
+502,cheese,23/01/2024 9:27,Dairy & Alternatives,FALSE
+502,apple,23/01/2024 9:27,Fruits & Vegetables,FALSE
+502,paper towels,23/01/2024 9:27,Household Supplies,FALSE
+502,bread,23/01/2024 9:27,Bakery,FALSE
+502,banana,23/01/2024 9:27,Fruits & Vegetables,FALSE
+503,paper towels,27/01/2024 7:04,Household Supplies,FALSE
+503,yogurt,27/01/2024 7:04,Dairy & Alternatives,FALSE
+503,banana,27/01/2024 7:04,Fruits & Vegetables,FALSE
+503,bread,27/01/2024 7:04,Bakery,FALSE
+504,yogurt,05/01/2024 14:31,Dairy & Alternatives,FALSE
+504,cereal,05/01/2024 14:31,Breakfast & Grains,FALSE
+504,pasta,05/01/2024 14:31,Pantry Staples,FALSE
+504,cheese,05/01/2024 14:31,Dairy & Alternatives,FALSE
+505,yogurt,20/01/2024 10:51,Dairy & Alternatives,FALSE
+506,bread,30/01/2024 0:17,Bakery,FALSE
+506,shampoo,30/01/2024 0:17,Personal Care,FALSE
+506,chicken,30/01/2024 0:17,Meat & Seafood,FALSE
+506,beef,30/01/2024 0:17,Meat & Seafood,FALSE
+506,pepsi,30/01/2024 0:17,Beverages,FALSE
+507,butter,11/01/2024 19:27,Dairy & Alternatives,FALSE
+507,eggs,11/01/2024 19:27,Dairy & Alternatives,FALSE
+508,yogurt,23/01/2024 8:01,Dairy & Alternatives,FALSE
+508,bread,23/01/2024 8:01,Bakery,FALSE
+508,cereal,23/01/2024 8:01,Breakfast & Grains,FALSE
+509,butter,19/01/2024 15:39,Dairy & Alternatives,FALSE
+510,coke,18/01/2024 13:10,Beverages,FALSE
+510,eggs,18/01/2024 13:10,Dairy & Alternatives,FALSE
+510,detergent,18/01/2024 13:10,Household Supplies,TRUE
+511,cheese,19/01/2024 14:59,Dairy & Alternatives,FALSE
+511,bread,19/01/2024 14:59,Bakery,FALSE
+512,chicken,05/01/2024 2:59,Meat & Seafood,FALSE
+513,apple,27/01/2024 8:18,Fruits & Vegetables,FALSE
+513,paper towels,27/01/2024 8:18,Household Supplies,FALSE
+513,beef,27/01/2024 8:18,Meat & Seafood,FALSE
+513,cheese,27/01/2024 8:18,Dairy & Alternatives,FALSE
+514,bread,14/01/2024 12:21,Bakery,FALSE
+515,bread,14/01/2024 2:39,Bakery,FALSE
+515,paper towels,14/01/2024 2:39,Household Supplies,FALSE
+515,yogurt,14/01/2024 2:39,Dairy & Alternatives,FALSE
+515,cheese,14/01/2024 2:39,Dairy & Alternatives,FALSE
+515,beef,14/01/2024 2:39,Meat & Seafood,TRUE
+516,detergent,13/01/2024 14:10,Household Supplies,FALSE
+517,milk,19/01/2024 15:24,Dairy & Alternatives,FALSE
+517,butter,19/01/2024 15:24,Dairy & Alternatives,FALSE
+518,pasta,25/01/2024 0:09,Pantry Staples,FALSE
+518,soap,25/01/2024 0:09,Personal Care,FALSE
+518,detergent,25/01/2024 0:09,Household Supplies,FALSE
+518,rice,25/01/2024 0:09,Pantry Staples,FALSE
+519,coke,07/01/2024 16:07,Beverages,FALSE
+519,butter,07/01/2024 16:07,Dairy & Alternatives,TRUE
+519,yogurt,07/01/2024 16:07,Dairy & Alternatives,FALSE
+519,cheese,07/01/2024 16:07,Dairy & Alternatives,FALSE
+519,detergent,07/01/2024 16:07,Household Supplies,FALSE
+520,beef,31/01/2024 23:18,Meat & Seafood,FALSE
+520,apple,31/01/2024 23:18,Fruits & Vegetables,FALSE
+521,pasta,12/01/2024 22:47,Pantry Staples,FALSE
+522,soap,10/01/2024 7:48,Personal Care,FALSE
+522,banana,10/01/2024 7:48,Fruits & Vegetables,FALSE
+523,yogurt,11/01/2024 15:16,Dairy & Alternatives,FALSE
+523,milk,11/01/2024 15:16,Dairy & Alternatives,FALSE
+524,bread,31/01/2024 6:51,Bakery,FALSE
+524,cheese,31/01/2024 6:51,Dairy & Alternatives,FALSE
+524,beef,31/01/2024 6:51,Meat & Seafood,FALSE
+524,yogurt,31/01/2024 6:51,Dairy & Alternatives,FALSE
+525,shampoo,16/01/2024 14:30,Personal Care,FALSE
+525,rice,16/01/2024 14:30,Pantry Staples,TRUE
+525,cereal,16/01/2024 14:30,Breakfast & Grains,FALSE
+525,butter,16/01/2024 14:30,Dairy & Alternatives,FALSE
+525,chicken,16/01/2024 14:30,Meat & Seafood,FALSE
+526,pepsi,22/01/2024 14:20,Beverages,FALSE
+526,apple,22/01/2024 14:20,Fruits & Vegetables,FALSE
+527,soap,10/01/2024 15:30,Personal Care,FALSE
+527,rice,10/01/2024 15:30,Pantry Staples,FALSE
+527,cheese,10/01/2024 15:30,Dairy & Alternatives,FALSE
+527,coke,10/01/2024 15:30,Beverages,FALSE
+527,paper towels,10/01/2024 15:30,Household Supplies,FALSE
+528,cheese,24/01/2024 9:52,Dairy & Alternatives,FALSE
+528,coke,24/01/2024 9:52,Beverages,FALSE
+529,butter,11/01/2024 18:06,Dairy & Alternatives,FALSE
+529,pepsi,11/01/2024 18:06,Beverages,FALSE
+529,beef,11/01/2024 18:06,Meat & Seafood,FALSE
+529,shampoo,11/01/2024 18:06,Personal Care,FALSE
+530,paper towels,06/01/2024 10:35,Household Supplies,FALSE
+530,detergent,06/01/2024 10:35,Household Supplies,FALSE
+531,coke,31/01/2024 17:52,Beverages,FALSE
+531,yogurt,31/01/2024 17:52,Dairy & Alternatives,FALSE
+531,chicken,31/01/2024 17:52,Meat & Seafood,FALSE
+531,bread,31/01/2024 17:52,Bakery,FALSE
+532,banana,20/01/2024 4:40,Fruits & Vegetables,FALSE
+532,pasta,20/01/2024 4:40,Pantry Staples,FALSE
+532,detergent,20/01/2024 4:40,Household Supplies,FALSE
+532,beef,20/01/2024 4:40,Meat & Seafood,FALSE
+532,soap,20/01/2024 4:40,Personal Care,FALSE
+533,pasta,27/01/2024 15:47,Pantry Staples,FALSE
+534,cheese,21/01/2024 21:06,Dairy & Alternatives,FALSE
+534,coke,21/01/2024 21:06,Beverages,FALSE
+534,pasta,21/01/2024 21:06,Pantry Staples,FALSE
+535,banana,21/01/2024 1:12,Fruits & Vegetables,FALSE
+535,bread,21/01/2024 1:12,Bakery,FALSE
+536,apple,08/01/2024 14:26,Fruits & Vegetables,FALSE
+536,coke,08/01/2024 14:26,Beverages,FALSE
+536,paper towels,08/01/2024 14:26,Household Supplies,FALSE
+536,rice,08/01/2024 14:26,Pantry Staples,FALSE
+536,detergent,08/01/2024 14:26,Household Supplies,FALSE
+537,cereal,15/01/2024 2:06,Breakfast & Grains,FALSE
+538,eggs,13/01/2024 10:18,Dairy & Alternatives,FALSE
+538,cheese,13/01/2024 10:18,Dairy & Alternatives,FALSE
+538,bread,13/01/2024 10:18,Bakery,FALSE
+539,apple,09/01/2024 16:17,Fruits & Vegetables,FALSE
+539,pepsi,09/01/2024 16:17,Beverages,FALSE
+539,rice,09/01/2024 16:17,Pantry Staples,FALSE
+540,detergent,11/01/2024 22:05,Household Supplies,FALSE
+540,cereal,11/01/2024 22:05,Breakfast & Grains,FALSE
+540,cheese,11/01/2024 22:05,Dairy & Alternatives,FALSE
+540,coke,11/01/2024 22:05,Beverages,FALSE
+541,beef,09/01/2024 23:21,Meat & Seafood,FALSE
+541,chicken,09/01/2024 23:21,Meat & Seafood,FALSE
+541,pepsi,09/01/2024 23:21,Beverages,FALSE
+541,cheese,09/01/2024 23:21,Dairy & Alternatives,FALSE
+542,soap,24/01/2024 11:32,Personal Care,FALSE
+542,coke,24/01/2024 11:32,Beverages,FALSE
+542,bread,24/01/2024 11:32,Bakery,FALSE
+542,pepsi,24/01/2024 11:32,Beverages,FALSE
+543,cereal,06/01/2024 18:47,Breakfast & Grains,FALSE
+544,butter,26/01/2024 5:01,Dairy & Alternatives,FALSE
+544,detergent,26/01/2024 5:01,Household Supplies,FALSE
+544,yogurt,26/01/2024 5:01,Dairy & Alternatives,FALSE
+545,shampoo,20/01/2024 16:16,Personal Care,FALSE
+545,bread,20/01/2024 16:16,Bakery,FALSE
+545,cheese,20/01/2024 16:16,Dairy & Alternatives,FALSE
+546,soap,10/01/2024 16:27,Personal Care,FALSE
+547,beef,28/01/2024 12:08,Meat & Seafood,FALSE
+548,soap,08/01/2024 10:31,Personal Care,FALSE
+548,milk,08/01/2024 10:31,Dairy & Alternatives,FALSE
+549,chicken,20/01/2024 16:31,Meat & Seafood,FALSE
+550,shampoo,24/01/2024 15:35,Personal Care,FALSE
+551,detergent,29/01/2024 9:49,Household Supplies,FALSE
+551,bread,29/01/2024 9:49,Bakery,FALSE
+552,chicken,02/01/2024 0:15,Meat & Seafood,FALSE
+552,soap,02/01/2024 0:15,Personal Care,FALSE
+552,banana,02/01/2024 0:15,Fruits & Vegetables,FALSE
+552,apple,02/01/2024 0:15,Fruits & Vegetables,FALSE
+552,coke,02/01/2024 0:15,Beverages,FALSE
+553,rice,27/01/2024 6:04,Pantry Staples,FALSE
+553,pasta,27/01/2024 6:04,Pantry Staples,FALSE
+554,apple,15/01/2024 13:59,Fruits & Vegetables,FALSE
+554,yogurt,15/01/2024 13:59,Dairy & Alternatives,FALSE
+554,pasta,15/01/2024 13:59,Pantry Staples,FALSE
+554,bread,15/01/2024 13:59,Bakery,FALSE
+555,chicken,19/01/2024 23:42,Meat & Seafood,FALSE
+555,pepsi,19/01/2024 23:42,Beverages,FALSE
+555,pasta,19/01/2024 23:42,Pantry Staples,FALSE
+555,cheese,19/01/2024 23:42,Dairy & Alternatives,FALSE
+556,soap,22/01/2024 23:29,Personal Care,FALSE
+556,shampoo,22/01/2024 23:29,Personal Care,FALSE
+556,pepsi,22/01/2024 23:29,Beverages,FALSE
+557,beef,06/01/2024 22:55,Meat & Seafood,FALSE
+557,paper towels,06/01/2024 22:55,Household Supplies,FALSE
+557,cereal,06/01/2024 22:55,Breakfast & Grains,FALSE
+557,apple,06/01/2024 22:55,Fruits & Vegetables,FALSE
+557,yogurt,06/01/2024 22:55,Dairy & Alternatives,FALSE
+558,bread,31/01/2024 12:13,Bakery,FALSE
+558,cereal,31/01/2024 12:13,Breakfast & Grains,FALSE
+558,rice,31/01/2024 12:13,Pantry Staples,FALSE
+558,yogurt,31/01/2024 12:13,Dairy & Alternatives,FALSE
+559,coke,24/01/2024 20:37,Beverages,FALSE
+559,rice,24/01/2024 20:37,Pantry Staples,FALSE
+560,cereal,02/01/2024 2:22,Breakfast & Grains,FALSE
+560,detergent,02/01/2024 2:22,Household Supplies,FALSE
+560,cheese,02/01/2024 2:22,Dairy & Alternatives,FALSE
+560,paper towels,02/01/2024 2:22,Household Supplies,FALSE
+561,paper towels,31/01/2024 0:54,Household Supplies,FALSE
+561,pasta,31/01/2024 0:54,Pantry Staples,FALSE
+561,pepsi,31/01/2024 0:54,Beverages,FALSE
+562,shampoo,19/01/2024 5:57,Personal Care,FALSE
+562,cheese,19/01/2024 5:57,Dairy & Alternatives,FALSE
+563,paper towels,20/01/2024 11:05,Household Supplies,FALSE
+563,milk,20/01/2024 11:05,Dairy & Alternatives,FALSE
+564,banana,16/01/2024 15:44,Fruits & Vegetables,FALSE
+565,pasta,11/01/2024 7:40,Pantry Staples,FALSE
+566,cereal,14/01/2024 6:47,Breakfast & Grains,FALSE
+566,butter,14/01/2024 6:47,Dairy & Alternatives,FALSE
+566,pepsi,14/01/2024 6:47,Beverages,FALSE
+567,soap,07/01/2024 10:03,Personal Care,FALSE
+567,cheese,07/01/2024 10:03,Dairy & Alternatives,FALSE
+568,banana,09/01/2024 14:10,Fruits & Vegetables,FALSE
+568,rice,09/01/2024 14:10,Pantry Staples,FALSE
+568,chicken,09/01/2024 14:10,Meat & Seafood,FALSE
+568,shampoo,09/01/2024 14:10,Personal Care,FALSE
+568,eggs,09/01/2024 14:10,Dairy & Alternatives,FALSE
+569,cereal,06/01/2024 15:10,Breakfast & Grains,TRUE
+569,banana,06/01/2024 15:10,Fruits & Vegetables,FALSE
+570,pasta,13/01/2024 17:12,Pantry Staples,FALSE
+570,detergent,13/01/2024 17:12,Household Supplies,FALSE
+571,shampoo,11/01/2024 22:10,Personal Care,FALSE
+571,cheese,11/01/2024 22:10,Dairy & Alternatives,FALSE
+571,eggs,11/01/2024 22:10,Dairy & Alternatives,FALSE
+571,banana,11/01/2024 22:10,Fruits & Vegetables,FALSE
+571,paper towels,11/01/2024 22:10,Household Supplies,FALSE
+572,bread,21/01/2024 20:19,Bakery,FALSE
+572,pepsi,21/01/2024 20:19,Beverages,FALSE
+572,beef,21/01/2024 20:19,Meat & Seafood,FALSE
+572,cereal,21/01/2024 20:19,Breakfast & Grains,FALSE
+572,paper towels,21/01/2024 20:19,Household Supplies,TRUE
+573,milk,21/01/2024 14:31,Dairy & Alternatives,FALSE
+574,chicken,08/01/2024 2:38,Meat & Seafood,FALSE
+574,milk,08/01/2024 2:38,Dairy & Alternatives,FALSE
+574,apple,08/01/2024 2:38,Fruits & Vegetables,FALSE
+574,bread,08/01/2024 2:38,Bakery,FALSE
+574,banana,08/01/2024 2:38,Fruits & Vegetables,FALSE
+575,milk,19/01/2024 9:17,Dairy & Alternatives,FALSE
+575,pepsi,19/01/2024 9:17,Beverages,TRUE
+576,apple,30/01/2024 1:18,Fruits & Vegetables,TRUE
+577,paper towels,13/01/2024 19:26,Household Supplies,FALSE
+577,milk,13/01/2024 19:26,Dairy & Alternatives,FALSE
+577,detergent,13/01/2024 19:26,Household Supplies,FALSE
+577,shampoo,13/01/2024 19:26,Personal Care,FALSE
+578,bread,03/01/2024 21:07,Bakery,FALSE
+578,milk,03/01/2024 21:07,Dairy & Alternatives,FALSE
+578,chicken,03/01/2024 21:07,Meat & Seafood,FALSE
+579,chicken,09/01/2024 8:08,Meat & Seafood,FALSE
+579,paper towels,09/01/2024 8:08,Household Supplies,FALSE
+580,chicken,05/01/2024 3:48,Meat & Seafood,FALSE
+580,butter,05/01/2024 3:48,Dairy & Alternatives,FALSE
+581,cheese,15/01/2024 0:33,Dairy & Alternatives,FALSE
+581,pasta,15/01/2024 0:33,Pantry Staples,FALSE
+581,detergent,15/01/2024 0:33,Household Supplies,FALSE
+581,chicken,15/01/2024 0:33,Meat & Seafood,FALSE
+582,shampoo,28/01/2024 6:44,Personal Care,FALSE
+582,cheese,28/01/2024 6:44,Dairy & Alternatives,FALSE
+582,coke,28/01/2024 6:44,Beverages,FALSE
+583,butter,28/01/2024 7:37,Dairy & Alternatives,FALSE
+584,cereal,02/01/2024 19:59,Breakfast & Grains,FALSE
+584,coke,02/01/2024 19:59,Beverages,FALSE
+584,pasta,02/01/2024 19:59,Pantry Staples,FALSE
+584,soap,02/01/2024 19:59,Personal Care,FALSE
+585,pasta,08/01/2024 9:12,Pantry Staples,FALSE
+585,soap,08/01/2024 9:12,Personal Care,FALSE
+586,butter,25/01/2024 12:58,Dairy & Alternatives,FALSE
+586,shampoo,25/01/2024 12:58,Personal Care,FALSE
+587,milk,25/01/2024 3:50,Dairy & Alternatives,FALSE
+587,chicken,25/01/2024 3:50,Meat & Seafood,FALSE
+588,banana,14/01/2024 9:33,Fruits & Vegetables,FALSE
+589,cereal,25/01/2024 12:36,Breakfast & Grains,FALSE
+589,shampoo,25/01/2024 12:36,Personal Care,FALSE
+590,rice,26/01/2024 3:38,Pantry Staples,FALSE
+590,pepsi,26/01/2024 3:38,Beverages,FALSE
+590,chicken,26/01/2024 3:38,Meat & Seafood,FALSE
+590,coke,26/01/2024 3:38,Beverages,FALSE
+591,coke,03/01/2024 23:00,Beverages,FALSE
+591,milk,03/01/2024 23:00,Dairy & Alternatives,FALSE
+591,apple,03/01/2024 23:00,Fruits & Vegetables,FALSE
+592,cereal,16/01/2024 19:32,Breakfast & Grains,FALSE
+593,pepsi,10/01/2024 0:51,Beverages,FALSE
+593,banana,10/01/2024 0:51,Fruits & Vegetables,FALSE
+593,coke,10/01/2024 0:51,Beverages,FALSE
+593,milk,10/01/2024 0:51,Dairy & Alternatives,FALSE
+593,beef,10/01/2024 0:51,Meat & Seafood,FALSE
+594,pepsi,05/01/2024 4:29,Beverages,FALSE
+594,banana,05/01/2024 4:29,Fruits & Vegetables,FALSE
+595,beef,27/01/2024 8:08,Meat & Seafood,FALSE
+595,butter,27/01/2024 8:08,Dairy & Alternatives,FALSE
+595,detergent,27/01/2024 8:08,Household Supplies,FALSE
+595,coke,27/01/2024 8:08,Beverages,FALSE
+596,coke,09/01/2024 5:00,Beverages,FALSE
+596,pepsi,09/01/2024 5:00,Beverages,FALSE
+596,shampoo,09/01/2024 5:00,Personal Care,TRUE
+596,detergent,09/01/2024 5:00,Household Supplies,FALSE
+597,rice,07/01/2024 3:43,Pantry Staples,FALSE
+597,detergent,07/01/2024 3:43,Household Supplies,FALSE
+598,eggs,15/01/2024 17:43,Dairy & Alternatives,FALSE
+598,detergent,15/01/2024 17:43,Household Supplies,FALSE
+598,beef,15/01/2024 17:43,Meat & Seafood,FALSE
+599,butter,03/01/2024 8:38,Dairy & Alternatives,TRUE
+599,cheese,03/01/2024 8:38,Dairy & Alternatives,FALSE
+599,coke,03/01/2024 8:38,Beverages,FALSE
+600,paper towels,31/01/2024 0:31,Household Supplies,FALSE
+601,bread,06/01/2024 2:05,Bakery,FALSE
+601,cheese,06/01/2024 2:05,Dairy & Alternatives,FALSE
+601,beef,06/01/2024 2:05,Meat & Seafood,FALSE
+601,yogurt,06/01/2024 2:05,Dairy & Alternatives,FALSE
+601,rice,06/01/2024 2:05,Pantry Staples,FALSE
+602,pepsi,24/01/2024 2:23,Beverages,FALSE
+602,pasta,24/01/2024 2:23,Pantry Staples,FALSE
+602,butter,24/01/2024 2:23,Dairy & Alternatives,FALSE
+602,eggs,24/01/2024 2:23,Dairy & Alternatives,FALSE
+602,beef,24/01/2024 2:23,Meat & Seafood,FALSE
+603,eggs,28/01/2024 11:00,Dairy & Alternatives,FALSE
+603,chicken,28/01/2024 11:00,Meat & Seafood,FALSE
+603,coke,28/01/2024 11:00,Beverages,FALSE
+603,beef,28/01/2024 11:00,Meat & Seafood,FALSE
+604,cereal,14/01/2024 12:14,Breakfast & Grains,FALSE
+604,milk,14/01/2024 12:14,Dairy & Alternatives,FALSE
+604,butter,14/01/2024 12:14,Dairy & Alternatives,FALSE
+604,yogurt,14/01/2024 12:14,Dairy & Alternatives,FALSE
+604,shampoo,14/01/2024 12:14,Personal Care,FALSE
+605,soap,30/01/2024 9:58,Personal Care,FALSE
+605,yogurt,30/01/2024 9:58,Dairy & Alternatives,FALSE
+606,cereal,15/01/2024 14:53,Breakfast & Grains,FALSE
+606,milk,15/01/2024 14:53,Dairy & Alternatives,FALSE
+606,soap,15/01/2024 14:53,Personal Care,FALSE
+606,coke,15/01/2024 14:53,Beverages,FALSE
+607,coke,16/01/2024 5:24,Beverages,FALSE
+607,soap,16/01/2024 5:24,Personal Care,FALSE
+607,cheese,16/01/2024 5:24,Dairy & Alternatives,FALSE
+607,milk,16/01/2024 5:24,Dairy & Alternatives,FALSE
+608,apple,29/01/2024 15:30,Fruits & Vegetables,FALSE
+609,cereal,10/01/2024 21:19,Breakfast & Grains,FALSE
+609,cheese,10/01/2024 21:19,Dairy & Alternatives,FALSE
+609,rice,10/01/2024 21:19,Pantry Staples,FALSE
+610,beef,16/01/2024 13:13,Meat & Seafood,FALSE
+611,apple,07/01/2024 0:31,Fruits & Vegetables,FALSE
+611,rice,07/01/2024 0:31,Pantry Staples,FALSE
+611,cereal,07/01/2024 0:31,Breakfast & Grains,FALSE
+611,detergent,07/01/2024 0:31,Household Supplies,FALSE
+612,eggs,24/01/2024 9:16,Dairy & Alternatives,FALSE
+612,milk,24/01/2024 9:16,Dairy & Alternatives,FALSE
+612,shampoo,24/01/2024 9:16,Personal Care,FALSE
+612,yogurt,24/01/2024 9:16,Dairy & Alternatives,FALSE
+612,detergent,24/01/2024 9:16,Household Supplies,FALSE
+613,bread,02/01/2024 11:52,Bakery,FALSE
+613,detergent,02/01/2024 11:52,Household Supplies,FALSE
+614,banana,11/01/2024 21:16,Fruits & Vegetables,FALSE
+615,butter,21/01/2024 13:46,Dairy & Alternatives,FALSE
+615,milk,21/01/2024 13:46,Dairy & Alternatives,FALSE
+615,eggs,21/01/2024 13:46,Dairy & Alternatives,FALSE
+616,beef,20/01/2024 8:49,Meat & Seafood,TRUE
+617,bread,30/01/2024 8:02,Bakery,FALSE
+617,cereal,30/01/2024 8:02,Breakfast & Grains,TRUE
+617,chicken,30/01/2024 8:02,Meat & Seafood,TRUE
+617,beef,30/01/2024 8:02,Meat & Seafood,FALSE
+617,pepsi,30/01/2024 8:02,Beverages,FALSE
+618,milk,14/01/2024 8:35,Dairy & Alternatives,FALSE
+618,paper towels,14/01/2024 8:35,Household Supplies,FALSE
+618,cheese,14/01/2024 8:35,Dairy & Alternatives,FALSE
+618,pasta,14/01/2024 8:35,Pantry Staples,TRUE
+618,coke,14/01/2024 8:35,Beverages,FALSE
+619,eggs,04/01/2024 20:16,Dairy & Alternatives,FALSE
+620,apple,02/01/2024 17:09,Fruits & Vegetables,FALSE
+620,paper towels,02/01/2024 17:09,Household Supplies,FALSE
+620,yogurt,02/01/2024 17:09,Dairy & Alternatives,FALSE
+620,shampoo,02/01/2024 17:09,Personal Care,FALSE
+621,beef,21/01/2024 18:38,Meat & Seafood,FALSE
+621,yogurt,21/01/2024 18:38,Dairy & Alternatives,FALSE
+621,apple,21/01/2024 18:38,Fruits & Vegetables,FALSE
+621,bread,21/01/2024 18:38,Bakery,FALSE
+622,cereal,13/01/2024 4:13,Breakfast & Grains,FALSE
+622,chicken,13/01/2024 4:13,Meat & Seafood,FALSE
+622,soap,13/01/2024 4:13,Personal Care,FALSE
+623,butter,20/01/2024 20:50,Dairy & Alternatives,FALSE
+623,rice,20/01/2024 20:50,Pantry Staples,TRUE
+624,pasta,29/01/2024 13:23,Pantry Staples,FALSE
+624,coke,29/01/2024 13:23,Beverages,FALSE
+625,shampoo,16/01/2024 3:16,Personal Care,FALSE
+625,coke,16/01/2024 3:16,Beverages,FALSE
+625,cereal,16/01/2024 3:16,Breakfast & Grains,FALSE
+625,pasta,16/01/2024 3:16,Pantry Staples,TRUE
+626,milk,18/01/2024 10:03,Dairy & Alternatives,FALSE
+626,paper towels,18/01/2024 10:03,Household Supplies,FALSE
+626,rice,18/01/2024 10:03,Pantry Staples,FALSE
+627,coke,29/01/2024 5:41,Beverages,FALSE
+628,pasta,20/01/2024 4:30,Pantry Staples,FALSE
+629,cheese,21/01/2024 6:20,Dairy & Alternatives,FALSE
+630,apple,16/01/2024 21:14,Fruits & Vegetables,FALSE
+630,cheese,16/01/2024 21:14,Dairy & Alternatives,FALSE
+631,cheese,27/01/2024 5:13,Dairy & Alternatives,FALSE
+631,banana,27/01/2024 5:13,Fruits & Vegetables,FALSE
+631,butter,27/01/2024 5:13,Dairy & Alternatives,FALSE
+631,pasta,27/01/2024 5:13,Pantry Staples,FALSE
+631,cereal,27/01/2024 5:13,Breakfast & Grains,FALSE
+632,coke,07/01/2024 6:24,Beverages,FALSE
+632,butter,07/01/2024 6:24,Dairy & Alternatives,FALSE
+632,apple,07/01/2024 6:24,Fruits & Vegetables,FALSE
+633,milk,03/01/2024 1:14,Dairy & Alternatives,FALSE
+633,yogurt,03/01/2024 1:14,Dairy & Alternatives,FALSE
+633,shampoo,03/01/2024 1:14,Personal Care,TRUE
+633,soap,03/01/2024 1:14,Personal Care,FALSE
+634,detergent,28/01/2024 16:12,Household Supplies,FALSE
+635,cheese,25/01/2024 11:43,Dairy & Alternatives,FALSE
+635,beef,25/01/2024 11:43,Meat & Seafood,FALSE
+635,coke,25/01/2024 11:43,Beverages,FALSE
+636,yogurt,20/01/2024 21:02,Dairy & Alternatives,FALSE
+636,eggs,20/01/2024 21:02,Dairy & Alternatives,FALSE
+636,detergent,20/01/2024 21:02,Household Supplies,FALSE
+636,pasta,20/01/2024 21:02,Pantry Staples,FALSE
+636,milk,20/01/2024 21:02,Dairy & Alternatives,FALSE
+637,chicken,28/01/2024 19:29,Meat & Seafood,FALSE
+638,soap,17/01/2024 2:31,Personal Care,FALSE
+638,beef,17/01/2024 2:31,Meat & Seafood,FALSE
+638,pasta,17/01/2024 2:31,Pantry Staples,FALSE
+639,paper towels,03/01/2024 22:30,Household Supplies,FALSE
+639,cereal,03/01/2024 22:30,Breakfast & Grains,TRUE
+639,rice,03/01/2024 22:30,Pantry Staples,FALSE
+640,cheese,03/01/2024 4:46,Dairy & Alternatives,FALSE
+640,chicken,03/01/2024 4:46,Meat & Seafood,FALSE
+640,beef,03/01/2024 4:46,Meat & Seafood,FALSE
+641,milk,29/01/2024 1:08,Dairy & Alternatives,TRUE
+641,beef,29/01/2024 1:08,Meat & Seafood,FALSE
+641,chicken,29/01/2024 1:08,Meat & Seafood,FALSE
+641,pasta,29/01/2024 1:08,Pantry Staples,FALSE
+641,rice,29/01/2024 1:08,Pantry Staples,FALSE
+642,pasta,27/01/2024 16:27,Pantry Staples,FALSE
+643,yogurt,21/01/2024 6:44,Dairy & Alternatives,TRUE
+644,milk,12/01/2024 0:38,Dairy & Alternatives,FALSE
+644,shampoo,12/01/2024 0:38,Personal Care,FALSE
+644,cheese,12/01/2024 0:38,Dairy & Alternatives,FALSE
+644,yogurt,12/01/2024 0:38,Dairy & Alternatives,FALSE
+644,apple,12/01/2024 0:38,Fruits & Vegetables,FALSE
+645,shampoo,31/01/2024 21:40,Personal Care,FALSE
+645,bread,31/01/2024 21:40,Bakery,FALSE
+646,banana,31/01/2024 16:22,Fruits & Vegetables,FALSE
+646,pasta,31/01/2024 16:22,Pantry Staples,FALSE
+646,rice,31/01/2024 16:22,Pantry Staples,FALSE
+646,beef,31/01/2024 16:22,Meat & Seafood,FALSE
+646,cereal,31/01/2024 16:22,Breakfast & Grains,FALSE
+647,apple,28/01/2024 1:10,Fruits & Vegetables,FALSE
+647,soap,28/01/2024 1:10,Personal Care,FALSE
+647,beef,28/01/2024 1:10,Meat & Seafood,FALSE
+648,paper towels,14/01/2024 1:00,Household Supplies,FALSE
+648,pasta,14/01/2024 1:00,Pantry Staples,FALSE
+648,beef,14/01/2024 1:00,Meat & Seafood,FALSE
+649,cheese,09/01/2024 11:53,Dairy & Alternatives,FALSE
+649,yogurt,09/01/2024 11:53,Dairy & Alternatives,FALSE
+649,banana,09/01/2024 11:53,Fruits & Vegetables,FALSE
+649,apple,09/01/2024 11:53,Fruits & Vegetables,FALSE
+649,cereal,09/01/2024 11:53,Breakfast & Grains,FALSE
+650,eggs,21/01/2024 7:51,Dairy & Alternatives,FALSE
+650,apple,21/01/2024 7:51,Fruits & Vegetables,FALSE
+650,banana,21/01/2024 7:51,Fruits & Vegetables,FALSE
+650,rice,21/01/2024 7:51,Pantry Staples,FALSE
+650,milk,21/01/2024 7:51,Dairy & Alternatives,TRUE
+651,banana,29/01/2024 5:19,Fruits & Vegetables,FALSE
+651,cereal,29/01/2024 5:19,Breakfast & Grains,TRUE
+651,rice,29/01/2024 5:19,Pantry Staples,FALSE
+651,beef,29/01/2024 5:19,Meat & Seafood,TRUE
+651,coke,29/01/2024 5:19,Beverages,FALSE
+652,milk,26/01/2024 15:52,Dairy & Alternatives,FALSE
+652,apple,26/01/2024 15:52,Fruits & Vegetables,FALSE
+652,chicken,26/01/2024 15:52,Meat & Seafood,FALSE
+652,cereal,26/01/2024 15:52,Breakfast & Grains,FALSE
+653,shampoo,25/01/2024 18:39,Personal Care,FALSE
+653,pasta,25/01/2024 18:39,Pantry Staples,FALSE
+653,milk,25/01/2024 18:39,Dairy & Alternatives,FALSE
+654,rice,17/01/2024 14:27,Pantry Staples,FALSE
+654,cereal,17/01/2024 14:27,Breakfast & Grains,FALSE
+654,yogurt,17/01/2024 14:27,Dairy & Alternatives,FALSE
+655,rice,05/01/2024 11:07,Pantry Staples,FALSE
+656,butter,13/01/2024 19:54,Dairy & Alternatives,FALSE
+656,shampoo,13/01/2024 19:54,Personal Care,FALSE
+656,pepsi,13/01/2024 19:54,Beverages,FALSE
+657,cheese,05/01/2024 0:59,Dairy & Alternatives,FALSE
+657,pepsi,05/01/2024 0:59,Beverages,FALSE
+658,beef,11/01/2024 19:52,Meat & Seafood,FALSE
+658,paper towels,11/01/2024 19:52,Household Supplies,FALSE
+659,apple,31/01/2024 23:00,Fruits & Vegetables,FALSE
+659,butter,31/01/2024 23:00,Dairy & Alternatives,FALSE
+660,paper towels,21/01/2024 10:04,Household Supplies,FALSE
+660,beef,21/01/2024 10:04,Meat & Seafood,FALSE
+660,yogurt,21/01/2024 10:04,Dairy & Alternatives,FALSE
+661,apple,19/01/2024 17:36,Fruits & Vegetables,FALSE
+662,cheese,06/01/2024 8:49,Dairy & Alternatives,FALSE
+663,cereal,01/01/2024 17:04,Breakfast & Grains,FALSE
+663,bread,01/01/2024 17:04,Bakery,FALSE
+663,apple,01/01/2024 17:04,Fruits & Vegetables,FALSE
+664,pepsi,11/01/2024 22:20,Beverages,FALSE
+664,beef,11/01/2024 22:20,Meat & Seafood,FALSE
+664,milk,11/01/2024 22:20,Dairy & Alternatives,FALSE
+664,detergent,11/01/2024 22:20,Household Supplies,FALSE
+665,apple,09/01/2024 10:11,Fruits & Vegetables,FALSE
+665,bread,09/01/2024 10:11,Bakery,FALSE
+666,coke,27/01/2024 16:56,Beverages,FALSE
+666,pasta,27/01/2024 16:56,Pantry Staples,FALSE
+667,pasta,06/01/2024 10:43,Pantry Staples,FALSE
+668,pepsi,28/01/2024 10:06,Beverages,FALSE
+668,beef,28/01/2024 10:06,Meat & Seafood,TRUE
+669,butter,21/01/2024 13:28,Dairy & Alternatives,FALSE
+670,soap,30/01/2024 2:05,Personal Care,FALSE
+670,paper towels,30/01/2024 2:05,Household Supplies,FALSE
+670,milk,30/01/2024 2:05,Dairy & Alternatives,FALSE
+670,pasta,30/01/2024 2:05,Pantry Staples,FALSE
+671,banana,04/01/2024 23:18,Fruits & Vegetables,FALSE
+671,bread,04/01/2024 23:18,Bakery,FALSE
+671,yogurt,04/01/2024 23:18,Dairy & Alternatives,FALSE
+671,eggs,04/01/2024 23:18,Dairy & Alternatives,FALSE
+671,beef,04/01/2024 23:18,Meat & Seafood,FALSE
+672,soap,30/01/2024 21:27,Personal Care,FALSE
+672,eggs,30/01/2024 21:27,Dairy & Alternatives,FALSE
+672,milk,30/01/2024 21:27,Dairy & Alternatives,FALSE
+673,milk,30/01/2024 23:24,Dairy & Alternatives,FALSE
+673,rice,30/01/2024 23:24,Pantry Staples,FALSE
+673,coke,30/01/2024 23:24,Beverages,FALSE
+674,butter,02/01/2024 16:58,Dairy & Alternatives,FALSE
+675,pasta,18/01/2024 11:37,Pantry Staples,FALSE
+675,banana,18/01/2024 11:37,Fruits & Vegetables,FALSE
+676,shampoo,30/01/2024 4:16,Personal Care,FALSE
+676,bread,30/01/2024 4:16,Bakery,FALSE
+677,butter,13/01/2024 21:49,Dairy & Alternatives,FALSE
+677,paper towels,13/01/2024 21:49,Household Supplies,FALSE
+677,chicken,13/01/2024 21:49,Meat & Seafood,FALSE
+677,yogurt,13/01/2024 21:49,Dairy & Alternatives,FALSE
+677,cereal,13/01/2024 21:49,Breakfast & Grains,FALSE
+678,milk,05/01/2024 3:26,Dairy & Alternatives,FALSE
+679,soap,27/01/2024 21:59,Personal Care,FALSE
+679,coke,27/01/2024 21:59,Beverages,FALSE
+679,eggs,27/01/2024 21:59,Dairy & Alternatives,FALSE
+680,pasta,20/01/2024 11:43,Pantry Staples,FALSE
+680,rice,20/01/2024 11:43,Pantry Staples,FALSE
+680,apple,20/01/2024 11:43,Fruits & Vegetables,FALSE
+680,yogurt,20/01/2024 11:43,Dairy & Alternatives,FALSE
+680,bread,20/01/2024 11:43,Bakery,FALSE
+681,pepsi,21/01/2024 23:15,Beverages,FALSE
+681,apple,21/01/2024 23:15,Fruits & Vegetables,FALSE
+681,chicken,21/01/2024 23:15,Meat & Seafood,TRUE
+682,cheese,27/01/2024 19:23,Dairy & Alternatives,TRUE
+682,yogurt,27/01/2024 19:23,Dairy & Alternatives,FALSE
+682,banana,27/01/2024 19:23,Fruits & Vegetables,FALSE
+682,chicken,27/01/2024 19:23,Meat & Seafood,TRUE
+682,paper towels,27/01/2024 19:23,Household Supplies,FALSE
+683,paper towels,21/01/2024 21:35,Household Supplies,FALSE
+683,eggs,21/01/2024 21:35,Dairy & Alternatives,FALSE
+683,pepsi,21/01/2024 21:35,Beverages,FALSE
+683,cheese,21/01/2024 21:35,Dairy & Alternatives,FALSE
+684,milk,07/01/2024 0:24,Dairy & Alternatives,TRUE
+684,shampoo,07/01/2024 0:24,Personal Care,FALSE
+684,banana,07/01/2024 0:24,Fruits & Vegetables,FALSE
+685,rice,10/01/2024 5:41,Pantry Staples,FALSE
+685,beef,10/01/2024 5:41,Meat & Seafood,FALSE
+685,soap,10/01/2024 5:41,Personal Care,FALSE
+686,shampoo,29/01/2024 16:08,Personal Care,FALSE
+686,paper towels,29/01/2024 16:08,Household Supplies,FALSE
+686,apple,29/01/2024 16:08,Fruits & Vegetables,FALSE
+686,pasta,29/01/2024 16:08,Pantry Staples,FALSE
+687,chicken,24/01/2024 7:16,Meat & Seafood,FALSE
+688,pepsi,17/01/2024 21:17,Beverages,FALSE
+688,detergent,17/01/2024 21:17,Household Supplies,FALSE
+688,milk,17/01/2024 21:17,Dairy & Alternatives,FALSE
+689,paper towels,30/01/2024 14:09,Household Supplies,FALSE
+689,cereal,30/01/2024 14:09,Breakfast & Grains,FALSE
+689,eggs,30/01/2024 14:09,Dairy & Alternatives,FALSE
+689,shampoo,30/01/2024 14:09,Personal Care,FALSE
+689,bread,30/01/2024 14:09,Bakery,FALSE
+690,cheese,04/01/2024 23:48,Dairy & Alternatives,FALSE
+690,cereal,04/01/2024 23:48,Breakfast & Grains,FALSE
+690,rice,04/01/2024 23:48,Pantry Staples,FALSE
+690,pasta,04/01/2024 23:48,Pantry Staples,FALSE
+690,banana,04/01/2024 23:48,Fruits & Vegetables,FALSE
+691,banana,30/01/2024 16:44,Fruits & Vegetables,FALSE
+691,cereal,30/01/2024 16:44,Breakfast & Grains,FALSE
+691,milk,30/01/2024 16:44,Dairy & Alternatives,FALSE
+691,cheese,30/01/2024 16:44,Dairy & Alternatives,FALSE
+692,detergent,06/01/2024 4:07,Household Supplies,FALSE
+692,pepsi,06/01/2024 4:07,Beverages,FALSE
+692,rice,06/01/2024 4:07,Pantry Staples,FALSE
+693,eggs,11/01/2024 7:28,Dairy & Alternatives,FALSE
+693,apple,11/01/2024 7:28,Fruits & Vegetables,FALSE
+693,cereal,11/01/2024 7:28,Breakfast & Grains,TRUE
+694,yogurt,19/01/2024 12:14,Dairy & Alternatives,FALSE
+694,banana,19/01/2024 12:14,Fruits & Vegetables,FALSE
+694,detergent,19/01/2024 12:14,Household Supplies,FALSE
+694,cereal,19/01/2024 12:14,Breakfast & Grains,FALSE
+694,coke,19/01/2024 12:14,Beverages,FALSE
+695,shampoo,17/01/2024 18:41,Personal Care,FALSE
+695,coke,17/01/2024 18:41,Beverages,FALSE
+696,bread,25/01/2024 17:22,Bakery,FALSE
+697,paper towels,20/01/2024 6:58,Household Supplies,FALSE
+697,bread,20/01/2024 6:58,Bakery,FALSE
+697,butter,20/01/2024 6:58,Dairy & Alternatives,FALSE
+698,banana,14/01/2024 7:43,Fruits & Vegetables,TRUE
+698,coke,14/01/2024 7:43,Beverages,FALSE
+699,pasta,11/01/2024 22:51,Pantry Staples,FALSE
+699,yogurt,11/01/2024 22:51,Dairy & Alternatives,FALSE
+699,milk,11/01/2024 22:51,Dairy & Alternatives,FALSE
+699,cheese,11/01/2024 22:51,Dairy & Alternatives,FALSE
+700,beef,22/01/2024 2:28,Meat & Seafood,FALSE
+701,shampoo,16/01/2024 16:28,Personal Care,FALSE
+702,milk,04/01/2024 14:23,Dairy & Alternatives,FALSE
+702,pasta,04/01/2024 14:23,Pantry Staples,FALSE
+703,pepsi,19/01/2024 22:15,Beverages,FALSE
+703,paper towels,19/01/2024 22:15,Household Supplies,FALSE
+703,apple,19/01/2024 22:15,Fruits & Vegetables,FALSE
+704,banana,05/01/2024 0:56,Fruits & Vegetables,FALSE
+704,detergent,05/01/2024 0:56,Household Supplies,FALSE
+704,shampoo,05/01/2024 0:56,Personal Care,FALSE
+704,beef,05/01/2024 0:56,Meat & Seafood,FALSE
+704,cereal,05/01/2024 0:56,Breakfast & Grains,FALSE
+705,yogurt,20/01/2024 21:02,Dairy & Alternatives,TRUE
+705,coke,20/01/2024 21:02,Beverages,FALSE
+706,pasta,05/01/2024 7:34,Pantry Staples,FALSE
+706,butter,05/01/2024 7:34,Dairy & Alternatives,FALSE
+706,milk,05/01/2024 7:34,Dairy & Alternatives,FALSE
+706,cereal,05/01/2024 7:34,Breakfast & Grains,FALSE
+707,yogurt,28/01/2024 5:41,Dairy & Alternatives,FALSE
+707,rice,28/01/2024 5:41,Pantry Staples,FALSE
+708,milk,21/01/2024 17:08,Dairy & Alternatives,TRUE
+708,pasta,21/01/2024 17:08,Pantry Staples,FALSE
+708,rice,21/01/2024 17:08,Pantry Staples,FALSE
+709,rice,30/01/2024 23:34,Pantry Staples,FALSE
+710,cheese,27/01/2024 8:13,Dairy & Alternatives,FALSE
+711,cereal,26/01/2024 20:05,Breakfast & Grains,FALSE
+711,paper towels,26/01/2024 20:05,Household Supplies,FALSE
+711,butter,26/01/2024 20:05,Dairy & Alternatives,FALSE
+711,bread,26/01/2024 20:05,Bakery,FALSE
+711,yogurt,26/01/2024 20:05,Dairy & Alternatives,FALSE
+712,paper towels,08/01/2024 3:14,Household Supplies,FALSE
+712,bread,08/01/2024 3:14,Bakery,FALSE
+712,pasta,08/01/2024 3:14,Pantry Staples,FALSE
+712,detergent,08/01/2024 3:14,Household Supplies,FALSE
+712,yogurt,08/01/2024 3:14,Dairy & Alternatives,FALSE
+713,chicken,29/01/2024 3:47,Meat & Seafood,TRUE
+713,cereal,29/01/2024 3:47,Breakfast & Grains,FALSE
+713,detergent,29/01/2024 3:47,Household Supplies,FALSE
+713,apple,29/01/2024 3:47,Fruits & Vegetables,FALSE
+714,paper towels,18/01/2024 5:56,Household Supplies,FALSE
+714,eggs,18/01/2024 5:56,Dairy & Alternatives,FALSE
+714,soap,18/01/2024 5:56,Personal Care,FALSE
+714,pasta,18/01/2024 5:56,Pantry Staples,FALSE
+714,butter,18/01/2024 5:56,Dairy & Alternatives,FALSE
+715,bread,01/01/2024 12:46,Bakery,FALSE
+715,pepsi,01/01/2024 12:46,Beverages,FALSE
+715,yogurt,01/01/2024 12:46,Dairy & Alternatives,FALSE
+715,pasta,01/01/2024 12:46,Pantry Staples,FALSE
+716,chicken,02/01/2024 11:07,Meat & Seafood,FALSE
+716,beef,02/01/2024 11:07,Meat & Seafood,FALSE
+716,butter,02/01/2024 11:07,Dairy & Alternatives,FALSE
+717,shampoo,21/01/2024 1:02,Personal Care,FALSE
+717,beef,21/01/2024 1:02,Meat & Seafood,FALSE
+717,pasta,21/01/2024 1:02,Pantry Staples,FALSE
+717,chicken,21/01/2024 1:02,Meat & Seafood,FALSE
+717,eggs,21/01/2024 1:02,Dairy & Alternatives,FALSE
+718,detergent,02/01/2024 11:05,Household Supplies,FALSE
+719,cereal,21/01/2024 13:58,Breakfast & Grains,FALSE
+719,pepsi,21/01/2024 13:58,Beverages,FALSE
+719,beef,21/01/2024 13:58,Meat & Seafood,FALSE
+719,butter,21/01/2024 13:58,Dairy & Alternatives,FALSE
+719,soap,21/01/2024 13:58,Personal Care,FALSE
+720,beef,26/01/2024 22:50,Meat & Seafood,FALSE
+720,cereal,26/01/2024 22:50,Breakfast & Grains,FALSE
+720,apple,26/01/2024 22:50,Fruits & Vegetables,FALSE
+720,pasta,26/01/2024 22:50,Pantry Staples,FALSE
+720,rice,26/01/2024 22:50,Pantry Staples,FALSE
+721,paper towels,24/01/2024 19:19,Household Supplies,FALSE
+721,milk,24/01/2024 19:19,Dairy & Alternatives,TRUE
+721,beef,24/01/2024 19:19,Meat & Seafood,TRUE
+721,pepsi,24/01/2024 19:19,Beverages,FALSE
+722,shampoo,20/01/2024 4:38,Personal Care,TRUE
+722,chicken,20/01/2024 4:38,Meat & Seafood,FALSE
+722,eggs,20/01/2024 4:38,Dairy & Alternatives,FALSE
+723,cereal,20/01/2024 10:41,Breakfast & Grains,FALSE
+723,bread,20/01/2024 10:41,Bakery,FALSE
+723,yogurt,20/01/2024 10:41,Dairy & Alternatives,FALSE
+723,soap,20/01/2024 10:41,Personal Care,FALSE
+723,cheese,20/01/2024 10:41,Dairy & Alternatives,FALSE
+724,butter,24/01/2024 20:01,Dairy & Alternatives,FALSE
+724,banana,24/01/2024 20:01,Fruits & Vegetables,FALSE
+724,rice,24/01/2024 20:01,Pantry Staples,FALSE
+725,detergent,21/01/2024 22:03,Household Supplies,FALSE
+725,cereal,21/01/2024 22:03,Breakfast & Grains,FALSE
+726,soap,07/01/2024 6:18,Personal Care,TRUE
+726,shampoo,07/01/2024 6:18,Personal Care,FALSE
+727,soap,15/01/2024 14:21,Personal Care,FALSE
+727,pepsi,15/01/2024 14:21,Beverages,FALSE
+727,shampoo,15/01/2024 14:21,Personal Care,FALSE
+727,coke,15/01/2024 14:21,Beverages,FALSE
+728,pepsi,20/01/2024 5:41,Beverages,FALSE
+729,yogurt,21/01/2024 7:52,Dairy & Alternatives,TRUE
+729,milk,21/01/2024 7:52,Dairy & Alternatives,FALSE
+729,apple,21/01/2024 7:52,Fruits & Vegetables,FALSE
+729,coke,21/01/2024 7:52,Beverages,FALSE
+729,butter,21/01/2024 7:52,Dairy & Alternatives,FALSE
+730,butter,06/01/2024 13:35,Dairy & Alternatives,FALSE
+730,cheese,06/01/2024 13:35,Dairy & Alternatives,FALSE
+730,pepsi,06/01/2024 13:35,Beverages,FALSE
+730,beef,06/01/2024 13:35,Meat & Seafood,FALSE
+731,yogurt,23/01/2024 8:55,Dairy & Alternatives,FALSE
+731,butter,23/01/2024 8:55,Dairy & Alternatives,FALSE
+731,detergent,23/01/2024 8:55,Household Supplies,TRUE
+732,banana,30/01/2024 20:03,Fruits & Vegetables,FALSE
+732,cheese,30/01/2024 20:03,Dairy & Alternatives,FALSE
+733,shampoo,13/01/2024 18:12,Personal Care,FALSE
+733,chicken,13/01/2024 18:12,Meat & Seafood,FALSE
+733,pepsi,13/01/2024 18:12,Beverages,TRUE
+733,banana,13/01/2024 18:12,Fruits & Vegetables,FALSE
+733,apple,13/01/2024 18:12,Fruits & Vegetables,FALSE
+734,butter,01/01/2024 0:06,Dairy & Alternatives,TRUE
+734,cereal,01/01/2024 0:06,Breakfast & Grains,FALSE
+734,banana,01/01/2024 0:06,Fruits & Vegetables,FALSE
+734,pasta,01/01/2024 0:06,Pantry Staples,FALSE
+734,eggs,01/01/2024 0:06,Dairy & Alternatives,FALSE
+735,chicken,03/01/2024 16:03,Meat & Seafood,FALSE
+735,butter,03/01/2024 16:03,Dairy & Alternatives,FALSE
+735,rice,03/01/2024 16:03,Pantry Staples,TRUE
+736,pasta,14/01/2024 15:17,Pantry Staples,FALSE
+737,apple,13/01/2024 1:05,Fruits & Vegetables,FALSE
+737,coke,13/01/2024 1:05,Beverages,FALSE
+737,yogurt,13/01/2024 1:05,Dairy & Alternatives,FALSE
+738,butter,19/01/2024 12:37,Dairy & Alternatives,FALSE
+738,paper towels,19/01/2024 12:37,Household Supplies,FALSE
+738,coke,19/01/2024 12:37,Beverages,FALSE
+739,paper towels,19/01/2024 10:09,Household Supplies,FALSE
+739,detergent,19/01/2024 10:09,Household Supplies,FALSE
+739,chicken,19/01/2024 10:09,Meat & Seafood,FALSE
+739,cereal,19/01/2024 10:09,Breakfast & Grains,FALSE
+739,shampoo,19/01/2024 10:09,Personal Care,FALSE
+740,milk,21/01/2024 17:05,Dairy & Alternatives,FALSE
+741,chicken,10/01/2024 23:22,Meat & Seafood,FALSE
+741,pepsi,10/01/2024 23:22,Beverages,FALSE
+742,pepsi,30/01/2024 20:54,Beverages,FALSE
+743,cheese,17/01/2024 15:13,Dairy & Alternatives,FALSE
+743,milk,17/01/2024 15:13,Dairy & Alternatives,FALSE
+744,soap,22/01/2024 5:28,Personal Care,FALSE
+744,yogurt,22/01/2024 5:28,Dairy & Alternatives,FALSE
+745,pasta,08/01/2024 7:17,Pantry Staples,FALSE
+745,shampoo,08/01/2024 7:17,Personal Care,FALSE
+745,butter,08/01/2024 7:17,Dairy & Alternatives,FALSE
+745,yogurt,08/01/2024 7:17,Dairy & Alternatives,FALSE
+745,soap,08/01/2024 7:17,Personal Care,FALSE
+746,milk,22/01/2024 17:15,Dairy & Alternatives,FALSE
+746,butter,22/01/2024 17:15,Dairy & Alternatives,FALSE
+747,detergent,20/01/2024 5:40,Household Supplies,FALSE
+747,soap,20/01/2024 5:40,Personal Care,FALSE
+747,paper towels,20/01/2024 5:40,Household Supplies,TRUE
+748,detergent,06/01/2024 15:06,Household Supplies,FALSE
+748,banana,06/01/2024 15:06,Fruits & Vegetables,FALSE
+749,bread,16/01/2024 17:30,Bakery,FALSE
+749,beef,16/01/2024 17:30,Meat & Seafood,FALSE
+749,shampoo,16/01/2024 17:30,Personal Care,FALSE
+749,detergent,16/01/2024 17:30,Household Supplies,FALSE
+750,milk,24/01/2024 11:04,Dairy & Alternatives,FALSE
+750,shampoo,24/01/2024 11:04,Personal Care,FALSE
+750,chicken,24/01/2024 11:04,Meat & Seafood,FALSE
+750,coke,24/01/2024 11:04,Beverages,FALSE
+751,shampoo,18/01/2024 7:12,Personal Care,FALSE
+751,beef,18/01/2024 7:12,Meat & Seafood,FALSE
+752,bread,07/01/2024 11:09,Bakery,FALSE
+753,eggs,14/01/2024 3:02,Dairy & Alternatives,FALSE
+753,yogurt,14/01/2024 3:02,Dairy & Alternatives,FALSE
+754,yogurt,30/01/2024 0:46,Dairy & Alternatives,FALSE
+754,soap,30/01/2024 0:46,Personal Care,FALSE
+754,coke,30/01/2024 0:46,Beverages,FALSE
+754,apple,30/01/2024 0:46,Fruits & Vegetables,FALSE
+754,bread,30/01/2024 0:46,Bakery,FALSE
+755,paper towels,03/01/2024 2:08,Household Supplies,TRUE
+756,paper towels,18/01/2024 1:02,Household Supplies,TRUE
+756,eggs,18/01/2024 1:02,Dairy & Alternatives,FALSE
+756,cereal,18/01/2024 1:02,Breakfast & Grains,FALSE
+756,coke,18/01/2024 1:02,Beverages,FALSE
+756,detergent,18/01/2024 1:02,Household Supplies,FALSE
+757,butter,07/01/2024 6:25,Dairy & Alternatives,FALSE
+757,yogurt,07/01/2024 6:25,Dairy & Alternatives,FALSE
+757,soap,07/01/2024 6:25,Personal Care,FALSE
+758,detergent,16/01/2024 5:37,Household Supplies,FALSE
+758,butter,16/01/2024 5:37,Dairy & Alternatives,FALSE
+758,banana,16/01/2024 5:37,Fruits & Vegetables,FALSE
+758,rice,16/01/2024 5:37,Pantry Staples,FALSE
+759,paper towels,12/01/2024 0:50,Household Supplies,FALSE
+760,cereal,20/01/2024 18:16,Breakfast & Grains,FALSE
+760,yogurt,20/01/2024 18:16,Dairy & Alternatives,FALSE
+761,pasta,24/01/2024 12:41,Pantry Staples,FALSE
+761,cheese,24/01/2024 12:41,Dairy & Alternatives,FALSE
+761,rice,24/01/2024 12:41,Pantry Staples,FALSE
+761,coke,24/01/2024 12:41,Beverages,FALSE
+762,apple,14/01/2024 2:04,Fruits & Vegetables,FALSE
+762,banana,14/01/2024 2:04,Fruits & Vegetables,TRUE
+762,pepsi,14/01/2024 2:04,Beverages,FALSE
+762,yogurt,14/01/2024 2:04,Dairy & Alternatives,FALSE
+763,beef,01/01/2024 8:28,Meat & Seafood,FALSE
+763,rice,01/01/2024 8:28,Pantry Staples,FALSE
+763,chicken,01/01/2024 8:28,Meat & Seafood,FALSE
+764,rice,02/01/2024 12:49,Pantry Staples,FALSE
+764,cereal,02/01/2024 12:49,Breakfast & Grains,FALSE
+764,cheese,02/01/2024 12:49,Dairy & Alternatives,FALSE
+764,paper towels,02/01/2024 12:49,Household Supplies,FALSE
+765,pepsi,04/01/2024 8:47,Beverages,TRUE
+766,cereal,13/01/2024 4:54,Breakfast & Grains,FALSE
+766,banana,13/01/2024 4:54,Fruits & Vegetables,FALSE
+766,eggs,13/01/2024 4:54,Dairy & Alternatives,FALSE
+766,yogurt,13/01/2024 4:54,Dairy & Alternatives,FALSE
+766,apple,13/01/2024 4:54,Fruits & Vegetables,FALSE
+767,shampoo,24/01/2024 22:04,Personal Care,FALSE
+767,rice,24/01/2024 22:04,Pantry Staples,FALSE
+768,rice,17/01/2024 13:17,Pantry Staples,FALSE
+768,apple,17/01/2024 13:17,Fruits & Vegetables,FALSE
+769,eggs,16/01/2024 1:53,Dairy & Alternatives,FALSE
+769,milk,16/01/2024 1:53,Dairy & Alternatives,FALSE
+770,coke,05/01/2024 20:41,Beverages,FALSE
+770,banana,05/01/2024 20:41,Fruits & Vegetables,FALSE
+771,shampoo,18/01/2024 0:55,Personal Care,FALSE
+771,yogurt,18/01/2024 0:55,Dairy & Alternatives,FALSE
+771,bread,18/01/2024 0:55,Bakery,FALSE
+771,milk,18/01/2024 0:55,Dairy & Alternatives,FALSE
+772,milk,26/01/2024 15:45,Dairy & Alternatives,FALSE
+773,banana,04/01/2024 21:54,Fruits & Vegetables,FALSE
+773,cheese,04/01/2024 21:54,Dairy & Alternatives,FALSE
+774,beef,27/01/2024 0:27,Meat & Seafood,FALSE
+774,chicken,27/01/2024 0:27,Meat & Seafood,FALSE
+774,pasta,27/01/2024 0:27,Pantry Staples,FALSE
+774,eggs,27/01/2024 0:27,Dairy & Alternatives,FALSE
+775,bread,11/01/2024 23:51,Bakery,FALSE
+775,milk,11/01/2024 23:51,Dairy & Alternatives,FALSE
+775,paper towels,11/01/2024 23:51,Household Supplies,FALSE
+775,coke,11/01/2024 23:51,Beverages,FALSE
+775,pepsi,11/01/2024 23:51,Beverages,FALSE
+776,apple,01/01/2024 1:00,Fruits & Vegetables,FALSE
+776,cheese,01/01/2024 1:00,Dairy & Alternatives,FALSE
+776,banana,01/01/2024 1:00,Fruits & Vegetables,FALSE
+776,bread,01/01/2024 1:00,Bakery,FALSE
+776,milk,01/01/2024 1:00,Dairy & Alternatives,FALSE
+777,cheese,25/01/2024 12:31,Dairy & Alternatives,FALSE
+777,cereal,25/01/2024 12:31,Breakfast & Grains,FALSE
+777,shampoo,25/01/2024 12:31,Personal Care,FALSE
+777,rice,25/01/2024 12:31,Pantry Staples,FALSE
+778,butter,08/01/2024 20:42,Dairy & Alternatives,FALSE
+779,detergent,04/01/2024 10:56,Household Supplies,FALSE
+779,bread,04/01/2024 10:56,Bakery,FALSE
+779,rice,04/01/2024 10:56,Pantry Staples,FALSE
+780,shampoo,22/01/2024 23:32,Personal Care,FALSE
+780,butter,22/01/2024 23:32,Dairy & Alternatives,FALSE
+780,bread,22/01/2024 23:32,Bakery,FALSE
+780,cheese,22/01/2024 23:32,Dairy & Alternatives,FALSE
+780,milk,22/01/2024 23:32,Dairy & Alternatives,FALSE
+781,pepsi,09/01/2024 5:10,Beverages,FALSE
+782,shampoo,29/01/2024 2:00,Personal Care,FALSE
+782,paper towels,29/01/2024 2:00,Household Supplies,FALSE
+782,soap,29/01/2024 2:00,Personal Care,TRUE
+782,butter,29/01/2024 2:00,Dairy & Alternatives,FALSE
+782,yogurt,29/01/2024 2:00,Dairy & Alternatives,FALSE
+783,soap,25/01/2024 10:01,Personal Care,TRUE
+783,beef,25/01/2024 10:01,Meat & Seafood,FALSE
+784,chicken,07/01/2024 13:00,Meat & Seafood,FALSE
+784,apple,07/01/2024 13:00,Fruits & Vegetables,FALSE
+784,paper towels,07/01/2024 13:00,Household Supplies,FALSE
+784,pepsi,07/01/2024 13:00,Beverages,FALSE
+784,shampoo,07/01/2024 13:00,Personal Care,FALSE
+785,soap,24/01/2024 23:53,Personal Care,FALSE
+785,beef,24/01/2024 23:53,Meat & Seafood,FALSE
+785,eggs,24/01/2024 23:53,Dairy & Alternatives,FALSE
+785,cheese,24/01/2024 23:53,Dairy & Alternatives,FALSE
+786,apple,03/01/2024 10:37,Fruits & Vegetables,FALSE
+786,chicken,03/01/2024 10:37,Meat & Seafood,FALSE
+786,beef,03/01/2024 10:37,Meat & Seafood,FALSE
+786,cereal,03/01/2024 10:37,Breakfast & Grains,TRUE
+786,pasta,03/01/2024 10:37,Pantry Staples,FALSE
+787,butter,28/01/2024 15:30,Dairy & Alternatives,FALSE
+787,eggs,28/01/2024 15:30,Dairy & Alternatives,FALSE
+787,rice,28/01/2024 15:30,Pantry Staples,FALSE
+787,pepsi,28/01/2024 15:30,Beverages,FALSE
+788,detergent,03/01/2024 4:26,Household Supplies,FALSE
+788,coke,03/01/2024 4:26,Beverages,FALSE
+788,beef,03/01/2024 4:26,Meat & Seafood,FALSE
+788,paper towels,03/01/2024 4:26,Household Supplies,FALSE
+788,pasta,03/01/2024 4:26,Pantry Staples,FALSE
+789,soap,29/01/2024 16:02,Personal Care,FALSE
+790,apple,26/01/2024 0:31,Fruits & Vegetables,FALSE
+790,eggs,26/01/2024 0:31,Dairy & Alternatives,FALSE
+790,cereal,26/01/2024 0:31,Breakfast & Grains,FALSE
+790,coke,26/01/2024 0:31,Beverages,FALSE
+790,pepsi,26/01/2024 0:31,Beverages,FALSE
+791,cereal,11/01/2024 7:45,Breakfast & Grains,FALSE
+792,paper towels,12/01/2024 18:02,Household Supplies,FALSE
+792,cereal,12/01/2024 18:02,Breakfast & Grains,FALSE
+792,eggs,12/01/2024 18:02,Dairy & Alternatives,FALSE
+792,bread,12/01/2024 18:02,Bakery,FALSE
+792,pasta,12/01/2024 18:02,Pantry Staples,FALSE
+793,paper towels,15/01/2024 13:23,Household Supplies,FALSE
+793,coke,15/01/2024 13:23,Beverages,FALSE
+793,cereal,15/01/2024 13:23,Breakfast & Grains,FALSE
+793,milk,15/01/2024 13:23,Dairy & Alternatives,FALSE
+793,pepsi,15/01/2024 13:23,Beverages,FALSE
+794,soap,15/01/2024 0:17,Personal Care,TRUE
+794,coke,15/01/2024 0:17,Beverages,FALSE
+795,cheese,16/01/2024 14:48,Dairy & Alternatives,FALSE
+795,shampoo,16/01/2024 14:48,Personal Care,FALSE
+795,banana,16/01/2024 14:48,Fruits & Vegetables,FALSE
+795,coke,16/01/2024 14:48,Beverages,FALSE
+795,rice,16/01/2024 14:48,Pantry Staples,TRUE
+796,eggs,08/01/2024 10:50,Dairy & Alternatives,FALSE
+796,cheese,08/01/2024 10:50,Dairy & Alternatives,FALSE
+797,banana,21/01/2024 17:08,Fruits & Vegetables,FALSE
+797,butter,21/01/2024 17:08,Dairy & Alternatives,FALSE
+797,milk,21/01/2024 17:08,Dairy & Alternatives,FALSE
+798,yogurt,03/01/2024 9:14,Dairy & Alternatives,FALSE
+799,rice,19/01/2024 1:54,Pantry Staples,FALSE
+799,soap,19/01/2024 1:54,Personal Care,FALSE
+799,cereal,19/01/2024 1:54,Breakfast & Grains,FALSE
+799,yogurt,19/01/2024 1:54,Dairy & Alternatives,FALSE
+799,milk,19/01/2024 1:54,Dairy & Alternatives,FALSE
+800,soap,20/01/2024 15:35,Personal Care,FALSE
+800,cheese,20/01/2024 15:35,Dairy & Alternatives,FALSE
+800,milk,20/01/2024 15:35,Dairy & Alternatives,FALSE
+800,coke,20/01/2024 15:35,Beverages,FALSE
+800,detergent,20/01/2024 15:35,Household Supplies,FALSE
+801,cereal,22/01/2024 7:09,Breakfast & Grains,FALSE
+801,beef,22/01/2024 7:09,Meat & Seafood,FALSE
+802,coke,12/01/2024 5:41,Beverages,FALSE
+802,rice,12/01/2024 5:41,Pantry Staples,FALSE
+803,shampoo,13/01/2024 14:56,Personal Care,FALSE
+804,eggs,11/01/2024 12:00,Dairy & Alternatives,FALSE
+804,shampoo,11/01/2024 12:00,Personal Care,FALSE
+804,paper towels,11/01/2024 12:00,Household Supplies,FALSE
+805,banana,12/01/2024 9:37,Fruits & Vegetables,FALSE
+806,butter,11/01/2024 18:16,Dairy & Alternatives,FALSE
+806,detergent,11/01/2024 18:16,Household Supplies,FALSE
+806,rice,11/01/2024 18:16,Pantry Staples,FALSE
+807,cheese,08/01/2024 2:57,Dairy & Alternatives,FALSE
+807,bread,08/01/2024 2:57,Bakery,FALSE
+807,milk,08/01/2024 2:57,Dairy & Alternatives,FALSE
+808,yogurt,22/01/2024 23:09,Dairy & Alternatives,FALSE
+808,cereal,22/01/2024 23:09,Breakfast & Grains,FALSE
+808,cheese,22/01/2024 23:09,Dairy & Alternatives,FALSE
+808,butter,22/01/2024 23:09,Dairy & Alternatives,FALSE
+809,butter,07/01/2024 1:27,Dairy & Alternatives,FALSE
+809,milk,07/01/2024 1:27,Dairy & Alternatives,FALSE
+810,pasta,25/01/2024 21:03,Pantry Staples,FALSE
+810,milk,25/01/2024 21:03,Dairy & Alternatives,FALSE
+810,soap,25/01/2024 21:03,Personal Care,FALSE
+811,shampoo,24/01/2024 12:53,Personal Care,FALSE
+811,chicken,24/01/2024 12:53,Meat & Seafood,FALSE
+811,bread,24/01/2024 12:53,Bakery,FALSE
+811,yogurt,24/01/2024 12:53,Dairy & Alternatives,FALSE
+811,cereal,24/01/2024 12:53,Breakfast & Grains,FALSE
+812,butter,13/01/2024 22:20,Dairy & Alternatives,FALSE
+812,banana,13/01/2024 22:20,Fruits & Vegetables,FALSE
+812,beef,13/01/2024 22:20,Meat & Seafood,FALSE
+813,apple,15/01/2024 22:41,Fruits & Vegetables,FALSE
+813,beef,15/01/2024 22:41,Meat & Seafood,FALSE
+813,butter,15/01/2024 22:41,Dairy & Alternatives,FALSE
+813,milk,15/01/2024 22:41,Dairy & Alternatives,FALSE
+814,banana,30/01/2024 13:01,Fruits & Vegetables,FALSE
+814,chicken,30/01/2024 13:01,Meat & Seafood,FALSE
+815,pepsi,01/01/2024 8:16,Beverages,FALSE
+816,milk,23/01/2024 22:38,Dairy & Alternatives,FALSE
+816,chicken,23/01/2024 22:38,Meat & Seafood,FALSE
+816,butter,23/01/2024 22:38,Dairy & Alternatives,FALSE
+816,coke,23/01/2024 22:38,Beverages,FALSE
+817,pasta,13/01/2024 17:27,Pantry Staples,FALSE
+817,detergent,13/01/2024 17:27,Household Supplies,FALSE
+817,yogurt,13/01/2024 17:27,Dairy & Alternatives,FALSE
+818,pasta,20/01/2024 5:31,Pantry Staples,FALSE
+818,rice,20/01/2024 5:31,Pantry Staples,FALSE
+819,cereal,17/01/2024 13:11,Breakfast & Grains,FALSE
+819,eggs,17/01/2024 13:11,Dairy & Alternatives,FALSE
+819,banana,17/01/2024 13:11,Fruits & Vegetables,FALSE
+819,detergent,17/01/2024 13:11,Household Supplies,FALSE
+819,pasta,17/01/2024 13:11,Pantry Staples,FALSE
+820,yogurt,08/01/2024 18:00,Dairy & Alternatives,TRUE
+820,beef,08/01/2024 18:00,Meat & Seafood,FALSE
+820,bread,08/01/2024 18:00,Bakery,FALSE
+820,paper towels,08/01/2024 18:00,Household Supplies,FALSE
+821,pepsi,13/01/2024 15:28,Beverages,FALSE
+821,cereal,13/01/2024 15:28,Breakfast & Grains,FALSE
+822,rice,30/01/2024 9:43,Pantry Staples,FALSE
+822,beef,30/01/2024 9:43,Meat & Seafood,FALSE
+822,apple,30/01/2024 9:43,Fruits & Vegetables,FALSE
+822,banana,30/01/2024 9:43,Fruits & Vegetables,FALSE
+823,milk,10/01/2024 18:54,Dairy & Alternatives,FALSE
+823,pasta,10/01/2024 18:54,Pantry Staples,FALSE
+823,butter,10/01/2024 18:54,Dairy & Alternatives,FALSE
+823,eggs,10/01/2024 18:54,Dairy & Alternatives,FALSE
+823,chicken,10/01/2024 18:54,Meat & Seafood,FALSE
+824,milk,09/01/2024 8:53,Dairy & Alternatives,FALSE
+824,chicken,09/01/2024 8:53,Meat & Seafood,FALSE
+824,cereal,09/01/2024 8:53,Breakfast & Grains,FALSE
+824,shampoo,09/01/2024 8:53,Personal Care,FALSE
+824,eggs,09/01/2024 8:53,Dairy & Alternatives,FALSE
+825,beef,10/01/2024 9:15,Meat & Seafood,FALSE
+825,paper towels,10/01/2024 9:15,Household Supplies,FALSE
+825,pepsi,10/01/2024 9:15,Beverages,FALSE
+826,beef,28/01/2024 23:14,Meat & Seafood,FALSE
+826,rice,28/01/2024 23:14,Pantry Staples,FALSE
+827,bread,25/01/2024 7:30,Bakery,FALSE
+827,eggs,25/01/2024 7:30,Dairy & Alternatives,FALSE
+827,pasta,25/01/2024 7:30,Pantry Staples,FALSE
+827,cereal,25/01/2024 7:30,Breakfast & Grains,FALSE
+827,detergent,25/01/2024 7:30,Household Supplies,FALSE
+828,milk,05/01/2024 0:21,Dairy & Alternatives,FALSE
+828,shampoo,05/01/2024 0:21,Personal Care,FALSE
+828,apple,05/01/2024 0:21,Fruits & Vegetables,FALSE
+828,cheese,05/01/2024 0:21,Dairy & Alternatives,FALSE
+828,beef,05/01/2024 0:21,Meat & Seafood,FALSE
+829,banana,09/01/2024 11:30,Fruits & Vegetables,FALSE
+829,shampoo,09/01/2024 11:30,Personal Care,FALSE
+829,detergent,09/01/2024 11:30,Household Supplies,FALSE
+830,paper towels,04/01/2024 14:46,Household Supplies,FALSE
+830,shampoo,04/01/2024 14:46,Personal Care,TRUE
+830,eggs,04/01/2024 14:46,Dairy & Alternatives,FALSE
+830,butter,04/01/2024 14:46,Dairy & Alternatives,FALSE
+830,banana,04/01/2024 14:46,Fruits & Vegetables,TRUE
+831,pepsi,17/01/2024 23:36,Beverages,FALSE
+831,bread,17/01/2024 23:36,Bakery,FALSE
+831,cheese,17/01/2024 23:36,Dairy & Alternatives,FALSE
+831,detergent,17/01/2024 23:36,Household Supplies,FALSE
+831,eggs,17/01/2024 23:36,Dairy & Alternatives,FALSE
+832,eggs,24/01/2024 6:52,Dairy & Alternatives,FALSE
+832,pasta,24/01/2024 6:52,Pantry Staples,FALSE
+832,pepsi,24/01/2024 6:52,Beverages,FALSE
+832,bread,24/01/2024 6:52,Bakery,FALSE
+833,eggs,29/01/2024 12:09,Dairy & Alternatives,FALSE
+834,milk,08/01/2024 19:55,Dairy & Alternatives,FALSE
+834,shampoo,08/01/2024 19:55,Personal Care,FALSE
+834,bread,08/01/2024 19:55,Bakery,FALSE
+834,coke,08/01/2024 19:55,Beverages,FALSE
+835,milk,06/01/2024 4:48,Dairy & Alternatives,FALSE
+836,coke,10/01/2024 5:31,Beverages,FALSE
+836,cheese,10/01/2024 5:31,Dairy & Alternatives,FALSE
+836,eggs,10/01/2024 5:31,Dairy & Alternatives,FALSE
+837,detergent,21/01/2024 16:14,Household Supplies,FALSE
+837,paper towels,21/01/2024 16:14,Household Supplies,FALSE
+838,yogurt,18/01/2024 0:30,Dairy & Alternatives,FALSE
+838,shampoo,18/01/2024 0:30,Personal Care,FALSE
+839,pasta,26/01/2024 6:36,Pantry Staples,FALSE
+839,milk,26/01/2024 6:36,Dairy & Alternatives,FALSE
+840,yogurt,11/01/2024 21:38,Dairy & Alternatives,FALSE
+840,soap,11/01/2024 21:38,Personal Care,FALSE
+841,detergent,09/01/2024 17:20,Household Supplies,FALSE
+841,eggs,09/01/2024 17:20,Dairy & Alternatives,FALSE
+841,yogurt,09/01/2024 17:20,Dairy & Alternatives,FALSE
+842,bread,23/01/2024 1:26,Bakery,FALSE
+842,pasta,23/01/2024 1:26,Pantry Staples,FALSE
+842,rice,23/01/2024 1:26,Pantry Staples,FALSE
+842,cereal,23/01/2024 1:26,Breakfast & Grains,TRUE
+842,soap,23/01/2024 1:26,Personal Care,FALSE
+843,pepsi,15/01/2024 15:41,Beverages,FALSE
+843,cereal,15/01/2024 15:41,Breakfast & Grains,FALSE
+844,cheese,28/01/2024 10:48,Dairy & Alternatives,FALSE
+844,beef,28/01/2024 10:48,Meat & Seafood,FALSE
+844,cereal,28/01/2024 10:48,Breakfast & Grains,FALSE
+844,apple,28/01/2024 10:48,Fruits & Vegetables,FALSE
+845,beef,07/01/2024 13:08,Meat & Seafood,FALSE
+845,coke,07/01/2024 13:08,Beverages,FALSE
+845,chicken,07/01/2024 13:08,Meat & Seafood,FALSE
+845,banana,07/01/2024 13:08,Fruits & Vegetables,FALSE
+846,milk,26/01/2024 5:34,Dairy & Alternatives,FALSE
+846,shampoo,26/01/2024 5:34,Personal Care,FALSE
+846,bread,26/01/2024 5:34,Bakery,FALSE
+847,chicken,07/01/2024 11:49,Meat & Seafood,FALSE
+847,cereal,07/01/2024 11:49,Breakfast & Grains,FALSE
+847,detergent,07/01/2024 11:49,Household Supplies,FALSE
+847,bread,07/01/2024 11:49,Bakery,FALSE
+848,detergent,02/01/2024 9:28,Household Supplies,FALSE
+848,soap,02/01/2024 9:28,Personal Care,FALSE
+848,apple,02/01/2024 9:28,Fruits & Vegetables,FALSE
+848,milk,02/01/2024 9:28,Dairy & Alternatives,FALSE
+849,rice,19/01/2024 11:12,Pantry Staples,FALSE
+849,detergent,19/01/2024 11:12,Household Supplies,FALSE
+849,paper towels,19/01/2024 11:12,Household Supplies,FALSE
+849,coke,19/01/2024 11:12,Beverages,FALSE
+849,banana,19/01/2024 11:12,Fruits & Vegetables,FALSE
+850,eggs,23/01/2024 7:47,Dairy & Alternatives,FALSE
+850,coke,23/01/2024 7:47,Beverages,FALSE
+850,shampoo,23/01/2024 7:47,Personal Care,FALSE
+850,chicken,23/01/2024 7:47,Meat & Seafood,FALSE
+851,chicken,14/01/2024 20:46,Meat & Seafood,FALSE
+851,detergent,14/01/2024 20:46,Household Supplies,FALSE
+851,soap,14/01/2024 20:46,Personal Care,FALSE
+851,bread,14/01/2024 20:46,Bakery,FALSE
+852,rice,15/01/2024 1:47,Pantry Staples,FALSE
+852,bread,15/01/2024 1:47,Bakery,FALSE
+853,rice,08/01/2024 2:33,Pantry Staples,FALSE
+854,cereal,07/01/2024 21:25,Breakfast & Grains,FALSE
+854,shampoo,07/01/2024 21:25,Personal Care,FALSE
+854,detergent,07/01/2024 21:25,Household Supplies,FALSE
+854,yogurt,07/01/2024 21:25,Dairy & Alternatives,FALSE
+855,detergent,13/01/2024 7:31,Household Supplies,FALSE
+855,bread,13/01/2024 7:31,Bakery,FALSE
+855,paper towels,13/01/2024 7:31,Household Supplies,FALSE
+855,banana,13/01/2024 7:31,Fruits & Vegetables,FALSE
+855,butter,13/01/2024 7:31,Dairy & Alternatives,FALSE
+856,banana,28/01/2024 2:32,Fruits & Vegetables,FALSE
+856,pasta,28/01/2024 2:32,Pantry Staples,FALSE
+856,cereal,28/01/2024 2:32,Breakfast & Grains,TRUE
+857,yogurt,08/01/2024 14:39,Dairy & Alternatives,FALSE
+858,shampoo,03/01/2024 14:41,Personal Care,FALSE
+858,paper towels,03/01/2024 14:41,Household Supplies,FALSE
+858,cereal,03/01/2024 14:41,Breakfast & Grains,FALSE
+858,banana,03/01/2024 14:41,Fruits & Vegetables,FALSE
+859,pasta,06/01/2024 20:28,Pantry Staples,FALSE
+859,paper towels,06/01/2024 20:28,Household Supplies,FALSE
+859,bread,06/01/2024 20:28,Bakery,FALSE
+860,apple,29/01/2024 5:31,Fruits & Vegetables,FALSE
+860,soap,29/01/2024 5:31,Personal Care,FALSE
+860,detergent,29/01/2024 5:31,Household Supplies,FALSE
+861,pasta,19/01/2024 5:38,Pantry Staples,FALSE
+861,paper towels,19/01/2024 5:38,Household Supplies,FALSE
+861,pepsi,19/01/2024 5:38,Beverages,FALSE
+862,yogurt,04/01/2024 16:21,Dairy & Alternatives,FALSE
+862,pepsi,04/01/2024 16:21,Beverages,FALSE
+863,beef,16/01/2024 11:25,Meat & Seafood,FALSE
+863,cheese,16/01/2024 11:25,Dairy & Alternatives,FALSE
+863,paper towels,16/01/2024 11:25,Household Supplies,FALSE
+863,apple,16/01/2024 11:25,Fruits & Vegetables,FALSE
+864,coke,14/01/2024 13:39,Beverages,FALSE
+864,milk,14/01/2024 13:39,Dairy & Alternatives,FALSE
+865,pasta,04/01/2024 16:32,Pantry Staples,FALSE
+865,detergent,04/01/2024 16:32,Household Supplies,FALSE
+865,rice,04/01/2024 16:32,Pantry Staples,FALSE
+865,apple,04/01/2024 16:32,Fruits & Vegetables,FALSE
+865,soap,04/01/2024 16:32,Personal Care,FALSE
+866,chicken,22/01/2024 11:49,Meat & Seafood,FALSE
+867,chicken,27/01/2024 20:32,Meat & Seafood,FALSE
+867,rice,27/01/2024 20:32,Pantry Staples,TRUE
+867,milk,27/01/2024 20:32,Dairy & Alternatives,FALSE
+867,bread,27/01/2024 20:32,Bakery,FALSE
+868,apple,14/01/2024 15:14,Fruits & Vegetables,TRUE
+868,cereal,14/01/2024 15:14,Breakfast & Grains,FALSE
+869,eggs,19/01/2024 1:32,Dairy & Alternatives,FALSE
+869,apple,19/01/2024 1:32,Fruits & Vegetables,FALSE
+869,yogurt,19/01/2024 1:32,Dairy & Alternatives,FALSE
+869,paper towels,19/01/2024 1:32,Household Supplies,FALSE
+869,chicken,19/01/2024 1:32,Meat & Seafood,FALSE
+870,pasta,03/01/2024 4:45,Pantry Staples,FALSE
+870,beef,03/01/2024 4:45,Meat & Seafood,FALSE
+870,milk,03/01/2024 4:45,Dairy & Alternatives,FALSE
+870,soap,03/01/2024 4:45,Personal Care,TRUE
+870,detergent,03/01/2024 4:45,Household Supplies,FALSE
+871,shampoo,05/01/2024 18:25,Personal Care,FALSE
+871,detergent,05/01/2024 18:25,Household Supplies,FALSE
+872,paper towels,23/01/2024 18:52,Household Supplies,FALSE
+872,cheese,23/01/2024 18:52,Dairy & Alternatives,FALSE
+872,beef,23/01/2024 18:52,Meat & Seafood,FALSE
+873,chicken,27/01/2024 13:04,Meat & Seafood,FALSE
+873,coke,27/01/2024 13:04,Beverages,FALSE
+873,soap,27/01/2024 13:04,Personal Care,FALSE
+873,rice,27/01/2024 13:04,Pantry Staples,FALSE
+874,butter,23/01/2024 1:41,Dairy & Alternatives,FALSE
+874,cereal,23/01/2024 1:41,Breakfast & Grains,FALSE
+875,shampoo,04/01/2024 10:03,Personal Care,FALSE
+875,pasta,04/01/2024 10:03,Pantry Staples,FALSE
+876,eggs,20/01/2024 0:12,Dairy & Alternatives,FALSE
+876,butter,20/01/2024 0:12,Dairy & Alternatives,FALSE
+876,pasta,20/01/2024 0:12,Pantry Staples,FALSE
+877,paper towels,04/01/2024 13:22,Household Supplies,FALSE
+877,soap,04/01/2024 13:22,Personal Care,FALSE
+878,milk,25/01/2024 5:44,Dairy & Alternatives,FALSE
+878,pasta,25/01/2024 5:44,Pantry Staples,FALSE
+878,yogurt,25/01/2024 5:44,Dairy & Alternatives,FALSE
+879,cheese,27/01/2024 9:32,Dairy & Alternatives,FALSE
+879,eggs,27/01/2024 9:32,Dairy & Alternatives,FALSE
+880,cereal,27/01/2024 13:21,Breakfast & Grains,FALSE
+880,pasta,27/01/2024 13:21,Pantry Staples,FALSE
+880,yogurt,27/01/2024 13:21,Dairy & Alternatives,FALSE
+880,paper towels,27/01/2024 13:21,Household Supplies,FALSE
+880,pepsi,27/01/2024 13:21,Beverages,FALSE
+881,pasta,10/01/2024 11:06,Pantry Staples,FALSE
+881,banana,10/01/2024 11:06,Fruits & Vegetables,FALSE
+881,eggs,10/01/2024 11:06,Dairy & Alternatives,FALSE
+882,butter,21/01/2024 21:03,Dairy & Alternatives,FALSE
+882,pasta,21/01/2024 21:03,Pantry Staples,FALSE
+882,cheese,21/01/2024 21:03,Dairy & Alternatives,FALSE
+882,banana,21/01/2024 21:03,Fruits & Vegetables,TRUE
+882,beef,21/01/2024 21:03,Meat & Seafood,FALSE
+883,soap,04/01/2024 10:47,Personal Care,FALSE
+884,soap,17/01/2024 20:04,Personal Care,FALSE
+885,paper towels,19/01/2024 22:40,Household Supplies,FALSE
+885,apple,19/01/2024 22:40,Fruits & Vegetables,FALSE
+885,butter,19/01/2024 22:40,Dairy & Alternatives,FALSE
+886,beef,30/01/2024 8:33,Meat & Seafood,FALSE
+886,detergent,30/01/2024 8:33,Household Supplies,FALSE
+886,cereal,30/01/2024 8:33,Breakfast & Grains,FALSE
+886,milk,30/01/2024 8:33,Dairy & Alternatives,FALSE
+887,pasta,18/01/2024 10:22,Pantry Staples,FALSE
+887,milk,18/01/2024 10:22,Dairy & Alternatives,FALSE
+888,apple,05/01/2024 19:25,Fruits & Vegetables,FALSE
+888,bread,05/01/2024 19:25,Bakery,FALSE
+888,paper towels,05/01/2024 19:25,Household Supplies,FALSE
+889,cereal,08/01/2024 16:00,Breakfast & Grains,FALSE
+889,beef,08/01/2024 16:00,Meat & Seafood,FALSE
+889,cheese,08/01/2024 16:00,Dairy & Alternatives,FALSE
+889,soap,08/01/2024 16:00,Personal Care,FALSE
+890,yogurt,02/01/2024 17:36,Dairy & Alternatives,FALSE
+890,coke,02/01/2024 17:36,Beverages,FALSE
+890,banana,02/01/2024 17:36,Fruits & Vegetables,FALSE
+891,milk,25/01/2024 13:02,Dairy & Alternatives,FALSE
+891,pepsi,25/01/2024 13:02,Beverages,FALSE
+891,chicken,25/01/2024 13:02,Meat & Seafood,FALSE
+891,detergent,25/01/2024 13:02,Household Supplies,FALSE
+891,coke,25/01/2024 13:02,Beverages,FALSE
+892,eggs,07/01/2024 11:05,Dairy & Alternatives,FALSE
+892,cereal,07/01/2024 11:05,Breakfast & Grains,FALSE
+892,cheese,07/01/2024 11:05,Dairy & Alternatives,FALSE
+893,banana,28/01/2024 15:45,Fruits & Vegetables,FALSE
+893,chicken,28/01/2024 15:45,Meat & Seafood,FALSE
+893,cheese,28/01/2024 15:45,Dairy & Alternatives,FALSE
+894,coke,10/01/2024 23:15,Beverages,FALSE
+894,cereal,10/01/2024 23:15,Breakfast & Grains,FALSE
+894,yogurt,10/01/2024 23:15,Dairy & Alternatives,FALSE
+894,shampoo,10/01/2024 23:15,Personal Care,FALSE
+895,coke,08/01/2024 16:29,Beverages,FALSE
+895,rice,08/01/2024 16:29,Pantry Staples,FALSE
+895,yogurt,08/01/2024 16:29,Dairy & Alternatives,FALSE
+895,chicken,08/01/2024 16:29,Meat & Seafood,FALSE
+896,paper towels,28/01/2024 3:05,Household Supplies,FALSE
+896,coke,28/01/2024 3:05,Beverages,FALSE
+896,eggs,28/01/2024 3:05,Dairy & Alternatives,FALSE
+896,detergent,28/01/2024 3:05,Household Supplies,TRUE
+897,rice,28/01/2024 10:10,Pantry Staples,FALSE
+897,coke,28/01/2024 10:10,Beverages,FALSE
+897,chicken,28/01/2024 10:10,Meat & Seafood,FALSE
+897,yogurt,28/01/2024 10:10,Dairy & Alternatives,FALSE
+897,banana,28/01/2024 10:10,Fruits & Vegetables,FALSE
+898,cheese,25/01/2024 4:41,Dairy & Alternatives,FALSE
+898,butter,25/01/2024 4:41,Dairy & Alternatives,FALSE
+899,banana,31/01/2024 22:40,Fruits & Vegetables,FALSE
+899,pepsi,31/01/2024 22:40,Beverages,FALSE
+899,shampoo,31/01/2024 22:40,Personal Care,FALSE
+900,banana,18/01/2024 17:54,Fruits & Vegetables,FALSE
+900,coke,18/01/2024 17:54,Beverages,FALSE
+900,paper towels,18/01/2024 17:54,Household Supplies,FALSE
+900,soap,18/01/2024 17:54,Personal Care,FALSE
+900,bread,18/01/2024 17:54,Bakery,FALSE
+901,apple,26/01/2024 10:28,Fruits & Vegetables,FALSE
+901,soap,26/01/2024 10:28,Personal Care,FALSE
+901,paper towels,26/01/2024 10:28,Household Supplies,FALSE
+902,chicken,30/01/2024 17:02,Meat & Seafood,TRUE
+902,detergent,30/01/2024 17:02,Household Supplies,FALSE
+903,paper towels,27/01/2024 21:04,Household Supplies,FALSE
+903,cheese,27/01/2024 21:04,Dairy & Alternatives,FALSE
+904,beef,25/01/2024 5:07,Meat & Seafood,FALSE
+904,butter,25/01/2024 5:07,Dairy & Alternatives,FALSE
+905,shampoo,08/01/2024 17:09,Personal Care,FALSE
+905,yogurt,08/01/2024 17:09,Dairy & Alternatives,FALSE
+905,eggs,08/01/2024 17:09,Dairy & Alternatives,TRUE
+905,apple,08/01/2024 17:09,Fruits & Vegetables,FALSE
+905,bread,08/01/2024 17:09,Bakery,FALSE
+906,bread,01/01/2024 10:46,Bakery,FALSE
+906,cheese,01/01/2024 10:46,Dairy & Alternatives,FALSE
+906,detergent,01/01/2024 10:46,Household Supplies,FALSE
+906,soap,01/01/2024 10:46,Personal Care,FALSE
+907,paper towels,24/01/2024 20:48,Household Supplies,FALSE
+907,soap,24/01/2024 20:48,Personal Care,FALSE
+907,milk,24/01/2024 20:48,Dairy & Alternatives,FALSE
+907,shampoo,24/01/2024 20:48,Personal Care,FALSE
+908,pasta,31/01/2024 23:01,Pantry Staples,FALSE
+908,cheese,31/01/2024 23:01,Dairy & Alternatives,TRUE
+909,rice,21/01/2024 22:55,Pantry Staples,FALSE
+910,rice,04/01/2024 1:52,Pantry Staples,FALSE
+910,pasta,04/01/2024 1:52,Pantry Staples,FALSE
+910,apple,04/01/2024 1:52,Fruits & Vegetables,FALSE
+910,eggs,04/01/2024 1:52,Dairy & Alternatives,FALSE
+910,beef,04/01/2024 1:52,Meat & Seafood,FALSE
+911,coke,13/01/2024 7:26,Beverages,FALSE
+911,shampoo,13/01/2024 7:26,Personal Care,FALSE
+912,coke,10/01/2024 7:49,Beverages,FALSE
+913,rice,24/01/2024 10:46,Pantry Staples,FALSE
+913,bread,24/01/2024 10:46,Bakery,FALSE
+913,milk,24/01/2024 10:46,Dairy & Alternatives,FALSE
+913,pasta,24/01/2024 10:46,Pantry Staples,TRUE
+913,eggs,24/01/2024 10:46,Dairy & Alternatives,FALSE
+914,coke,28/01/2024 0:16,Beverages,FALSE
+914,butter,28/01/2024 0:16,Dairy & Alternatives,TRUE
+915,detergent,27/01/2024 12:57,Household Supplies,FALSE
+915,beef,27/01/2024 12:57,Meat & Seafood,TRUE
+915,milk,27/01/2024 12:57,Dairy & Alternatives,FALSE
+915,pasta,27/01/2024 12:57,Pantry Staples,FALSE
+916,pepsi,18/01/2024 8:35,Beverages,FALSE
+917,soap,23/01/2024 14:21,Personal Care,FALSE
+918,detergent,09/01/2024 7:42,Household Supplies,FALSE
+918,shampoo,09/01/2024 7:42,Personal Care,FALSE
+918,cheese,09/01/2024 7:42,Dairy & Alternatives,FALSE
+919,milk,31/01/2024 12:45,Dairy & Alternatives,FALSE
+920,beef,14/01/2024 12:06,Meat & Seafood,FALSE
+920,yogurt,14/01/2024 12:06,Dairy & Alternatives,FALSE
+920,milk,14/01/2024 12:06,Dairy & Alternatives,FALSE
+920,shampoo,14/01/2024 12:06,Personal Care,FALSE
+920,pasta,14/01/2024 12:06,Pantry Staples,FALSE
+921,yogurt,09/01/2024 19:09,Dairy & Alternatives,FALSE
+922,yogurt,02/01/2024 23:13,Dairy & Alternatives,FALSE
+923,soap,14/01/2024 11:19,Personal Care,FALSE
+923,pasta,14/01/2024 11:19,Pantry Staples,FALSE
+923,detergent,14/01/2024 11:19,Household Supplies,FALSE
+924,pepsi,15/01/2024 1:36,Beverages,FALSE
+925,milk,13/01/2024 12:40,Dairy & Alternatives,FALSE
+925,cereal,13/01/2024 12:40,Breakfast & Grains,FALSE
+926,paper towels,03/01/2024 19:03,Household Supplies,FALSE
+927,butter,07/01/2024 9:42,Dairy & Alternatives,FALSE
+927,rice,07/01/2024 9:42,Pantry Staples,FALSE
+927,cheese,07/01/2024 9:42,Dairy & Alternatives,FALSE
+927,coke,07/01/2024 9:42,Beverages,FALSE
+927,bread,07/01/2024 9:42,Bakery,FALSE
+928,butter,17/01/2024 20:13,Dairy & Alternatives,FALSE
+928,chicken,17/01/2024 20:13,Meat & Seafood,FALSE
+929,bread,24/01/2024 16:33,Bakery,FALSE
+930,apple,01/01/2024 21:39,Fruits & Vegetables,FALSE
+930,butter,01/01/2024 21:39,Dairy & Alternatives,FALSE
+930,cheese,01/01/2024 21:39,Dairy & Alternatives,FALSE
+930,bread,01/01/2024 21:39,Bakery,FALSE
+931,chicken,09/01/2024 10:03,Meat & Seafood,FALSE
+931,pasta,09/01/2024 10:03,Pantry Staples,FALSE
+931,shampoo,09/01/2024 10:03,Personal Care,FALSE
+932,milk,01/01/2024 2:22,Dairy & Alternatives,FALSE
+932,pepsi,01/01/2024 2:22,Beverages,FALSE
+932,yogurt,01/01/2024 2:22,Dairy & Alternatives,FALSE
+932,detergent,01/01/2024 2:22,Household Supplies,FALSE
+933,yogurt,24/01/2024 15:42,Dairy & Alternatives,FALSE
+933,cereal,24/01/2024 15:42,Breakfast & Grains,FALSE
+934,eggs,20/01/2024 0:03,Dairy & Alternatives,FALSE
+934,detergent,20/01/2024 0:03,Household Supplies,FALSE
+935,bread,26/01/2024 8:17,Bakery,FALSE
+935,chicken,26/01/2024 8:17,Meat & Seafood,FALSE
+936,apple,25/01/2024 23:15,Fruits & Vegetables,FALSE
+937,apple,02/01/2024 13:38,Fruits & Vegetables,FALSE
+937,cereal,02/01/2024 13:38,Breakfast & Grains,FALSE
+938,butter,18/01/2024 1:07,Dairy & Alternatives,FALSE
+938,banana,18/01/2024 1:07,Fruits & Vegetables,FALSE
+938,pepsi,18/01/2024 1:07,Beverages,FALSE
+939,apple,27/01/2024 21:09,Fruits & Vegetables,FALSE
+939,coke,27/01/2024 21:09,Beverages,FALSE
+939,beef,27/01/2024 21:09,Meat & Seafood,FALSE
+939,detergent,27/01/2024 21:09,Household Supplies,FALSE
+939,pasta,27/01/2024 21:09,Pantry Staples,FALSE
+940,pasta,11/01/2024 9:17,Pantry Staples,TRUE
+940,paper towels,11/01/2024 9:17,Household Supplies,TRUE
+940,bread,11/01/2024 9:17,Bakery,FALSE
+940,detergent,11/01/2024 9:17,Household Supplies,FALSE
+940,soap,11/01/2024 9:17,Personal Care,FALSE
+941,eggs,20/01/2024 16:30,Dairy & Alternatives,FALSE
+941,butter,20/01/2024 16:30,Dairy & Alternatives,FALSE
+941,detergent,20/01/2024 16:30,Household Supplies,FALSE
+941,coke,20/01/2024 16:30,Beverages,FALSE
+942,rice,29/01/2024 7:31,Pantry Staples,FALSE
+943,cereal,13/01/2024 16:27,Breakfast & Grains,FALSE
+944,pepsi,22/01/2024 5:43,Beverages,FALSE
+944,soap,22/01/2024 5:43,Personal Care,FALSE
+945,eggs,07/01/2024 11:10,Dairy & Alternatives,FALSE
+945,chicken,07/01/2024 11:10,Meat & Seafood,FALSE
+945,cereal,07/01/2024 11:10,Breakfast & Grains,FALSE
+945,paper towels,07/01/2024 11:10,Household Supplies,FALSE
+946,shampoo,16/01/2024 2:06,Personal Care,FALSE
+946,pasta,16/01/2024 2:06,Pantry Staples,FALSE
+947,butter,16/01/2024 0:14,Dairy & Alternatives,FALSE
+947,soap,16/01/2024 0:14,Personal Care,FALSE
+947,milk,16/01/2024 0:14,Dairy & Alternatives,FALSE
+948,shampoo,27/01/2024 22:58,Personal Care,FALSE
+948,rice,27/01/2024 22:58,Pantry Staples,FALSE
+948,banana,27/01/2024 22:58,Fruits & Vegetables,FALSE
+949,beef,22/01/2024 0:31,Meat & Seafood,TRUE
+949,cheese,22/01/2024 0:31,Dairy & Alternatives,FALSE
+949,apple,22/01/2024 0:31,Fruits & Vegetables,FALSE
+949,detergent,22/01/2024 0:31,Household Supplies,FALSE
+949,milk,22/01/2024 0:31,Dairy & Alternatives,FALSE
+950,shampoo,10/01/2024 1:37,Personal Care,FALSE
+951,pasta,18/01/2024 18:47,Pantry Staples,FALSE
+951,beef,18/01/2024 18:47,Meat & Seafood,FALSE
+951,eggs,18/01/2024 18:47,Dairy & Alternatives,FALSE
+951,apple,18/01/2024 18:47,Fruits & Vegetables,FALSE
+952,pepsi,18/01/2024 22:32,Beverages,FALSE
+952,pasta,18/01/2024 22:32,Pantry Staples,FALSE
+952,cheese,18/01/2024 22:32,Dairy & Alternatives,FALSE
+953,butter,20/01/2024 15:15,Dairy & Alternatives,FALSE
+954,rice,27/01/2024 17:12,Pantry Staples,FALSE
+954,eggs,27/01/2024 17:12,Dairy & Alternatives,FALSE
+954,bread,27/01/2024 17:12,Bakery,FALSE
+954,pasta,27/01/2024 17:12,Pantry Staples,FALSE
+955,pepsi,20/01/2024 15:42,Beverages,FALSE
+955,paper towels,20/01/2024 15:42,Household Supplies,FALSE
+955,cheese,20/01/2024 15:42,Dairy & Alternatives,FALSE
+955,shampoo,20/01/2024 15:42,Personal Care,FALSE
+956,coke,07/01/2024 20:16,Beverages,FALSE
+956,pasta,07/01/2024 20:16,Pantry Staples,FALSE
+956,bread,07/01/2024 20:16,Bakery,FALSE
+956,milk,07/01/2024 20:16,Dairy & Alternatives,FALSE
+956,banana,07/01/2024 20:16,Fruits & Vegetables,FALSE
+957,butter,11/01/2024 5:32,Dairy & Alternatives,FALSE
+957,coke,11/01/2024 5:32,Beverages,FALSE
+958,bread,19/01/2024 19:42,Bakery,FALSE
+959,chicken,21/01/2024 14:37,Meat & Seafood,FALSE
+959,eggs,21/01/2024 14:37,Dairy & Alternatives,FALSE
+959,soap,21/01/2024 14:37,Personal Care,FALSE
+959,apple,21/01/2024 14:37,Fruits & Vegetables,FALSE
+960,apple,25/01/2024 5:50,Fruits & Vegetables,FALSE
+960,chicken,25/01/2024 5:50,Meat & Seafood,FALSE
+960,pasta,25/01/2024 5:50,Pantry Staples,FALSE
+960,eggs,25/01/2024 5:50,Dairy & Alternatives,FALSE
+960,shampoo,25/01/2024 5:50,Personal Care,FALSE
+961,apple,22/01/2024 4:46,Fruits & Vegetables,TRUE
+961,butter,22/01/2024 4:46,Dairy & Alternatives,FALSE
+962,coke,13/01/2024 18:03,Beverages,FALSE
+962,bread,13/01/2024 18:03,Bakery,TRUE
+962,detergent,13/01/2024 18:03,Household Supplies,FALSE
+962,cheese,13/01/2024 18:03,Dairy & Alternatives,FALSE
+962,beef,13/01/2024 18:03,Meat & Seafood,FALSE
+963,bread,30/01/2024 20:21,Bakery,FALSE
+963,eggs,30/01/2024 20:21,Dairy & Alternatives,FALSE
+963,milk,30/01/2024 20:21,Dairy & Alternatives,FALSE
+964,detergent,30/01/2024 15:54,Household Supplies,FALSE
+964,coke,30/01/2024 15:54,Beverages,FALSE
+965,cheese,14/01/2024 22:22,Dairy & Alternatives,FALSE
+965,apple,14/01/2024 22:22,Fruits & Vegetables,FALSE
+966,banana,13/01/2024 6:10,Fruits & Vegetables,FALSE
+966,shampoo,13/01/2024 6:10,Personal Care,FALSE
+967,banana,17/01/2024 10:02,Fruits & Vegetables,FALSE
+967,detergent,17/01/2024 10:02,Household Supplies,FALSE
+968,cereal,06/01/2024 23:24,Breakfast & Grains,FALSE
+968,milk,06/01/2024 23:24,Dairy & Alternatives,FALSE
+969,coke,31/01/2024 1:07,Beverages,FALSE
+969,pepsi,31/01/2024 1:07,Beverages,FALSE
+970,paper towels,29/01/2024 6:00,Household Supplies,FALSE
+970,cheese,29/01/2024 6:00,Dairy & Alternatives,FALSE
+970,eggs,29/01/2024 6:00,Dairy & Alternatives,FALSE
+971,milk,25/01/2024 0:14,Dairy & Alternatives,FALSE
+971,cereal,25/01/2024 0:14,Breakfast & Grains,FALSE
+972,pasta,24/01/2024 20:13,Pantry Staples,FALSE
+973,bread,04/01/2024 2:30,Bakery,TRUE
+973,coke,04/01/2024 2:30,Beverages,FALSE
+973,banana,04/01/2024 2:30,Fruits & Vegetables,FALSE
+973,milk,04/01/2024 2:30,Dairy & Alternatives,FALSE
+974,pepsi,24/01/2024 23:30,Beverages,FALSE
+974,apple,24/01/2024 23:30,Fruits & Vegetables,FALSE
+975,yogurt,19/01/2024 20:31,Dairy & Alternatives,FALSE
+975,coke,19/01/2024 20:31,Beverages,FALSE
+975,shampoo,19/01/2024 20:31,Personal Care,TRUE
+975,eggs,19/01/2024 20:31,Dairy & Alternatives,FALSE
+976,eggs,08/01/2024 5:57,Dairy & Alternatives,FALSE
+976,shampoo,08/01/2024 5:57,Personal Care,FALSE
+976,butter,08/01/2024 5:57,Dairy & Alternatives,FALSE
+976,bread,08/01/2024 5:57,Bakery,FALSE
+976,soap,08/01/2024 5:57,Personal Care,FALSE
+977,apple,06/01/2024 7:39,Fruits & Vegetables,FALSE
+978,detergent,11/01/2024 11:03,Household Supplies,FALSE
+978,cheese,11/01/2024 11:03,Dairy & Alternatives,FALSE
+979,shampoo,20/01/2024 10:53,Personal Care,FALSE
+979,detergent,20/01/2024 10:53,Household Supplies,FALSE
+980,rice,02/01/2024 13:09,Pantry Staples,FALSE
+980,milk,02/01/2024 13:09,Dairy & Alternatives,FALSE
+980,apple,02/01/2024 13:09,Fruits & Vegetables,FALSE
+981,eggs,12/01/2024 6:13,Dairy & Alternatives,FALSE
+982,cereal,27/01/2024 18:33,Breakfast & Grains,FALSE
+982,eggs,27/01/2024 18:33,Dairy & Alternatives,FALSE
+982,beef,27/01/2024 18:33,Meat & Seafood,FALSE
+983,yogurt,25/01/2024 9:19,Dairy & Alternatives,FALSE
+983,cheese,25/01/2024 9:19,Dairy & Alternatives,FALSE
+983,soap,25/01/2024 9:19,Personal Care,FALSE
+984,beef,22/01/2024 12:12,Meat & Seafood,FALSE
+984,yogurt,22/01/2024 12:12,Dairy & Alternatives,FALSE
+985,beef,15/01/2024 18:09,Meat & Seafood,FALSE
+985,bread,15/01/2024 18:09,Bakery,FALSE
+986,coke,21/01/2024 21:41,Beverages,FALSE
+986,banana,21/01/2024 21:41,Fruits & Vegetables,FALSE
+986,butter,21/01/2024 21:41,Dairy & Alternatives,FALSE
+986,cereal,21/01/2024 21:41,Breakfast & Grains,FALSE
+987,beef,17/01/2024 15:44,Meat & Seafood,FALSE
+987,chicken,17/01/2024 15:44,Meat & Seafood,FALSE
+987,eggs,17/01/2024 15:44,Dairy & Alternatives,FALSE
+987,detergent,17/01/2024 15:44,Household Supplies,FALSE
+987,pasta,17/01/2024 15:44,Pantry Staples,FALSE
+988,milk,09/01/2024 5:34,Dairy & Alternatives,FALSE
+988,cheese,09/01/2024 5:34,Dairy & Alternatives,FALSE
+988,beef,09/01/2024 5:34,Meat & Seafood,FALSE
+988,rice,09/01/2024 5:34,Pantry Staples,FALSE
+988,paper towels,09/01/2024 5:34,Household Supplies,FALSE
+989,bread,22/01/2024 7:33,Bakery,FALSE
+989,cereal,22/01/2024 7:33,Breakfast & Grains,FALSE
+990,detergent,10/01/2024 5:12,Household Supplies,FALSE
+991,butter,05/01/2024 18:23,Dairy & Alternatives,FALSE
+992,shampoo,03/01/2024 20:42,Personal Care,FALSE
+993,shampoo,28/01/2024 13:20,Personal Care,FALSE
+994,butter,04/01/2024 14:18,Dairy & Alternatives,FALSE
+994,yogurt,04/01/2024 14:18,Dairy & Alternatives,FALSE
+994,apple,04/01/2024 14:18,Fruits & Vegetables,FALSE
+994,paper towels,04/01/2024 14:18,Household Supplies,FALSE
+994,beef,04/01/2024 14:18,Meat & Seafood,FALSE
+995,cereal,27/01/2024 7:28,Breakfast & Grains,FALSE
+995,banana,27/01/2024 7:28,Fruits & Vegetables,FALSE
+995,eggs,27/01/2024 7:28,Dairy & Alternatives,FALSE
+995,bread,27/01/2024 7:28,Bakery,FALSE
+996,paper towels,23/01/2024 5:46,Household Supplies,FALSE
+996,coke,23/01/2024 5:46,Beverages,FALSE
+996,detergent,23/01/2024 5:46,Household Supplies,FALSE
+996,bread,23/01/2024 5:46,Bakery,TRUE
+996,milk,23/01/2024 5:46,Dairy & Alternatives,FALSE
+997,pasta,09/01/2024 8:49,Pantry Staples,FALSE
+997,cereal,09/01/2024 8:49,Breakfast & Grains,FALSE
+997,cheese,09/01/2024 8:49,Dairy & Alternatives,FALSE
+997,detergent,09/01/2024 8:49,Household Supplies,FALSE
+997,rice,09/01/2024 8:49,Pantry Staples,FALSE
+998,butter,31/01/2024 18:14,Dairy & Alternatives,FALSE
+998,milk,31/01/2024 18:14,Dairy & Alternatives,FALSE
+998,soap,31/01/2024 18:14,Personal Care,FALSE
+999,eggs,31/01/2024 8:06,Dairy & Alternatives,TRUE
+1000,pepsi,03/01/2024 16:50,Beverages,FALSE
+1000,milk,03/01/2024 16:50,Dairy & Alternatives,FALSE
+1000,cereal,03/01/2024 16:50,Breakfast & Grains,FALSE
