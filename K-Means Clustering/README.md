@@ -66,3 +66,13 @@ We then applied K-means clustering:
     - It’s a way to plot the clustering error for different values of K (number of clusters), and find the point where the improvement slows down (rate of decrease in clustering error), which we call the _elbow_
 - trained the K-means model on the scaled data with the engineering and preprocessed features
 - assigned a cluster label to each user
+<br>
+
+## Persona Insights
+
+| Cluster ID | Persona Name     | % of Users | Key Behavioral Traits                                       | 
+|------------|------------------|-------------|--------------------------------------------------------------|
+| 0          | Power Users       | 35%         | - **_Longtime users_**: ~800 days since signup<br>- **_High financial activity_**: High total_ledger_amount, num_transactions, and num_contacts<br>- **_Quick to engage after signup_**: Lower days_to_first_contact/entry/transaction<br>- **_Possibly high value users_**: Very high net_ledger_balance<br>- **_Engaging across multiple app features_**: App breadth score is also highest          | 
+| 1          | Low Engaged       | 40%         | - **_Slow to get started_**: Very high days_to_first_contact/entry/transaction<br>- **_Low frequency of trasactions_**: High ledger_entry_frequency_days, low num_contacts/transactions<br>- **_Minimal engagement beyond basic app use-case_**: Lowest app_breadth_score    | 
+| 2          | Light Users  | 25%         | - **_Recent users_**: Low days since signup (~200-300)<br>- **_Haven’t done much yet_**: Low total_ledger_amount and num_transactions<br>- **_Lower app_breadth_score (but better than Cluster 1)_** <br>- **_A bit more engaged than Cluster 1, but not nearly as active as Cluster 0_**: Medium values across most metrics<br>- **_Somewhat engaged, but not deep yet_** | 
+
