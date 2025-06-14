@@ -1,4 +1,4 @@
-## What is User Segmentation via K-means Clustering?
+## What is K-means Clustering?
 K-means clustering is an unsupervised machine learning algorithm for user segmentation that allows us to group users into distinct behavioral personas based on patterns in how they interact with a product. This helps us understand how different types of users behave so that we can move beyond treating everyone the same and instead build targeted strategies for marketing, onboarding, engagement, retention, etc.
 
 In this project, we used K-means clustering to analyze user behavior in a fintech app and identify meaningful personas based on usage, feature adoption, and engagement patterns.
@@ -70,7 +70,7 @@ We then applied K-means clustering:
 
 ## Persona Insights
 
-| Cluster ID | Persona Name     | % of Users | Key Behavioral Traits                                       | 
+| Cluster    | Persona Name     | % of Users | Key Behavioral Traits                                       | 
 |------------|------------------|-------------|--------------------------------------------------------------|
 | 0          | Power Users       | 35%         | - **_Longtime users_**: ~800 days since signup<br>- **_High financial activity_**: High total_ledger_amount, num_transactions, and num_contacts<br>- **_Quick to engage after signup_**: Lower days_to_first_contact/entry/transaction<br>- **_Possibly high value users_**: Very high net_ledger_balance<br>- **_Engaging across multiple app features_**: App breadth score is also highest          | 
 | 1          | Low Engaged       | 40%         | - **_Slow to get started_**: Very high days_to_first_contact/entry/transaction<br>- **_Low frequency of trasactions_**: High ledger_entry_frequency_days, low num_contacts/transactions<br>- **_Minimal engagement beyond basic app use-case_**: Lowest app_breadth_score    | 
