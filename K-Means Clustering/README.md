@@ -5,7 +5,7 @@ In this project, we used K-means clustering to analyze user behavior in a fintec
 <br>
 <br>
 
-## Project Objectives
+## Project Overview
 - Engineer a relevant set of behavioral and transactional features
 - Explore and preprocess the data before clustering
 - Apply K-means and determine the optimal number of clusters
